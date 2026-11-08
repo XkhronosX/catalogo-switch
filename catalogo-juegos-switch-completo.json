@@ -629,7 +629,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Castlevania Anniversary Collection [01001A800D6BC000][v0].nsp"
+      "path": "/d/Castlevania Anniversary Collection [01001A800D6BC000][v0].nsp",
+      "image": "images/01001A800D6BC000.png"
     },
     {
       "name": "Castlevania Anniversary Collection",
@@ -645,7 +646,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Contra Anniversary Collection [0100DCA00DA7E000][v0].nsp"
+      "path": "/d/Contra Anniversary Collection [0100DCA00DA7E000][v0].nsp",
+      "image": "images/0100DCA00DA7E000.png"
     },
     {
       "name": "Contra Anniversary Collection",
@@ -661,7 +663,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Contra Rogue Corps [0100F2600D710000][v0].nsp"
+      "path": "/d/Contra Rogue Corps [0100F2600D710000][v0].nsp",
+      "image": "images/0100F2600D710000.png"
     },
     {
       "name": "Contra Rogue Corps",
@@ -685,7 +688,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Crash Bandicoot N. Sane Trilogy [0100D1B006744000][v0].nsp"
+      "path": "/d/Crash Bandicoot N. Sane Trilogy [0100D1B006744000][v0].nsp",
+      "image": "images/0100D1B006744000.png"
     },
     {
       "name": "Cruis n Blast",
@@ -701,7 +705,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Cry Babies Magic Tears The Big Game [0100A1201B82A000][v0].nsp"
+      "path": "/d/Cry Babies Magic Tears The Big Game [0100A1201B82A000][v0].nsp",
+      "image": "images/0100A1201B82A000.png"
     },
     {
       "name": "Crypt of the NecroDancer Nintendo Switch Edition (1.0.5)",
@@ -901,7 +906,8 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 [0100AD80208A8000][v0].xci"
+      "path": "/d/Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 [0100AD80208A8000][v0].xci",
+      "image": "images/0100AD80208A8000.png"
     },
     {
       "name": "DevMenu6",
@@ -917,7 +923,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Diablo III: Eternal Collection [01001B300B9BE000][v0][Base].nsp"
+      "path": "/d/Diablo III: Eternal Collection [01001B300B9BE000][v0][Base].nsp",
+      "image": "images/01001B300B9BE000.png"
     },
     {
       "name": "Disney Epic Mickey Rebrushed",
@@ -1045,7 +1052,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Dying Light: Definitive Edition [01008C8012920000][v0][Base].nsp"
+      "path": "/d/Dying Light: Definitive Edition [01008C8012920000][v0][Base].nsp",
+      "image": "images/01008C8012920000.png"
     },
     {
       "name": "Dying Light: Definitive Edition [1.0.5][UPD]",
@@ -1093,7 +1101,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/FAIRY TAIL 2 [0100B9801F872000][v0][US].nsp"
+      "path": "/d/FAIRY TAIL 2 [0100B9801F872000][v0][US].nsp",
+      "image": "images/0100B9801F872000.png"
     },
     {
       "name": "FIFA 18 [0100f7b002340000]",
@@ -1221,7 +1230,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Fairy Tail [0100CF900FA3E000][v0].nsp"
+      "path": "/d/Fairy Tail [0100CF900FA3E000][v0].nsp",
+      "image": "images/0100CF900FA3E000.png"
     },
     {
       "name": "sxs-fairy_tail_additional_dungeon_fairy_tailrift_in_time_and_spacefairy_tail_dlc_0100cf900fa3f044",
@@ -1845,7 +1855,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Fire Emblem Warriors Three Hopes [010071F0143EA000][v0][US].nsp"
+      "path": "/d/Fire Emblem Warriors Three Hopes [010071F0143EA000][v0][US].nsp",
+      "image": "images/010071F0143EA000.png"
     },
     {
       "name": "Fire Emblem Warriors Three Hopes [US]",
@@ -1869,7 +1880,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Five Nights at Freddy's 2 [01004EB00E43A000][v0].nsp"
+      "path": "/d/Five Nights at Freddy's 2 [01004EB00E43A000][v0].nsp",
+      "image": "images/01004EB00E43A000.png"
     },
     {
       "name": "Five Nights at Freddy's 3",
@@ -1877,7 +1889,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Five Nights at Freddy's 3 [010056100E43C000][v0].nsp"
+      "path": "/d/Five Nights at Freddy's 3 [010056100E43C000][v0].nsp",
+      "image": "images/010056100E43C000.png"
     },
     {
       "name": "Five Nights at Freddy's 3",
@@ -1893,7 +1906,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Five Nights at Freddy's 4 [010083800E43E000][v0].nsp"
+      "path": "/d/Five Nights at Freddy's 4 [010083800E43E000][v0].nsp",
+      "image": "images/010083800E43E000.png"
     },
     {
       "name": "Five Nights at Freddy's 4",
@@ -1909,7 +1923,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Five Nights at Freddy's Help Wanted [0100F7901118C000][v0].nsp"
+      "path": "/d/Five Nights at Freddy's Help Wanted [0100F7901118C000][v0].nsp",
+      "image": "images/0100F7901118C000.png"
     },
     {
       "name": "Five Nights at Freddy's",
@@ -1917,7 +1932,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Five Nights at Freddy's [0100B6200D8D2000][v0].nsp"
+      "path": "/d/Five Nights at Freddy's [0100B6200D8D2000][v0].nsp",
+      "image": "images/0100B6200D8D2000.png"
     },
     {
       "name": "Five Nights at Freddys Security Breach",
@@ -1933,7 +1949,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Five Nights at Freddys Sister Location [01003B200E440000][v0].nsp"
+      "path": "/d/Five Nights at Freddys Sister Location [01003B200E440000][v0].nsp",
+      "image": "images/01003B200E440000.png"
     },
     {
       "name": "Five Nights at Freddys Sister Location",
@@ -2117,7 +2134,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Hunting Simulator [0100C460040EA000][v0].nsp"
+      "path": "/d/Hunting Simulator [0100C460040EA000][v0].nsp",
+      "image": "images/0100C460040EA000.png"
     },
     {
       "name": "Hyrule Warriors Age of Calamity",
@@ -2197,7 +2215,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/JUMP FORCE - Deluxe Edition [JUMP FORCE Early Purchase Bonus][0100183010F13065][US][v0].nsp"
+      "path": "/d/JUMP FORCE - Deluxe Edition [JUMP FORCE Early Purchase Bonus][0100183010F13065][US][v0].nsp",
+      "image": "images/0100183010F13065.png"
     },
     {
       "name": "JUMP FORCE - Deluxe Edition [JUMP FORCE Early Purchase Bonus][US]",
@@ -2205,7 +2224,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/JUMP FORCE - Deluxe Edition [JUMP FORCE Early Purchase Bonus][0100183010F1306C][US][v0].nsp"
+      "path": "/d/JUMP FORCE - Deluxe Edition [JUMP FORCE Early Purchase Bonus][0100183010F1306C][US][v0].nsp",
+      "image": "images/0100183010F1306C.png"
     },
     {
       "name": "JUMP FORCE Character Pack 10 Shoto Todoroki[US]",
@@ -2221,7 +2241,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/JUMP FORCE Deluxe Edition [0100183010F12000][v0](US).nsp"
+      "path": "/d/JUMP FORCE Deluxe Edition [0100183010F12000][v0](US).nsp",
+      "image": "images/0100183010F12000.png"
     },
     {
       "name": "Jujutsu Kaisen Cursed Clash [DLC 1]",
@@ -2269,7 +2290,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/KINGDOM HEARTS Melody of Memory [01005D2011EA8000][v0](US-EU).nsp"
+      "path": "/d/KINGDOM HEARTS Melody of Memory [01005D2011EA8000][v0](US-EU).nsp",
+      "image": "images/01005D2011EA8000.png"
     },
     {
       "name": "L0LLIP0P CHAINS@W RePOP.v1.1",
@@ -2285,7 +2307,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/LEGO Star Wars The Skywalker Saga [010042D00D900000][v0].nsp"
+      "path": "/d/LEGO Star Wars The Skywalker Saga [010042D00D900000][v0].nsp",
+      "image": "images/010042D00D900000.png"
     },
     {
       "name": "LEGO Star Wars The Skywalker Saga [US]",
@@ -2317,7 +2340,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Little Friends: Dogs & Cats [010079A00D9E8000][v0][Base].nsp"
+      "path": "/d/Little Friends: Dogs & Cats [010079A00D9E8000][v0][Base].nsp",
+      "image": "images/010079A00D9E8000.png"
     },
     {
       "name": "Little Friends: Puppy Island [Base]",
@@ -2333,7 +2357,8 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Little Nightmares III [010066101A55A000].xci"
+      "path": "/d/Little Nightmares III [010066101A55A000].xci",
+      "image": "images/010066101A55A000.png"
     },
     {
       "name": "METAL GEAR SOLID - Master Collection Version [UPD3.0.0][US]",
@@ -2349,7 +2374,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/METAL GEAR SOLID 1 - Master Collection Version [0100C1301A9C2000][v0].nsp"
+      "path": "/d/METAL GEAR SOLID 1 - Master Collection Version [0100C1301A9C2000][v0].nsp",
+      "image": "images/0100C1301A9C2000.png"
     },
     {
       "name": "Mario + Rabbids Sparks of Hope v1.6.2225577+7dlc",
@@ -2525,7 +2551,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Minecraft Story Mode - The Complete Adventure [010059C002AC2000][v0].nsp"
+      "path": "/d/Minecraft Story Mode - The Complete Adventure [010059C002AC2000][v0].nsp",
+      "image": "images/010059C002AC2000.png"
     },
     {
       "name": "Minecraft [1.26.44][UPD]",
@@ -2557,7 +2584,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Mortal Kombat 1 [01006560184E6000][v0] (5.87 GB).nsp"
+      "path": "/d/Mortal Kombat 1 [01006560184E6000][v0] (5.87 GB).nsp",
+      "image": "images/01006560184E6000.png"
     },
     {
       "name": "Mortal Kombat 1",
@@ -2581,7 +2609,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/NARUTO SHIPPUDEN Ultimate Ninja Storm Trilogy [0100EC800800C000][v0].nsp"
+      "path": "/d/NARUTO SHIPPUDEN Ultimate Ninja Storm Trilogy [0100EC800800C000][v0].nsp",
+      "image": "images/0100EC800800C000.png"
     },
     {
       "name": "NARUTO SHIPPUDEN Ultimate Ninja Storm Trilogy",
@@ -2653,7 +2682,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS [NBUNSC - Kakashi Hatake Maskless] [0100D2D0190A5005][v0].nsp"
+      "path": "/d/NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS [NBUNSC - Kakashi Hatake Maskless] [0100D2D0190A5005][v0].nsp",
+      "image": "images/0100D2D0190A5005.png"
     },
     {
       "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS [NBUNSC - Naruto Uzumaki The Great Ninja War End]",
@@ -2661,7 +2691,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS [NBUNSC - Naruto Uzumaki The Great Ninja War End] [0100D2D0190A5006][v0].nsp"
+      "path": "/d/NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS [NBUNSC - Naruto Uzumaki The Great Ninja War End] [0100D2D0190A5006][v0].nsp",
+      "image": "images/0100D2D0190A5006.png"
     },
     {
       "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS [NBUNSC - Pre-Order Pack]",
@@ -2725,7 +2756,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Nintendo Entertainment System - Nintendo Switch Online [0100D870045B6000][v0].nsp"
+      "path": "/d/Nintendo Entertainment System - Nintendo Switch Online [0100D870045B6000][v0].nsp",
+      "image": "images/0100D870045B6000.png"
     },
     {
       "name": "Nintendo NES Nintendo Switch Online [v6.8.0 -V1]",
@@ -2773,7 +2805,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Octopath Traveler [010057D006492000][v0].nsp"
+      "path": "/d/Octopath Traveler [010057D006492000][v0].nsp",
+      "image": "images/010057D006492000.png"
     },
     {
       "name": "Octopath Traveler",
@@ -2797,7 +2830,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Ori and the Blind Forest Definitive Edition [010061D00DB74000][v0].nsp"
+      "path": "/d/Ori and the Blind Forest Definitive Edition [010061D00DB74000][v0].nsp",
+      "image": "images/010061D00DB74000.png"
     },
     {
       "name": "Ori and the Blind Forest Definitive Edition",
@@ -2861,7 +2895,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Overcooked Special Edition [01009B900401E000].nsp"
+      "path": "/d/Overcooked Special Edition [01009B900401E000].nsp",
+      "image": "images/01009B900401E000.png"
     },
     {
       "name": "Overcooked Special Edition",
@@ -3149,7 +3184,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Pokemon Sword [0100ABF008968000][v0] (9.53 GB).nsp"
+      "path": "/d/Pokemon Sword [0100ABF008968000][v0] (9.53 GB).nsp",
+      "image": "images/0100ABF008968000.png"
     },
     {
       "name": "Pokemon_Brilliant_Diamond_0100000011D90800v393216_2_55_GB",
@@ -3397,7 +3433,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Resident Evil 6 [01002A000CD48000][USA][v0](eShop).nsp"
+      "path": "/d/Resident Evil 6 [01002A000CD48000][USA][v0](eShop).nsp",
+      "image": "images/01002A000CD48000.png"
     },
     {
       "name": "River City Girls Complete Edition",
@@ -3405,7 +3442,8 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/River City Girls Complete Edition [0100B740191E2000].xci"
+      "path": "/d/River City Girls Complete Edition [0100B740191E2000].xci",
+      "image": "images/0100B740191E2000.png"
     },
     {
       "name": "S+M+3D+All-S.by.farenheith v1.1.1",
@@ -3613,7 +3651,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Super Nintendo Entertainment System - Nintendo Switch Online [01008D300C50C000][v0].nsp"
+      "path": "/d/Super Nintendo Entertainment System - Nintendo Switch Online [01008D300C50C000][v0].nsp",
+      "image": "images/01008D300C50C000.png"
     },
     {
       "name": "Super Smash Bros Ultimate",
@@ -6165,7 +6204,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Teenage Mutant Ninja Turtles The Cowabunga Collection [0100FDB0154E4000][v0].nsp"
+      "path": "/d/Teenage Mutant Ninja Turtles The Cowabunga Collection [0100FDB0154E4000][v0].nsp",
+      "image": "images/0100FDB0154E4000.png"
     },
     {
       "name": "Teenage_Mutant_Ninja_Turtles_Arcade_Wrath_of_the_Mutants_0100C7",
@@ -6397,7 +6437,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/WarioWare Move It! [010045B018EC2000][USA][v0].nsp"
+      "path": "/d/WarioWare Move It! [010045B018EC2000][USA][v0].nsp",
+      "image": "images/010045B018EC2000.png"
     },
     {
       "name": "Xenoblade Chronicles 3",
@@ -6413,7 +6454,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Xenoblade Chronicles X Definitive Edition [0100453019AA8000][v0].nsp"
+      "path": "/d/Xenoblade Chronicles X Definitive Edition [0100453019AA8000][v0].nsp",
+      "image": "images/0100453019AA8000.png"
     },
     {
       "name": "Xenoblade_Chronicles_X_Definitive_Edition_0100453019AA8800v65536",
@@ -6429,7 +6471,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Yu-Gi-Oh Early Days Collection [01000D001FF18000][v0].nsp"
+      "path": "/d/Yu-Gi-Oh Early Days Collection [01000D001FF18000][v0].nsp",
+      "image": "images/01000D001FF18000.png"
     },
     {
       "name": "Yu-Gi-Oh Early Days Collection",
@@ -6445,7 +6488,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Yu-Gi-Oh! RUSH DUEL Dawn of the Battle Royale!! [0100261015BE2000][v0] (3.04 GB).nsp"
+      "path": "/d/Yu-Gi-Oh! RUSH DUEL Dawn of the Battle Royale!! [0100261015BE2000][v0] (3.04 GB).nsp",
+      "image": "images/0100261015BE2000.png"
     },
     {
       "name": "Yu_Gi_Oh!_Legacy_of_the_Duelist_Link_Evolution_010022400BE5A000v0",
@@ -6725,7 +6769,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/ACA NEOGEO Money Puzzle Exchanger [010038f00afa0000][v0].nsp"
+      "path": "/e/ACA NEOGEO Money Puzzle Exchanger [010038f00afa0000][v0].nsp",
+      "image": "images/010038F00AFA0000.png"
     },
     {
       "name": "ACA NEOGEO NEO TURF MASTERS [01002e70032e8000]",
@@ -6733,7 +6778,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/ACA NEOGEO NEO TURF MASTERS/ACA NEOGEO NEO TURF MASTERS [01002e70032e8000][v0].nsp"
+      "path": "/e/ACA NEOGEO NEO TURF MASTERS/ACA NEOGEO NEO TURF MASTERS [01002e70032e8000][v0].nsp",
+      "image": "images/01002E70032E8000.png"
     },
     {
       "name": "ACA NEOGEO NEO TURF MASTERS [UPD][01002e70032e8800]",
@@ -6757,7 +6803,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/ACA NEOGEO SAMURAI SHODOWN IV [010047f001dbc000][v0].nsp"
+      "path": "/e/ACA NEOGEO SAMURAI SHODOWN IV [010047f001dbc000][v0].nsp",
+      "image": "images/010047F001DBC000.png"
     },
     {
       "name": "ACA NEOGEO SAMURAI SHODOWN [01005c9002b42000]",
@@ -6765,7 +6812,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/ACA NEOGEO SAMURAI SHODOWN [01005c9002b42000][v0].nsp"
+      "path": "/e/ACA NEOGEO SAMURAI SHODOWN [01005c9002b42000][v0].nsp",
+      "image": "images/01005C9002B42000.png"
     },
     {
       "name": "ACA NEOGEO SENGOKU 2 [01009b300872a000]",
@@ -6781,7 +6829,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/ACA NEOGEO SHOCK TROOPERS/ACA NEOGEO SHOCK TROOPERS [01008a9001dc2000][v0].nsp"
+      "path": "/e/ACA NEOGEO SHOCK TROOPERS/ACA NEOGEO SHOCK TROOPERS [01008a9001dc2000][v0].nsp",
+      "image": "images/01008A9001DC2000.png"
     },
     {
       "name": "ACA NEOGEO SHOCK TROOPERS [UPD][01008a9001dc2800]",
@@ -6805,7 +6854,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/ACA NEOGEO SUPER SIDEKICKS 2/ACA NEOGEO SUPER SIDEKICKS 2 [010055a00a300000][v0].nsp"
+      "path": "/e/ACA NEOGEO SUPER SIDEKICKS 2/ACA NEOGEO SUPER SIDEKICKS 2 [010055a00a300000][v0].nsp",
+      "image": "images/010055A00A300000.png"
     },
     {
       "name": "ACA NEOGEO SUPER SIDEKICKS 2 [UPD][010055a00a300800]",
@@ -6821,7 +6871,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/ACA NEOGEO SUPER SIDEKICKS 3  THE NEXT GLORY/ACA NEOGEO SUPER SIDEKICKS 3  THE NEXT GLORY [0100a4d00a308000][v0].nsp"
+      "path": "/e/ACA NEOGEO SUPER SIDEKICKS 3  THE NEXT GLORY/ACA NEOGEO SUPER SIDEKICKS 3  THE NEXT GLORY [0100a4d00a308000][v0].nsp",
+      "image": "images/0100A4D00A308000.png"
     },
     {
       "name": "ACA NEOGEO SUPER SIDEKICKS 3",
@@ -6837,7 +6888,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/ACA NEOGEO THE KING OF FIGHTERS '94 [0100eb2001dcc000][v0].nsp"
+      "path": "/e/ACA NEOGEO THE KING OF FIGHTERS '94 [0100eb2001dcc000][v0].nsp",
+      "image": "images/0100EB2001DCC000.png"
     },
     {
       "name": "ACA NEOGEO THE KING OF FIGHTERS '95 [01009dc001db6000]",
@@ -6845,7 +6897,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/ACA NEOGEO THE KING OF FIGHTERS '95/ACA NEOGEO THE KING OF FIGHTERS '95 [01009dc001db6000][v0].nsp"
+      "path": "/e/ACA NEOGEO THE KING OF FIGHTERS '95/ACA NEOGEO THE KING OF FIGHTERS '95 [01009dc001db6000][v0].nsp",
+      "image": "images/01009DC001DB6000.png"
     },
     {
       "name": "ACA NEOGEO THE KING OF FIGHTERS '95 [UPD][01009dc001db6800]",
@@ -6861,7 +6914,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/ACA NEOGEO THE KING OF FIGHTERS '96 [01006f0004fb4000][v0].nsp"
+      "path": "/e/ACA NEOGEO THE KING OF FIGHTERS '96 [01006f0004fb4000][v0].nsp",
+      "image": "images/01006F0004FB4000.png"
     },
     {
       "name": "ACA NEOGEO THE KING OF FIGHTERS '97",
@@ -6869,7 +6923,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/ACA NEOGEO THE KING OF FIGHTERS '97 [0100170008728000][v0].nsp"
+      "path": "/e/ACA NEOGEO THE KING OF FIGHTERS '97 [0100170008728000][v0].nsp",
+      "image": "images/0100170008728000.png"
     },
     {
       "name": "ACA NEOGEO THE KING OF FIGHTERS '98 [0100b42001db4000]",
@@ -6877,7 +6932,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/ACA NEOGEO THE KING OF FIGHTERS '98/ACA NEOGEO THE KING OF FIGHTERS '98 [0100b42001db4000][v0].nsp"
+      "path": "/e/ACA NEOGEO THE KING OF FIGHTERS '98/ACA NEOGEO THE KING OF FIGHTERS '98 [0100b42001db4000][v0].nsp",
+      "image": "images/0100B42001DB4000.png"
     },
     {
       "name": "ACA NEOGEO THE KING OF FIGHTERS '98 [UPD][0100b42001db4800]",
@@ -6893,7 +6949,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/ACA NEOGEO THE KING OF FIGHTERS '99 [0100583001dca000][v0].nsp"
+      "path": "/e/ACA NEOGEO THE KING OF FIGHTERS '99 [0100583001dca000][v0].nsp",
+      "image": "images/0100583001DCA000.png"
     },
     {
       "name": "ACA NEOGEO THE KING OF FIGHTERS 2000 [0100b97002b44000]",
@@ -6901,7 +6958,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/ACA NEOGEO THE KING OF FIGHTERS 2000 [0100b97002b44000][v0].nsp"
+      "path": "/e/ACA NEOGEO THE KING OF FIGHTERS 2000 [0100b97002b44000][v0].nsp",
+      "image": "images/0100B97002B44000.png"
     },
     {
       "name": "ACA NEOGEO THE LAST BLADE 2",
@@ -6909,7 +6967,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/ACA NEOGEO THE LAST BLADE 2 [0100699008792000][v0].nsp"
+      "path": "/e/ACA NEOGEO THE LAST BLADE 2 [0100699008792000][v0].nsp",
+      "image": "images/0100699008792000.png"
     },
     {
       "name": "ACA NEOGEO THE SUPER SPY [0100f7f00afa2000]",
@@ -6917,7 +6976,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/ACA NEOGEO THE SUPER SPY [0100f7f00afa2000][v0].nsp"
+      "path": "/e/ACA NEOGEO THE SUPER SPY [0100f7f00afa2000][v0].nsp",
+      "image": "images/0100F7F00AFA2000.png"
     },
     {
       "name": "ACA NEOGEO WAKU WAKU 7 [0100cef001dc0000]",
@@ -6941,7 +7001,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/ACA NEOGEO WORLD HEROES PERFECT/ACA NEOGEO WORLD HEROES PERFECT [01009d4001dc4000][v0].nsp"
+      "path": "/e/ACA NEOGEO WORLD HEROES PERFECT/ACA NEOGEO WORLD HEROES PERFECT [01009d4001dc4000][v0].nsp",
+      "image": "images/01009D4001DC4000.png"
     },
     {
       "name": "ACA NEOGEO WORLD HEROES PERFECT [UPD][01009d4001dc4800]",
@@ -7053,7 +7114,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives 10-Yard Fight/Arcade Archives 10-Yard Fight [0100be80097fa000][v0].nsp"
+      "path": "/e/Arcade Archives 10-Yard Fight/Arcade Archives 10-Yard Fight [0100be80097fa000][v0].nsp",
+      "image": "images/0100BE80097FA000.png"
     },
     {
       "name": "Arcade Archives 10-Yard Fight [UPD][0100be80097fa800]",
@@ -7069,7 +7131,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives CRAZY CLIMBER [0100bb1001dd6000][v0].nsp"
+      "path": "/e/Arcade Archives CRAZY CLIMBER [0100bb1001dd6000][v0].nsp",
+      "image": "images/0100BB1001DD6000.png"
     },
     {
       "name": "Arcade Archives City Connection [010007a00980c000]",
@@ -7077,7 +7140,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives City Connection/Arcade Archives City Connection [010007a00980c000][v0].nsp"
+      "path": "/e/Arcade Archives City Connection/Arcade Archives City Connection [010007a00980c000][v0].nsp",
+      "image": "images/010007A00980C000.png"
     },
     {
       "name": "Arcade Archives City Connection [UPD][010007a00980c800]",
@@ -7093,7 +7157,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives DONKEY KONG [0100e9e00b052000][v0].nsp"
+      "path": "/e/Arcade Archives DONKEY KONG [0100e9e00b052000][v0].nsp",
+      "image": "images/0100E9E00B052000.png"
     },
     {
       "name": "Arcade Archives DOUBLE DRAGON [0100f25001dd0000]",
@@ -7101,7 +7166,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives DOUBLE DRAGON [0100f25001dd0000][v0].nsp"
+      "path": "/e/Arcade Archives DOUBLE DRAGON [0100f25001dd0000][v0].nsp",
+      "image": "images/0100F25001DD0000.png"
     },
     {
       "name": "Arcade Archives HEROIC EPISODE US",
@@ -7109,7 +7175,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives HEROIC EPISODE US [01009A4008A30000][v0].nsp"
+      "path": "/e/Arcade Archives HEROIC EPISODE US [01009A4008A30000][v0].nsp",
+      "image": "images/01009A4008A30000.png"
     },
     {
       "name": "Arcade Archives Ikki US",
@@ -7125,7 +7192,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives Kid Niki Radical Ninja US [010010B008A36000][v0].nsp"
+      "path": "/e/Arcade Archives Kid Niki Radical Ninja US [010010B008A36000][v0].nsp",
+      "image": "images/010010B008A36000.png"
     },
     {
       "name": "Arcade Archives Kid's Horehore Daisakusen US",
@@ -7133,7 +7201,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives Kid's Horehore Daisakusen US [0100E7C001DE0000][v0].nsp"
+      "path": "/e/Arcade Archives Kid's Horehore Daisakusen US [0100E7C001DE0000][v0].nsp",
+      "image": "images/0100E7C001DE0000.png"
     },
     {
       "name": "Arcade Archives MOON PATROL [01003000097fe000]",
@@ -7141,7 +7210,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives MOON PATROL/Arcade Archives MOON PATROL [01003000097fe000][v0].nsp"
+      "path": "/e/Arcade Archives MOON PATROL/Arcade Archives MOON PATROL [01003000097fe000][v0].nsp",
+      "image": "images/01003000097FE000.png"
     },
     {
       "name": "Arcade Archives MOON PATROL [UPD][01003000097fe800]",
@@ -7157,7 +7227,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives Mario Bros/Arcade Archives Mario Bros. [0100755004608000][v0].nsp"
+      "path": "/e/Arcade Archives Mario Bros/Arcade Archives Mario Bros. [0100755004608000][v0].nsp",
+      "image": "images/0100755004608000.png"
     },
     {
       "name": "Arcade Archives Mario Bros. [UPD]",
@@ -7173,7 +7244,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives Ninja-Kid US [0100369001DDC000][v0].nsp"
+      "path": "/e/Arcade Archives Ninja-Kid US [0100369001DDC000][v0].nsp",
+      "image": "images/0100369001DDC000.png"
     },
     {
       "name": "Arcade Archives OMEGA FIGHTER [01004a200bb48000]",
@@ -7181,7 +7253,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives OMEGA FIGHTER [01004a200bb48000][v0].nsp"
+      "path": "/e/Arcade Archives OMEGA FIGHTER [01004a200bb48000][v0].nsp",
+      "image": "images/01004A200BB48000.png"
     },
     {
       "name": "Arcade Archives PUNCH-OUT!! [01001530097f8000]",
@@ -7189,7 +7262,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives PUNCH-OUT!!/Arcade Archives PUNCH-OUT!! [01001530097f8000][v0].nsp"
+      "path": "/e/Arcade Archives PUNCH-OUT!!/Arcade Archives PUNCH-OUT!! [01001530097f8000][v0].nsp",
+      "image": "images/01001530097F8000.png"
     },
     {
       "name": "Arcade Archives PUNCH-OUT!! [UPD][01001530097f8800]",
@@ -7205,7 +7279,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives Renegade [010081e001dd2000][v0].nsp"
+      "path": "/e/Arcade Archives Renegade [010081e001dd2000][v0].nsp",
+      "image": "images/010081E001DD2000.png"
     },
     {
       "name": "Arcade Archives STAR FORCE [010069f008a38000]",
@@ -7213,7 +7288,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives STAR FORCE [010069f008a38000][v0].nsp"
+      "path": "/e/Arcade Archives STAR FORCE [010069f008a38000][v0].nsp",
+      "image": "images/010069F008A38000.png"
     },
     {
       "name": "Arcade Archives Sky Skipper [010008f00b054000]",
@@ -7221,7 +7297,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives Sky Skipper [010008f00b054000][v0].nsp"
+      "path": "/e/Arcade Archives Sky Skipper [010008f00b054000][v0].nsp",
+      "image": "images/010008F00B054000.png"
     },
     {
       "name": "Arcade Archives TERRA CRESTA US",
@@ -7229,7 +7306,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives TERRA CRESTA/Arcade Archives TERRA CRESTA US [0100422001DDA000][v0].nsp"
+      "path": "/e/Arcade Archives TERRA CRESTA/Arcade Archives TERRA CRESTA US [0100422001DDA000][v0].nsp",
+      "image": "images/0100422001DDA000.png"
     },
     {
       "name": "Arcade Archives TERRA CRESTA US [UPD]",
@@ -7277,7 +7355,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives Traverse/Arcade Archives Traverse USA [010029d006ed8000][v0].nsp"
+      "path": "/e/Arcade Archives Traverse/Arcade Archives Traverse USA [010029d006ed8000][v0].nsp",
+      "image": "images/010029D006ED8000.png"
     },
     {
       "name": "Arcade Archives Traverse USA [UPD][010029d006ed8800]",
@@ -7293,7 +7372,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Arcade Archives VS. SUPER MARIO BROS/Arcade Archives VS. SUPER MARIO BROS. [010021d00812a000][v0].nsp"
+      "path": "/e/Arcade Archives VS. SUPER MARIO BROS/Arcade Archives VS. SUPER MARIO BROS. [010021d00812a000][v0].nsp",
+      "image": "images/010021D00812A000.png"
     },
     {
       "name": "Arcade Archives VS. SUPER MARIO BROS. [UPD][010021d00812a800]",
@@ -7365,7 +7445,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Captain Toad Treasure Tracker [01009bf0072d4000][v0].nsp"
+      "path": "/e/Captain Toad Treasure Tracker [01009bf0072d4000][v0].nsp",
+      "image": "images/01009BF0072D4000.png"
     },
     {
       "name": "Castlevania Anniversary Collection",
@@ -7373,7 +7454,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Castlevania Anniversary Collection [01001A800D6BC000][v0].nsp"
+      "path": "/e/Castlevania Anniversary Collection [01001A800D6BC000][v0].nsp",
+      "image": "images/01001A800D6BC000.png"
     },
     {
       "name": "Castlevania Anniversary Collection",
@@ -7525,7 +7607,8 @@
       "type": "nsp",
       "category": "dlc",
       "drive": "e",
-      "path": "/e/DLC/Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles [0100309016E7B005][v0].nsp"
+      "path": "/e/DLC/Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles [0100309016E7B005][v0].nsp",
+      "image": "images/0100309016E7B005.png"
     },
     {
       "name": "Demon Slayer The Hinokami Chronicles [DLC Character Unlock Nezuko Kamado, Zenitsu Agatsuma, Inosuke Hashibira]",
@@ -7933,7 +8016,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles [0100309016E7A800][v1.30].nsp"
+      "path": "/e/Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles [0100309016E7A800][v1.30].nsp",
+      "image": "images/0100309016E7A800.png"
     },
     {
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
@@ -7941,7 +8025,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles [0100309016E7B005][v0].nsp"
+      "path": "/e/Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles [0100309016E7B005][v0].nsp",
+      "image": "images/0100309016E7B005.png"
     },
     {
       "name": "Demon Slayer The Hinokami Chronicles [DLC Character Unlock Nezuko Kamado, Zenitsu Agatsuma, Inosuke Hashibira]",
@@ -8181,7 +8266,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Fire Emblem Warriors/Fire Emblem Warriors [0100f15003e64000][v0].nsp"
+      "path": "/e/Fire Emblem Warriors/Fire Emblem Warriors [0100f15003e64000][v0].nsp",
+      "image": "images/0100F15003E64000.png"
     },
     {
       "name": "Fire Emblem Warriors [UPD][0100f15003e64800]",
@@ -8621,7 +8707,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Grace of Letoile [Damage x2 - Grace of Letoile] [0100CAC01C3ED003][v0][US].nsp"
+      "path": "/e/Grace of Letoile [Damage x2 - Grace of Letoile] [0100CAC01C3ED003][v0][US].nsp",
+      "image": "images/0100CAC01C3ED003.png"
     },
     {
       "name": "Grace of Letoile [Experience x3 - Grace of Letoile] [US]",
@@ -8629,7 +8716,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Grace of Letoile [Experience x3 - Grace of Letoile] [0100CAC01C3ED001][v0][US].nsp"
+      "path": "/e/Grace of Letoile [Experience x3 - Grace of Letoile] [0100CAC01C3ED001][v0][US].nsp",
+      "image": "images/0100CAC01C3ED001.png"
     },
     {
       "name": "Grace of Letoile [No Encounters - Grace of Letoile] [US]",
@@ -8637,7 +8725,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Grace of Letoile [No Encounters - Grace of Letoile] [0100CAC01C3ED002][v0][US].nsp"
+      "path": "/e/Grace of Letoile [No Encounters - Grace of Letoile] [0100CAC01C3ED002][v0][US].nsp",
+      "image": "images/0100CAC01C3ED002.png"
     },
     {
       "name": "Guacamelee STCE [0100bae00b470000]",
@@ -8741,7 +8830,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Hyrule Warriors Definitive Edition/Hyrule Warriors Definitive Edition [0100ae00096ea000][v0].nsp"
+      "path": "/e/Hyrule Warriors Definitive Edition/Hyrule Warriors Definitive Edition [0100ae00096ea000][v0].nsp",
+      "image": "images/0100AE00096EA000.png"
     },
     {
       "name": "Hyrule Warriors Definitive Edition [UPD][0100ae00096ea800]",
@@ -8813,7 +8903,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/KONOSUBA - God's blessing on this wonderful world! Love for these clothes of desire! v1.0.0 [01001F501A9AA000][v0][APP].nsp"
+      "path": "/e/KONOSUBA - God's blessing on this wonderful world! Love for these clothes of desire! v1.0.0 [01001F501A9AA000][v0][APP].nsp",
+      "image": "images/01001F501A9AA000.png"
     },
     {
       "name": "KSA Update",
@@ -9029,7 +9120,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/LEGO® MARVEL Super Heroes 2 (EU)/LEGO® MARVEL Super Heroes 2 (EU) [01007690040a0000][v0].nsp"
+      "path": "/e/LEGO® MARVEL Super Heroes 2 (EU)/LEGO® MARVEL Super Heroes 2 (EU) [01007690040a0000][v0].nsp",
+      "image": "images/01007690040A0000.png"
     },
     {
       "name": "Life is Strange Double Exposure",
@@ -9061,7 +9153,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Little Nightmares Complete Edition/Little Nightmares [01002fc00412c000][v0].nsp"
+      "path": "/e/Little Nightmares Complete Edition/Little Nightmares [01002fc00412c000][v0].nsp",
+      "image": "images/01002FC00412C000.png"
     },
     {
       "name": "Little Nightmares [DLC][01002fc00412d001]",
@@ -9109,7 +9202,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/MEGA MAN BATTLE & FIGHTERS [01003DF018D5A000][v0][US].nsp"
+      "path": "/e/MEGA MAN BATTLE & FIGHTERS [01003DF018D5A000][v0][US].nsp",
+      "image": "images/01003DF018D5A000.png"
     },
     {
       "name": "MEGATON MUSASHI W WIRED Standard Edition [Edition Upgrade (Deluxe) DLC][US]",
@@ -9509,7 +9603,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Mega Man Legacy Collection 2 [0100842008ec4000][v0].nsp"
+      "path": "/e/Mega Man Legacy Collection 2 [0100842008ec4000][v0].nsp",
+      "image": "images/0100842008EC4000.png"
     },
     {
       "name": "Mega Man Legacy Collection [01002d4007ae0000]",
@@ -9517,7 +9612,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Mega Man Legacy Collection [01002d4007ae0000][v0].nsp"
+      "path": "/e/Mega Man Legacy Collection [01002d4007ae0000][v0].nsp",
+      "image": "images/01002D4007AE0000.png"
     },
     {
       "name": "Mega Man X Legacy Collection 2 [01005250086c4000]",
@@ -9525,7 +9621,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Mega Man X Legacy Collection 2 [01005250086c4000][v0].nsp"
+      "path": "/e/Mega Man X Legacy Collection 2 [01005250086c4000][v0].nsp",
+      "image": "images/01005250086C4000.png"
     },
     {
       "name": "Mega Man X Legacy Collection [01005c60086be000]",
@@ -9533,7 +9630,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Mega Man X Legacy Collection [01005c60086be000][v0].nsp"
+      "path": "/e/Mega Man X Legacy Collection [01005c60086be000][v0].nsp",
+      "image": "images/01005C60086BE000.png"
     },
     {
       "name": "Melty Blood Type Lumina [DLC Akiha Tohno Round Announcements]",
@@ -9821,7 +9919,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Minecraft Story Mode - The Complete Adventure [010059c002ac2000][v0].nsp"
+      "path": "/e/Minecraft Story Mode - The Complete Adventure [010059c002ac2000][v0].nsp",
+      "image": "images/010059C002AC2000.png"
     },
     {
       "name": "Minecraft [0100d71004694000]",
@@ -9845,7 +9944,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Mortal Kombat 1 [01006560184E6000][v0].nsp"
+      "path": "/e/Mortal Kombat 1 [01006560184E6000][v0].nsp",
+      "image": "images/01006560184E6000.png"
     },
     {
       "name": "MvC FCAC Update",
@@ -9941,7 +10041,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/No More Heroes 2 Desperate Struggle [010071400F204000][v0].nsp"
+      "path": "/e/No More Heroes 2 Desperate Struggle [010071400F204000][v0].nsp",
+      "image": "images/010071400F204000.png"
     },
     {
       "name": "No More Heroes 2 Desperate Struggle",
@@ -9949,7 +10050,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/No More Heroes 2 Desperate Struggle [010071400F204800][v196608].nsp"
+      "path": "/e/No More Heroes 2 Desperate Struggle [010071400F204800][v196608].nsp",
+      "image": "images/010071400F204800.png"
     },
     {
       "name": "No More Heroes 3 [US]",
@@ -10181,7 +10283,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Resident Evil 4 (ESP) NSP/Resident Evil 4 [010099A00BC1E000][v0].nsp"
+      "path": "/e/Resident Evil 4 (ESP) NSP/Resident Evil 4 [010099A00BC1E000][v0].nsp",
+      "image": "images/010099A00BC1E000.png"
     },
     {
       "name": "Resident Evil 4 [US]",
@@ -10261,7 +10364,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Shantae Half-Genie Hero Ultimate Edition [01006A200936C000][v0].nsp"
+      "path": "/e/Shantae Half-Genie Hero Ultimate Edition [01006A200936C000][v0].nsp",
+      "image": "images/01006A200936C000.png"
     },
     {
       "name": "Shantae Half-Genie Hero Ultimate Edition",
@@ -10277,7 +10381,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Shantae Riskys Revenge - Directors Cut [0100ADA012370000][v0].nsp"
+      "path": "/e/Shantae Riskys Revenge - Directors Cut [0100ADA012370000][v0].nsp",
+      "image": "images/0100ADA012370000.png"
     },
     {
       "name": "Shantae Riskys Revenge Directors Cut",
@@ -10293,7 +10398,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Shantae [0100430013120000][v0][US].nsp"
+      "path": "/e/Shantae [0100430013120000][v0][US].nsp",
+      "image": "images/0100430013120000.png"
     },
     {
       "name": "Shantae and the Seven Sirens",
@@ -10301,7 +10407,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Shantae and the Seven Sirens [0100EB901040A000][v0].nsp"
+      "path": "/e/Shantae and the Seven Sirens [0100EB901040A000][v0].nsp",
+      "image": "images/0100EB901040A000.png"
     },
     {
       "name": "Shantae and the Seven Sirens",
@@ -10629,7 +10736,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Taiko no Tatsujin Drum n Fun [01002C000B552000][v0].nsp"
+      "path": "/e/Taiko no Tatsujin Drum n Fun [01002C000B552000][v0].nsp",
+      "image": "images/01002C000B552000.png"
     },
     {
       "name": "Taiko no Tatsujin Rhythm Festival [US]",
@@ -10637,7 +10745,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Taiko no Tatsujin Rhythm Festival [01006B0016AD6000][v0][US].nsp"
+      "path": "/e/Taiko no Tatsujin Rhythm Festival [01006B0016AD6000][v0][US].nsp",
+      "image": "images/01006B0016AD6000.png"
     },
     {
       "name": "Team Sonic Racing UPDATE[romstorage.com]",
@@ -10653,7 +10762,8 @@
       "type": "xci",
       "category": "base",
       "drive": "e",
-      "path": "/e/Teenage Mutant Ninja Turtles Arcade Wrath of the Mutants [0100C7601CDAC000][v0][US].xci"
+      "path": "/e/Teenage Mutant Ninja Turtles Arcade Wrath of the Mutants [0100C7601CDAC000][v0][US].xci",
+      "image": "images/0100C7601CDAC000.png"
     },
     {
       "name": "Teenage Mutant Ninja Turtles Arcade Wrath of the Mutants [US]",
@@ -10677,7 +10787,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/The LEGO Movie 2 Videogame [0100A4400BE74000][v0].nsp"
+      "path": "/e/The LEGO Movie 2 Videogame [0100A4400BE74000][v0].nsp",
+      "image": "images/0100A4400BE74000.png"
     },
     {
       "name": "The Legend of Zelda Breath of the Wild [DLC Pack 1 The Master Trials]",
@@ -10733,7 +10844,8 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Trinity Trigger [01004950197B2000][v0][US].nsp"
+      "path": "/e/Trinity Trigger [01004950197B2000][v0][US].nsp",
+      "image": "images/01004950197B2000.png"
     },
     {
       "name": "Trinity Trigger [azure dragon sword_cyan DLC][US]",
