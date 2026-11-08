@@ -222,7 +222,8 @@
       "path": "/d/Cadence of Hyrule (1.5.0).nsp",
       "size_bytes": 1839490264,
       "size_mb": 1754.27,
-      "size_gb": 1.71
+      "size_gb": 1.71,
+      "image": "images/Cadence_of_Hyrule.webp"
     },
     {
       "name": "Call of Juarez - Gunslinger (1.0.3)",
@@ -409,7 +410,8 @@
       "path": "/d/DOOM 1993 [010018900DD00000][v0].nsp",
       "size_bytes": 298046729,
       "size_mb": 284.24,
-      "size_gb": 0.28
+      "size_gb": 0.28,
+      "image": "images/010018900DD00000.webp"
     },
     {
       "name": "DOOM 3",
@@ -420,7 +422,8 @@
       "path": "/d/DOOM 3 [010029D00E740000][v0].nsp",
       "size_bytes": 8140178320,
       "size_mb": 7763.08,
-      "size_gb": 7.58
+      "size_gb": 7.58,
+      "image": "images/010029D00E740000.webp"
     },
     {
       "name": "DOOM 64[US]",
@@ -431,7 +434,8 @@
       "path": "/d/DOOM 64[01005D700E742000][US][v0].nsp",
       "size_bytes": 93784629,
       "size_mb": 89.44,
-      "size_gb": 0.09
+      "size_gb": 0.09,
+      "image": "images/01005D700E742000.webp"
     },
     {
       "name": "DRAGON QUEST III HD-2D Remake [US]",
@@ -1233,7 +1237,8 @@
       "path": "/d/Miitopia [01003DA010E8A000][US][v0].nsp",
       "size_bytes": 3251313331,
       "size_mb": 3100.69,
-      "size_gb": 3.03
+      "size_gb": 3.03,
+      "image": "images/01003DA010E8A000.webp"
     },
     {
       "name": "Miitopia",
@@ -1244,7 +1249,8 @@
       "path": "/d/Miitopia [01003DA010E8A800][v196608].nsp",
       "size_bytes": 16050873,
       "size_mb": 15.31,
-      "size_gb": 0.01
+      "size_gb": 0.01,
+      "image": "images/01003DA010E8A800.webp"
     },
     {
       "name": "Minecraft Dungeons",
@@ -2269,7 +2275,8 @@
       "path": "/d/The Witcher 3 Wild Hunt (EU) [01003D100E9C6000][v0] (28.01 GB).nsp",
       "size_bytes": 30075793680,
       "size_mb": 28682.51,
-      "size_gb": 28.01
+      "size_gb": 28.01,
+      "image": "images/01003D100E9C6000.png"
     },
     {
       "name": "The Legend of Zelda Links Awakening",
@@ -3197,7 +3204,8 @@
       "path": "/e/DOOM/DOOM [0100416004c00000][v0].nsp",
       "size_bytes": 14674251372,
       "size_mb": 13994.46,
-      "size_gb": 13.67
+      "size_gb": 13.67,
+      "image": "images/0100416004C00000.webp"
     },
     {
       "name": "DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Android 17][US]",
