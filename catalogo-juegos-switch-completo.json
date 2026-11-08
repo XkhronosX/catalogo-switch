@@ -1,15 +1,15 @@
 {
   "metadata": {
     "generated": "2026-11-08",
-    "totalGames": 1350,
-    "driveD": 815,
-    "driveE": 535,
+    "totalGames": 1337,
+    "driveD": 805,
+    "driveE": 532,
     "byFormat": {
       "NSP": 1339,
       "XCI": 51
     },
     "byCategory": {
-      "base": 425,
+      "base": 412,
       "dlc": 753,
       "update": 172
     }
@@ -103,28 +103,6 @@
       "size_bytes": 7314837936,
       "size_mb": 6975.97,
       "size_gb": 6.81
-    },
-    {
-      "name": "Assassin's Creed The Rebel Collection [Assassin's Creed Rogue]",
-      "filename": "Assassin's Creed The Rebel Collection [Assassin's Creed Rogue] [v0].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/Assassin's Creed The Rebel Collection [Assassin's Creed Rogue] [v0].nsp",
-      "size_bytes": 0,
-      "size_mb": 0,
-      "size_gb": 0
-    },
-    {
-      "name": "Assassin's Creed The Rebel Collection[US]",
-      "filename": "Assassin's Creed The Rebel Collection[010044700DEB0000][US][v0].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/Assassin's Creed The Rebel Collection[010044700DEB0000][US][v0].nsp",
-      "size_bytes": 0,
-      "size_mb": 0,
-      "size_gb": 0
     },
     {
       "name": "Batman Arkham Asylum",
@@ -524,18 +502,6 @@
       "size_gb": 0.02
     },
     {
-      "name": "Diablo III: Eternal Collection [Base]",
-      "filename": "Diablo III: Eternal Collection [01001B300B9BE000][v0][Base].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/Diablo III: Eternal Collection [01001B300B9BE000][v0][Base].nsp",
-      "image": "images/01001B300B9BE000.png",
-      "size_bytes": 0,
-      "size_mb": 0,
-      "size_gb": 0
-    },
-    {
       "name": "Disney Epic Mickey Rebrushed",
       "filename": "Disney Epic Mickey Rebrushed [0100DA201EBF8000][v0].nsp",
       "type": "nsp",
@@ -591,18 +557,6 @@
       "size_bytes": 1494824784,
       "size_mb": 1425.58,
       "size_gb": 1.39
-    },
-    {
-      "name": "Dying Light: Definitive Edition [Base]",
-      "filename": "Dying Light: Definitive Edition [01008C8012920000][v0][Base].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/Dying Light: Definitive Edition [01008C8012920000][v0][Base].nsp",
-      "image": "images/01008C8012920000.png",
-      "size_bytes": 0,
-      "size_mb": 0,
-      "size_gb": 0
     },
     {
       "name": "EA SPORTS FC 25",
@@ -1121,29 +1075,6 @@
       "size_gb": 13.88
     },
     {
-      "name": "Little Friends: Dogs & Cats [Base]",
-      "filename": "Little Friends: Dogs & Cats [010079A00D9E8000][v0][Base].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/Little Friends: Dogs & Cats [010079A00D9E8000][v0][Base].nsp",
-      "image": "images/010079A00D9E8000.png",
-      "size_bytes": 0,
-      "size_mb": 0,
-      "size_gb": 0
-    },
-    {
-      "name": "Little Friends: Puppy Island [Base]",
-      "filename": "Little Friends: Puppy Island [010023801A52A000][v0][Base].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/Little Friends: Puppy Island [010023801A52A000][v0][Base].nsp",
-      "size_bytes": 0,
-      "size_mb": 0,
-      "size_gb": 0
-    },
-    {
       "name": "Little Nightmares III",
       "filename": "Little Nightmares III [010066101A55A000].xci",
       "type": "xci",
@@ -1439,17 +1370,6 @@
       "size_bytes": 4295901912,
       "size_mb": 4096.89,
       "size_gb": 4.0
-    },
-    {
-      "name": "Nintendo 64 - Nintendo Switch Online",
-      "filename": "Nintendo 64 - Nintendo Switch Online [0100C9A00ECE6000][v0].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/Nintendo 64 - Nintendo Switch Online [0100C9A00ECE6000][v0].nsp",
-      "size_bytes": 0,
-      "size_mb": 0,
-      "size_gb": 0
     },
     {
       "name": "Nintendo Entertainment System - Nintendo Switch Online",
@@ -1815,17 +1735,6 @@
       "size_gb": 2.18
     },
     {
-      "name": "Prince of Persia The Lost Crown",
-      "filename": "Prince of Persia The Lost Crown [0100210019428000][v0] (5.98 GB).nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/Prince of Persia The Lost Crown [0100210019428000][v0] (5.98 GB).nsp",
-      "size_bytes": 0,
-      "size_mb": 0.0,
-      "size_gb": 0.0
-    },
-    {
       "name": "Red Dead Redemption",
       "filename": "Red Dead Redemption [01007820196A6000][v0].nsp",
       "type": "nsp",
@@ -2122,17 +2031,6 @@
       "size_gb": 0.0
     },
     {
-      "name": "Super Smash Bros Ultimate [Spirits Set 1 - Legend Support and Ace Primary]",
-      "filename": "Super Smash Bros Ultimate [Spirits Set 1 - Legend Support and Ace Primary] [01006A800016F083][v0].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/Super Smash Bros Ultimate(99 DLC) Incluidos outfit/Super Smash Bros Ultimate(99 DLC) Incluidos outfit/Super Smash Bros Ultimate [Spirits Set 1 - Legend Support and Ace Primary] [01006A800016F083][v0].nsp",
-      "size_bytes": 0,
-      "size_mb": 0,
-      "size_gb": 0
-    },
-    {
       "name": "Super Smash Bros Ultimate [Spirits Set 2 - Legend-Class Primary",
       "filename": "Super Smash Bros Ultimate [Spirits Set 2 - Legend-Class Primary  Ace-Class Support] [01006A800016F085][v0].nsp",
       "type": "nsp",
@@ -2268,17 +2166,6 @@
       "size_bytes": 14476256004,
       "size_mb": 13805.63,
       "size_gb": 13.48
-    },
-    {
-      "name": "The Legend of Zelda Echoes of Wisdom [01008CF01BAAC0]",
-      "filename": "The Legend of Zelda Echoes of Wisdom [01008CF01BAAC0].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/The Legend of Zelda Echoes of Wisdom [01008CF01BAAC0].nsp",
-      "size_bytes": 0,
-      "size_mb": 0,
-      "size_gb": 0
     },
     {
       "name": "The Legend of Zelda Skyward Sword HD",
@@ -3214,17 +3101,6 @@
       "size_gb": 0.0
     },
     {
-      "name": "DARK SOULS REMASTERED",
-      "filename": "DARK SOULS REMASTERED [01004AB00A260000][v0].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "e",
-      "path": "/e/DARK SOULS REMASTERED [01004AB00A260000][v0].nsp",
-      "size_bytes": 0,
-      "size_mb": 0,
-      "size_gb": 0
-    },
-    {
       "name": "DOOM Eternal [Deluxe Edition Content]",
       "filename": "DOOM Eternal [Deluxe Edition Content] [0100B1A00D8CF002][v0].nsp",
       "type": "nsp",
@@ -4046,17 +3922,6 @@
       "size_gb": 1.53
     },
     {
-      "name": "Nintendo 64 - Nintendo Switch Online MATURE 17+ [US](nsw2u.com)",
-      "filename": "Nintendo 64 - Nintendo Switch Online MATURE 17+ [0100E0601C632000][v0][US](nsw2u.com).nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "e",
-      "path": "/e/Nintendo 64 - Nintendo Switch Online MATURE 17+ [0100E0601C632000][v0][US](nsw2u.com).nsp",
-      "size_bytes": 0,
-      "size_mb": 0,
-      "size_gb": 0
-    },
-    {
       "name": "No More Heroes 2 Desperate Struggle",
       "filename": "No More Heroes 2 Desperate Struggle [010071400F204000][v0].nsp",
       "type": "nsp",
@@ -4769,18 +4634,6 @@
       "size_bytes": 100664144,
       "size_mb": 96.0,
       "size_gb": 0.09
-    },
-    {
-      "name": "[NSW] ACA NEOGEO TOP PLAYER'S GOLF",
-      "filename": "[NSW] ACA NEOGEO TOP PLAYER'S GOLF.nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "e",
-      "path": "/e/[NSW] ACA NEOGEO TOP PLAYER'S GOLF.nsp",
-      "image": "images/ACA_NEOGEO_TOP_PLAYER_S_GOLF.png",
-      "size_bytes": 0,
-      "size_mb": 0,
-      "size_gb": 0
     },
     {
       "name": "[NSW] ACA NEOGEO TWINKLE STAR SPRITES",
