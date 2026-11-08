@@ -108,34 +108,22 @@
 <body>
     <div class="container">
         <header>
-            <h1>Catalogo Completo Nintendo Switch</h1>
-            <p style="color: var(--fg-secondary); margin-top: 8px;">1390 archivos NSP/XCI · Discos D: (833) + E: (557) · 274/465 con portada real</p>
+            <h1>Catalogo Nintendo Switch - Juegos Base</h1>
+            <p style="color: var(--fg-secondary); margin-top: 8px;">465 juegos base · Discos D: + E: · 274/465 con portada real</p>
             <div class="stats">
-                <div class="stat"><div class="stat-value">1,390</div><div class="stat-label">Total</div></div>
-                <div class="stat"><div class="stat-value">833</div><div class="stat-label">Disco D:</div></div>
-                <div class="stat"><div class="stat-value">557</div><div class="stat-label">Disco E:</div></div>
-                <div class="stat"><div class="stat-value">1,339</div><div class="stat-label">NSP</div></div>
-                <div class="stat"><div class="stat-value">51</div><div class="stat-label">XCI</div></div>
-                <div class="stat"><div class="stat-value">465</div><div class="stat-label">Base</div></div>
-                <div class="stat"><div class="stat-value">753</div><div class="stat-label">DLCs</div></div>
-                <div class="stat"><div class="stat-value">172</div><div class="stat-label">Updates</div></div>
+                <div class="stat"><div class="stat-value">465</div><div class="stat-label">Juegos Base</div></div>
+                <div class="stat"><div class="stat-value">274</div><div class="stat-label">Con Portada</div></div>
+                <div class="stat"><div class="stat-value">191</div><div class="stat-label">Sin Portada</div></div>
             </div>
         </header>
 
         <div class="controls">
             <div class="search-box">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-                <input type="text" id="search-input" placeholder="Buscar juegos, DLCs, actualizaciones..." autocomplete="off">
+                <input type="text" id="search-input" placeholder="Buscar juegos base..." autocomplete="off">
             </div>
             <div class="filters" id="filters">
-                <button class="filter-btn active" data-filter="all">Todos (1,390)</button>
-                <button class="filter-btn" data-filter="base">Juegos Base (465)</button>
-                <button class="filter-btn" data-filter="dlc">DLCs (753)</button>
-                <button class="filter-btn" data-filter="update">Actualizaciones (172)</button>
-                <button class="filter-btn" data-filter="nsp">NSP (1,339)</button>
-                <button class="filter-btn" data-filter="xci">XCI (51)</button>
-                <button class="filter-btn" data-filter="drive-d">Disco D: (833)</button>
-                <button class="filter-btn" data-filter="drive-e">Disco E: (557)</button>
+                <button class="filter-btn active" data-filter="base">Juegos Base (465)</button>
             </div>
             <div class="view-toggle">
                 <button class="view-btn active" data-view="grid" title="Vista cuadrícula"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg></button>
@@ -23799,7 +23787,7 @@
         const noResults = document.getElementById('no-results');
 
         let currentView = 'grid';
-        let activeFilter = 'all';
+        let activeFilter = 'base';
         let searchTerm = '';
 
         function getCategory(el) { return el.dataset.category; }
@@ -23840,14 +23828,14 @@
                 noResults.style.display = 'none';
             }
 
-            resultsCount.textContent = `Mostrando ${visible.toLocaleString()} de {total:,} juegos`;
+            resultsCount.textContent = `Mostrando ${visible.toLocaleString()} de 465 juegos base`;
             updateActiveFilters();
         }
 
         function updateActiveFilters() {{
-            const labels = {{ 'all': 'Todos', 'base': 'Juegos Base', 'dlc': 'DLCs', 'update': 'Actualizaciones', 'nsp': 'NSP', 'xci': 'XCI', 'drive-d': 'Disco D:', 'drive-e': 'Disco E:' }};
+            const labels = {{ 'base': 'Juegos Base', 'dlc': 'DLCs', 'update': 'Actualizaciones', 'nsp': 'NSP', 'xci': 'XCI', 'drive-d': 'Disco D:', 'drive-e': 'Disco E:' }};
             let activeLabels = [];
-            if (activeFilter !== 'all') activeLabels.push(labels[activeFilter]);
+            if (activeFilter !== 'base') activeLabels.push(labels[activeFilter]);
             if (searchTerm) activeLabels.push(`Busqueda: "${{searchTerm}}"`);
             activeFiltersEl.textContent = activeLabels.length ? `Filtros: ${{activeLabels.join(' • ')}}` : '';
         }}
