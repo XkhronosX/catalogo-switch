@@ -22,7 +22,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/(XCI) Resident Evil 5 (1.0.3).xci",
-      "image": "images/Resident_Evil_5.png"
+      "image": "images/Resident_Evil_5.png",
+      "size_bytes": 20082690048,
+      "size_mb": 19152.35,
+      "size_gb": 18.7
     },
     {
       "name": "0003 - ARMS (World) (En,Ja,Fr,De,Es,It,Nl,Ru)",
@@ -30,7 +33,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/0003 - ARMS (World) (En,Ja,Fr,De,Es,It,Nl,Ru).xci"
+      "path": "/d/0003 - ARMS (World) (En,Ja,Fr,De,Es,It,Nl,Ru).xci",
+      "size_bytes": 2787529728,
+      "size_mb": 2658.4,
+      "size_gb": 2.6
     },
     {
       "name": "Aeterna Noctis",
@@ -38,7 +44,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Aeterna Noctis (v1.1.005).nsp"
+      "path": "/d/Aeterna Noctis (v1.1.005).nsp",
+      "size_bytes": 2668315352,
+      "size_mb": 2544.7,
+      "size_gb": 2.49
     },
     {
       "name": "Alan Wake Remastered 1.0.1",
@@ -46,7 +55,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Alan Wake Remastered 1.0.1.nsp"
+      "path": "/d/Alan Wake Remastered 1.0.1.nsp",
+      "size_bytes": 16711063256,
+      "size_mb": 15936.91,
+      "size_gb": 15.56
     },
     {
       "name": "Arkanoid - Eternal Battle (1.1.14)",
@@ -54,7 +66,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Arkanoid - Eternal Battle (1.1.14).nsp"
+      "path": "/d/Arkanoid - Eternal Battle (1.1.14).nsp",
+      "size_bytes": 301143256,
+      "size_mb": 287.19,
+      "size_gb": 0.28
     },
     {
       "name": "Arkanoid vs Space Invaders (1.0.0)",
@@ -62,7 +77,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Arkanoid vs Space Invaders (1.0.0).nsp"
+      "path": "/d/Arkanoid vs Space Invaders (1.0.0).nsp",
+      "size_bytes": 199576318,
+      "size_mb": 190.33,
+      "size_gb": 0.19
     },
     {
       "name": "Assassin's Creed III Remastered [v1.0.3]",
@@ -70,7 +88,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Assassin's Creed III Remastered [01007F600B134800][v1.0.3].nsp"
+      "path": "/d/Assassin's Creed III Remastered [01007F600B134800][v1.0.3].nsp",
+      "size_bytes": 2996786064,
+      "size_mb": 2857.96,
+      "size_gb": 2.79
     },
     {
       "name": "Assassins Creed The Ezio Collection",
@@ -78,7 +99,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Assassins Creed The Ezio Collection [v0].nsp"
+      "path": "/d/Assassins Creed The Ezio Collection [v0].nsp",
+      "size_bytes": 7314837936,
+      "size_mb": 6975.97,
+      "size_gb": 6.81
     },
     {
       "name": "Assassin's Creed The Rebel Collection [Assassin's Creed Rogue]",
@@ -86,7 +110,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Assassin's Creed The Rebel Collection [Assassin's Creed Rogue] [v0].nsp"
+      "path": "/d/Assassin's Creed The Rebel Collection [Assassin's Creed Rogue] [v0].nsp",
+      "size_bytes": 0,
+      "size_mb": 0,
+      "size_gb": 0
     },
     {
       "name": "Assassin's Creed The Rebel Collection[US]",
@@ -94,7 +121,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Assassin's Creed The Rebel Collection[010044700DEB0000][US][v0].nsp"
+      "path": "/d/Assassin's Creed The Rebel Collection[010044700DEB0000][US][v0].nsp",
+      "size_bytes": 0,
+      "size_mb": 0,
+      "size_gb": 0
     },
     {
       "name": "Batman Arkham Asylum",
@@ -102,7 +132,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Batman Arkham Asylum [0100E870163CA000][v0].nsp"
+      "path": "/d/Batman Arkham Asylum [0100E870163CA000][v0].nsp",
+      "size_bytes": 7342996759,
+      "size_mb": 7002.83,
+      "size_gb": 6.84
     },
     {
       "name": "BioShock Remastered",
@@ -110,7 +143,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/BioShock Remastered.nsp"
+      "path": "/d/BioShock Remastered.nsp",
+      "size_bytes": 7685261712,
+      "size_mb": 7329.24,
+      "size_gb": 7.16
     },
     {
       "name": "Blasphemous (1.0.8)",
@@ -118,7 +154,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Blasphemous (1.0.8).nsp"
+      "path": "/d/Blasphemous (1.0.8).nsp",
+      "size_bytes": 6580207832,
+      "size_mb": 6275.38,
+      "size_gb": 6.13
     },
     {
       "name": "Bluey The Videogame [US]",
@@ -126,7 +165,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Bluey The Videogame [01008C2019598000][v0][US].xci"
+      "path": "/d/Bluey The Videogame [01008C2019598000][v0][US].xci",
+      "size_bytes": 1996488704,
+      "size_mb": 1904.0,
+      "size_gb": 1.86
     },
     {
       "name": "Bramble The Mountain King [v1.0.5]",
@@ -134,7 +176,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Bramble The Mountain King [v1.0.5].xci"
+      "path": "/d/Bramble The Mountain King [v1.0.5].xci",
+      "size_bytes": 6583419392,
+      "size_mb": 6278.44,
+      "size_gb": 6.13
     },
     {
       "name": "BrowseNX.050032A5CF12E001.v0",
@@ -142,7 +187,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/BrowseNX.050032A5CF12E001.v0.nsp"
+      "path": "/d/BrowseNX.050032A5CF12E001.v0.nsp",
+      "size_bytes": 718608,
+      "size_mb": 0.69,
+      "size_gb": 0.0
     },
     {
       "name": "Burnout Paradise Remastered (1.0.0)",
@@ -151,7 +199,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Burnout Paradise Remastered (1.0.0).nsp",
-      "image": "images/Burnout_Paradise_Remastered.png"
+      "image": "images/Burnout_Paradise_Remastered.png",
+      "size_bytes": 4281265488,
+      "size_mb": 4082.93,
+      "size_gb": 3.99
     },
     {
       "name": "Burnout Paradise Remastered",
@@ -160,7 +211,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Burnout Paradise Remastered.xci",
-      "image": "images/Burnout_Paradise_Remastered.png"
+      "image": "images/Burnout_Paradise_Remastered.png",
+      "size_bytes": 7985954816,
+      "size_mb": 7616.0,
+      "size_gb": 7.44
     },
     {
       "name": "Bye Sweet Carole",
@@ -168,7 +222,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Bye Sweet Carole [0100D66024594000][v0].nsp"
+      "path": "/d/Bye Sweet Carole [0100D66024594000][v0].nsp",
+      "size_bytes": 1694106436,
+      "size_mb": 1615.63,
+      "size_gb": 1.58
     },
     {
       "name": "Cadence of Hyrule (1.5.0)",
@@ -176,7 +233,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Cadence of Hyrule (1.5.0).nsp"
+      "path": "/d/Cadence of Hyrule (1.5.0).nsp",
+      "size_bytes": 1839490264,
+      "size_mb": 1754.27,
+      "size_gb": 1.71
     },
     {
       "name": "Call of Juarez - Gunslinger (1.0.3)",
@@ -184,7 +244,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Call of Juarez - Gunslinger (1.0.3).nsp"
+      "path": "/d/Call of Juarez - Gunslinger (1.0.3).nsp",
+      "size_bytes": 2401570520,
+      "size_mb": 2290.32,
+      "size_gb": 2.24
     },
     {
       "name": "Call of Juarez Gunslinger",
@@ -192,7 +255,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Call of Juarez Gunslinger [0100B4700BFC6000][v0].nsp"
+      "path": "/d/Call of Juarez Gunslinger [0100B4700BFC6000][v0].nsp",
+      "size_bytes": 2524089696,
+      "size_mb": 2407.16,
+      "size_gb": 2.35
     },
     {
       "name": "Capcom Beat 'Em Up Bundle[multi]",
@@ -201,7 +267,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Capcom Beat 'Em Up Bundle[multi].xci",
-      "image": "images/Capcom_Beat__Em_Up_Bundle.png"
+      "image": "images/Capcom_Beat__Em_Up_Bundle.png",
+      "size_bytes": 846400512,
+      "size_mb": 807.19,
+      "size_gb": 0.79
     },
     {
       "name": "Castlevania Anniversary Collection (1.1.0)",
@@ -210,7 +279,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Castlevania Anniversary Collection (1.1.0).nsp",
-      "image": "images/Castlevania_Anniversary_Collection.png"
+      "image": "images/Castlevania_Anniversary_Collection.png",
+      "size_bytes": 977281752,
+      "size_mb": 932.01,
+      "size_gb": 0.91
     },
     {
       "name": "Castlevania Anniversary Collection",
@@ -219,7 +291,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Castlevania Anniversary Collection [01001A800D6BC000][v0].nsp",
-      "image": "images/01001A800D6BC000.png"
+      "image": "images/01001A800D6BC000.png",
+      "size_bytes": 617239817,
+      "size_mb": 588.65,
+      "size_gb": 0.57
     },
     {
       "name": "Contra Anniversary Collection",
@@ -228,7 +303,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Contra Anniversary Collection [0100DCA00DA7E000][v0].nsp",
-      "image": "images/0100DCA00DA7E000.png"
+      "image": "images/0100DCA00DA7E000.png",
+      "size_bytes": 518540553,
+      "size_mb": 494.52,
+      "size_gb": 0.48
     },
     {
       "name": "Contra Rogue Corps",
@@ -237,7 +315,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Contra Rogue Corps [0100F2600D710000][v0].nsp",
-      "image": "images/0100F2600D710000.png"
+      "image": "images/0100F2600D710000.png",
+      "size_bytes": 4089011984,
+      "size_mb": 3899.59,
+      "size_gb": 3.81
     },
     {
       "name": "Crash Bandicoot N. Sane Trilogy",
@@ -246,7 +327,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Crash Bandicoot N. Sane Trilogy [0100D1B006744000][v0].nsp",
-      "image": "images/0100D1B006744000.png"
+      "image": "images/0100D1B006744000.png",
+      "size_bytes": 5641295664,
+      "size_mb": 5379.96,
+      "size_gb": 5.25
     },
     {
       "name": "Cruis n Blast",
@@ -254,7 +338,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Cruis n Blast (v1.0.7).nsp"
+      "path": "/d/Cruis n Blast (v1.0.7).nsp",
+      "size_bytes": 3820054744,
+      "size_mb": 3643.09,
+      "size_gb": 3.56
     },
     {
       "name": "Cry Babies Magic Tears The Big Game",
@@ -263,7 +350,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Cry Babies Magic Tears The Big Game [0100A1201B82A000][v0].nsp",
-      "image": "images/0100A1201B82A000.png"
+      "image": "images/0100A1201B82A000.png",
+      "size_bytes": 600005456,
+      "size_mb": 572.21,
+      "size_gb": 0.56
     },
     {
       "name": "Crypt of the NecroDancer Nintendo Switch Edition (1.0.5)",
@@ -272,7 +362,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Crypt of the NecroDancer Nintendo Switch Edition (1.0.5).nsp",
-      "image": "images/Crypt_of_the_NecroDancer_Nintendo.png"
+      "image": "images/Crypt_of_the_NecroDancer_Nintendo.png",
+      "size_bytes": 1861048536,
+      "size_mb": 1774.83,
+      "size_gb": 1.73
     },
     {
       "name": "Cult of the Lamb [Base][Thanks to Bugely@Nxbrew.com]",
@@ -280,7 +373,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Cult of the Lamb [01002E7016C46000][v0][Base][Thanks to Bugely@Nxbrew.com].nsp"
+      "path": "/d/Cult of the Lamb [01002E7016C46000][v0][Base][Thanks to Bugely@Nxbrew.com].nsp",
+      "size_bytes": 821704516,
+      "size_mb": 783.64,
+      "size_gb": 0.77
     },
     {
       "name": "Cult of the Lamb [v1.4.6]",
@@ -288,7 +384,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Cult of the Lamb [v1.4.6].xci"
+      "path": "/d/Cult of the Lamb [v1.4.6].xci",
+      "size_bytes": 2790318592,
+      "size_mb": 2661.06,
+      "size_gb": 2.6
     },
     {
       "name": "DBI ACCESO DIRECTO",
@@ -296,7 +395,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/DBI ACCESO DIRECTO.nsp"
+      "path": "/d/DBI ACCESO DIRECTO.nsp",
+      "size_bytes": 330968,
+      "size_mb": 0.32,
+      "size_gb": 0.0
     },
     {
       "name": "DBI",
@@ -304,7 +406,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/DBI.nsp"
+      "path": "/d/DBI.nsp",
+      "size_bytes": 348376,
+      "size_mb": 0.33,
+      "size_gb": 0.0
     },
     {
       "name": "DOOM 1993",
@@ -312,7 +417,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/DOOM 1993 [010018900DD00000][v0].nsp"
+      "path": "/d/DOOM 1993 [010018900DD00000][v0].nsp",
+      "size_bytes": 298046729,
+      "size_mb": 284.24,
+      "size_gb": 0.28
     },
     {
       "name": "DOOM 3",
@@ -320,7 +428,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/DOOM 3 [010029D00E740000][v0].nsp"
+      "path": "/d/DOOM 3 [010029D00E740000][v0].nsp",
+      "size_bytes": 8140178320,
+      "size_mb": 7763.08,
+      "size_gb": 7.58
     },
     {
       "name": "DOOM 64[US]",
@@ -328,7 +439,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/DOOM 64[01005D700E742000][US][v0].nsp"
+      "path": "/d/DOOM 64[01005D700E742000][US][v0].nsp",
+      "size_bytes": 93784629,
+      "size_mb": 89.44,
+      "size_gb": 0.09
     },
     {
       "name": "DRAGON QUEST III HD-2D Remake [US]",
@@ -336,7 +450,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/DRAGON QUEST III HD-2D Remake [01003E601E324000][v0][US].nsp"
+      "path": "/d/DRAGON QUEST III HD-2D Remake [01003E601E324000][v0][US].nsp",
+      "size_bytes": 7461555600,
+      "size_mb": 7115.89,
+      "size_gb": 6.95
     },
     {
       "name": "DREDGE[v1.0.2]",
@@ -344,7 +461,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/DREDGE[v1.0.2].nsp"
+      "path": "/d/DREDGE[v1.0.2].nsp",
+      "size_bytes": 740376280,
+      "size_mb": 706.08,
+      "size_gb": 0.69
     },
     {
       "name": "Darksiders II Deathinitive Edition",
@@ -353,7 +473,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Darksiders II Deathinitive Edition.nsp",
-      "image": "images/Darksiders_II_Deathinitive_Edition.png"
+      "image": "images/Darksiders_II_Deathinitive_Edition.png",
+      "size_bytes": 15294899963,
+      "size_mb": 14586.35,
+      "size_gb": 14.24
     },
     {
       "name": "Darksiders III v1.0.1",
@@ -361,7 +484,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Darksiders III v1.0.1.xci"
+      "path": "/d/Darksiders III v1.0.1.xci",
+      "size_bytes": 8014089216,
+      "size_mb": 7642.83,
+      "size_gb": 7.46
     },
     {
       "name": "Darksiders Warmastered Edition (1.0.0)",
@@ -369,7 +495,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Darksiders Warmastered Edition (1.0.0).nsp"
+      "path": "/d/Darksiders Warmastered Edition (1.0.0).nsp",
+      "size_bytes": 14136944907,
+      "size_mb": 13482.04,
+      "size_gb": 13.17
     },
     {
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
@@ -378,7 +507,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 [0100AD80208A8000][v0].xci",
-      "image": "images/0100AD80208A8000.png"
+      "image": "images/0100AD80208A8000.png",
+      "size_bytes": 13783012915,
+      "size_mb": 13144.51,
+      "size_gb": 12.84
     },
     {
       "name": "DevMenu6",
@@ -386,7 +518,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/DevMenu6.nsp"
+      "path": "/d/DevMenu6.nsp",
+      "size_bytes": 19517144,
+      "size_mb": 18.61,
+      "size_gb": 0.02
     },
     {
       "name": "Diablo III: Eternal Collection [Base]",
@@ -395,7 +530,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Diablo III: Eternal Collection [01001B300B9BE000][v0][Base].nsp",
-      "image": "images/01001B300B9BE000.png"
+      "image": "images/01001B300B9BE000.png",
+      "size_bytes": 0,
+      "size_mb": 0,
+      "size_gb": 0
     },
     {
       "name": "Disney Epic Mickey Rebrushed",
@@ -403,7 +541,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Disney Epic Mickey Rebrushed [0100DA201EBF8000][v0].nsp"
+      "path": "/d/Disney Epic Mickey Rebrushed [0100DA201EBF8000][v0].nsp",
+      "size_bytes": 11510795341,
+      "size_mb": 10977.55,
+      "size_gb": 10.72
     },
     {
       "name": "Donkey Kong Country Returns HD [US]",
@@ -411,7 +552,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Donkey Kong Country Returns HD [01009D901BC56000][v0][US].xci"
+      "path": "/d/Donkey Kong Country Returns HD [01009D901BC56000][v0][US].xci",
+      "size_bytes": 15971909632,
+      "size_mb": 15232.0,
+      "size_gb": 14.88
     },
     {
       "name": "Doraemon_Story_of_Seasons_Friends_of_the_Great_Kingdom_Premium_Crops",
@@ -420,7 +564,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Doraemon_Story_of_Seasons_Friends_of_the_Great_Kingdom_Premium_Crops.nsp",
-      "image": "images/Doraemon_Story_of_Seasons_Friends_of_the_Great_Kingdom_Premium_Crops.png"
+      "image": "images/Doraemon_Story_of_Seasons_Friends_of_the_Great_Kingdom_Premium_Crops.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "Doraemon_Story_of_Seasons_Friends_of_the_Great_Kingdom_Seasonal",
@@ -429,7 +576,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Doraemon_Story_of_Seasons_Friends_of_the_Great_Kingdom_Seasonal.nsp",
-      "image": "images/Doraemon_Story_of_Seasons_Friends_of_the_Great_Kingdom_Seasonal.png"
+      "image": "images/Doraemon_Story_of_Seasons_Friends_of_the_Great_Kingdom_Seasonal.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "Double_Dragon_Gaiden_Rise_of_the_Dragons_01005D001AE48000v0",
@@ -437,7 +587,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Double_Dragon_Gaiden_Rise_of_the_Dragons_01005D001AE48000v0.nsp"
+      "path": "/d/Double_Dragon_Gaiden_Rise_of_the_Dragons_01005D001AE48000v0.nsp",
+      "size_bytes": 1494824784,
+      "size_mb": 1425.58,
+      "size_gb": 1.39
     },
     {
       "name": "Dying Light: Definitive Edition [Base]",
@@ -446,7 +599,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Dying Light: Definitive Edition [01008C8012920000][v0][Base].nsp",
-      "image": "images/01008C8012920000.png"
+      "image": "images/01008C8012920000.png",
+      "size_bytes": 0,
+      "size_mb": 0,
+      "size_gb": 0
     },
     {
       "name": "EA SPORTS FC 25",
@@ -454,7 +610,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/EA SPORTS FC 25 [010054E01D878000][v0].nsp"
+      "path": "/d/EA SPORTS FC 25 [010054E01D878000][v0].nsp",
+      "size_bytes": 12107591244,
+      "size_mb": 11546.7,
+      "size_gb": 11.28
     },
     {
       "name": "EA Sports FC 26",
@@ -462,7 +621,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/EA Sports FC 26 Switch NSP Base Game/EA Sports FC 26.nsp"
+      "path": "/d/EA Sports FC 26 Switch NSP Base Game/EA Sports FC 26.nsp",
+      "size_bytes": 13409283148,
+      "size_mb": 12788.09,
+      "size_gb": 12.49
     },
     {
       "name": "FAIRY TAIL 2 [US]",
@@ -471,7 +633,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/FAIRY TAIL 2 [0100B9801F872000][v0][US].nsp",
-      "image": "images/0100B9801F872000.png"
+      "image": "images/0100B9801F872000.png",
+      "size_bytes": 4503567696,
+      "size_mb": 4294.94,
+      "size_gb": 4.19
     },
     {
       "name": "FIFA 18 [0100f7b002340000]",
@@ -479,7 +644,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/FIFA 18/FIFA 18 [0100f7b002340000][v0].nsp"
+      "path": "/d/FIFA 18/FIFA 18 [0100f7b002340000][v0].nsp",
+      "size_bytes": 14299871852,
+      "size_mb": 13637.42,
+      "size_gb": 13.32
     },
     {
       "name": "FIFA 22 Nintendo Switch Legacy Edition [US]",
@@ -487,7 +655,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/FIFA 22 Nintendo Switch Legacy Edition [0100216014472000][v0][US].nsp"
+      "path": "/d/FIFA 22 Nintendo Switch Legacy Edition [0100216014472000][v0][US].nsp",
+      "size_bytes": 13545563710,
+      "size_mb": 12918.06,
+      "size_gb": 12.62
     },
     {
       "name": "Fairy Tail",
@@ -496,7 +667,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Fairy Tail [0100CF900FA3E000][v0].nsp",
-      "image": "images/0100CF900FA3E000.png"
+      "image": "images/0100CF900FA3E000.png",
+      "size_bytes": 6506586685,
+      "size_mb": 6205.16,
+      "size_gb": 6.06
     },
     {
       "name": "Fire Emblem Engage (1.3.0)",
@@ -505,7 +679,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Fire Emblem Engage (1.3.0).nsp",
-      "image": "images/Fire_Emblem_Engage.png"
+      "image": "images/Fire_Emblem_Engage.png",
+      "size_bytes": 15087363800,
+      "size_mb": 14388.43,
+      "size_gb": 14.05
     },
     {
       "name": "Fire Emblem Engage [US]",
@@ -514,7 +691,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Fire Emblem Engage [0100A6301214E000][v0][US].nsp",
-      "image": "images/0100A6301214E000.png"
+      "image": "images/0100A6301214E000.png",
+      "size_bytes": 13541339984,
+      "size_mb": 12914.03,
+      "size_gb": 12.61
     },
     {
       "name": "Fire Emblem Three Houses [Additional Quests][US]",
@@ -522,7 +702,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Fire Emblem Three Houses [6 DLC]/Fire Emblem Three Houses [Additional Quests][010055D009F79004][US][v196608].nsp"
+      "path": "/d/Fire Emblem Three Houses [6 DLC]/Fire Emblem Three Houses [Additional Quests][010055D009F79004][US][v196608].nsp",
+      "size_bytes": 186576,
+      "size_mb": 0.18,
+      "size_gb": 0.0
     },
     {
       "name": "Fire Emblem Three Houses [Additional Support Items][US]",
@@ -530,7 +713,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Fire Emblem Three Houses [6 DLC]/Fire Emblem Three Houses [Additional Support Items][010055D009F79005][US][v196608].nsp"
+      "path": "/d/Fire Emblem Three Houses [6 DLC]/Fire Emblem Three Houses [Additional Support Items][010055D009F79005][US][v196608].nsp",
+      "size_bytes": 153808,
+      "size_mb": 0.15,
+      "size_gb": 0.0
     },
     {
       "name": "Fire Emblem Three Houses [Auxiliary Battle Maps][US]",
@@ -538,7 +724,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Fire Emblem Three Houses [6 DLC]/Fire Emblem Three Houses [Auxiliary Battle Maps][010055D009F79003][US][v196608].nsp"
+      "path": "/d/Fire Emblem Three Houses [6 DLC]/Fire Emblem Three Houses [Auxiliary Battle Maps][010055D009F79003][US][v196608].nsp",
+      "size_bytes": 557095120,
+      "size_mb": 531.29,
+      "size_gb": 0.52
     },
     {
       "name": "Fire Emblem Three Houses [Side Story Cindered Shadows][US]",
@@ -546,7 +735,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Fire Emblem Three Houses [6 DLC]/Fire Emblem Three Houses [Side Story Cindered Shadows][010055D009F79001][US][v196608].nsp"
+      "path": "/d/Fire Emblem Three Houses [6 DLC]/Fire Emblem Three Houses [Side Story Cindered Shadows][010055D009F79001][US][v196608].nsp",
+      "size_bytes": 428644560,
+      "size_mb": 408.79,
+      "size_gb": 0.4
     },
     {
       "name": "Fire Emblem Warriors Three Hopes [US]",
@@ -555,7 +747,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Fire Emblem Warriors Three Hopes [010071F0143EA000][v0][US].nsp",
-      "image": "images/010071F0143EA000.png"
+      "image": "images/010071F0143EA000.png",
+      "size_bytes": 14403321168,
+      "size_mb": 13736.08,
+      "size_gb": 13.41
     },
     {
       "name": "Five Nights at Freddy's 2",
@@ -564,7 +759,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Five Nights at Freddy's 2 [01004EB00E43A000][v0].nsp",
-      "image": "images/01004EB00E43A000.png"
+      "image": "images/01004EB00E43A000.png",
+      "size_bytes": 286403408,
+      "size_mb": 273.14,
+      "size_gb": 0.27
     },
     {
       "name": "Five Nights at Freddy's 3",
@@ -573,7 +771,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Five Nights at Freddy's 3 [010056100E43C000][v0].nsp",
-      "image": "images/010056100E43C000.png"
+      "image": "images/010056100E43C000.png",
+      "size_bytes": 162347344,
+      "size_mb": 154.83,
+      "size_gb": 0.15
     },
     {
       "name": "Five Nights at Freddy's 4",
@@ -582,7 +783,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Five Nights at Freddy's 4 [010083800E43E000][v0].nsp",
-      "image": "images/010083800E43E000.png"
+      "image": "images/010083800E43E000.png",
+      "size_bytes": 629960016,
+      "size_mb": 600.78,
+      "size_gb": 0.59
     },
     {
       "name": "Five Nights at Freddy's Help Wanted",
@@ -591,7 +795,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Five Nights at Freddy's Help Wanted [0100F7901118C000][v0].nsp",
-      "image": "images/0100F7901118C000.png"
+      "image": "images/0100F7901118C000.png",
+      "size_bytes": 13970339216,
+      "size_mb": 13323.15,
+      "size_gb": 13.01
     },
     {
       "name": "Five Nights at Freddy's",
@@ -600,7 +807,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Five Nights at Freddy's [0100B6200D8D2000][v0].nsp",
-      "image": "images/0100B6200D8D2000.png"
+      "image": "images/0100B6200D8D2000.png",
+      "size_bytes": 223640400,
+      "size_mb": 213.28,
+      "size_gb": 0.21
     },
     {
       "name": "Five Nights at Freddys Security Breach",
@@ -609,7 +819,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Five Nights at Freddys Security Breach.nsp",
-      "image": "images/Five_Nights_at_Freddys_Security_Breach.png"
+      "image": "images/Five_Nights_at_Freddys_Security_Breach.png",
+      "size_bytes": 8851931864,
+      "size_mb": 8441.86,
+      "size_gb": 8.24
     },
     {
       "name": "Five Nights at Freddys Sister Location",
@@ -618,7 +831,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Five Nights at Freddys Sister Location [01003B200E440000][v0].nsp",
-      "image": "images/01003B200E440000.png"
+      "image": "images/01003B200E440000.png",
+      "size_bytes": 1080632256,
+      "size_mb": 1030.57,
+      "size_gb": 1.01
     },
     {
       "name": "Game Boy - NSO",
@@ -626,7 +842,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Game Boy - NSO [0100C62011050000][v0].nsp"
+      "path": "/d/Game Boy - NSO [0100C62011050000][v0].nsp",
+      "size_bytes": 57998138,
+      "size_mb": 55.31,
+      "size_gb": 0.05
     },
     {
       "name": "Game Boy Advance - Nintendo Switch Online",
@@ -634,7 +853,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Game Boy Advance - Nintendo Switch Online [010012F017576000].nsp"
+      "path": "/d/Game Boy Advance - Nintendo Switch Online [010012F017576000].nsp",
+      "size_bytes": 100185424,
+      "size_mb": 95.54,
+      "size_gb": 0.09
     },
     {
       "name": "Ghost Trick Phantom Detective [US]",
@@ -642,7 +864,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Ghost Trick Phantom Detective [010029B018432000][v0][US].nsp"
+      "path": "/d/Ghost Trick Phantom Detective [010029B018432000][v0][US].nsp",
+      "size_bytes": 2925222800,
+      "size_mb": 2789.71,
+      "size_gb": 2.72
     },
     {
       "name": "Ghosts n Goblins Resurrection",
@@ -651,7 +876,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Ghosts n Goblins Resurrection.nsp",
-      "image": "images/Ghosts_n_Goblins_Resurrection.png"
+      "image": "images/Ghosts_n_Goblins_Resurrection.png",
+      "size_bytes": 3186818448,
+      "size_mb": 3039.19,
+      "size_gb": 2.97
     },
     {
       "name": "Gothic 2",
@@ -659,7 +887,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Gothic 2 [0100AB001A960000][v0] (9.29 GB).nsp"
+      "path": "/d/Gothic 2 [0100AB001A960000][v0] (9.29 GB).nsp",
+      "size_bytes": 9986554192,
+      "size_mb": 9523.92,
+      "size_gb": 9.3
     },
     {
       "name": "Grand Theft Auto 3",
@@ -667,7 +898,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Grand Theft Auto 3 [0100C3C012718000][v0].nsp"
+      "path": "/d/Grand Theft Auto 3 [0100C3C012718000][v0].nsp",
+      "size_bytes": 2389648452,
+      "size_mb": 2278.95,
+      "size_gb": 2.23
     },
     {
       "name": "Grand Theft Auto San Andreas",
@@ -675,7 +909,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Grand Theft Auto San Andreas [010065A014024000][v0].nsp"
+      "path": "/d/Grand Theft Auto San Andreas [010065A014024000][v0].nsp",
+      "size_bytes": 11622758469,
+      "size_mb": 11084.33,
+      "size_gb": 10.82
     },
     {
       "name": "Grand Theft Auto Vice City",
@@ -683,7 +920,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Grand Theft Auto Vice City [0100182014022000][v0].nsp"
+      "path": "/d/Grand Theft Auto Vice City [0100182014022000][v0].nsp",
+      "size_bytes": 117652547,
+      "size_mb": 112.2,
+      "size_gb": 0.11
     },
     {
       "name": "Guacamelee STCE",
@@ -691,7 +931,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Guacamelee STCE.nsp"
+      "path": "/d/Guacamelee STCE.nsp",
+      "size_bytes": 670657802,
+      "size_mb": 639.59,
+      "size_gb": 0.62
     },
     {
       "name": "Guns, Gore and Cannoli (1.0.0)",
@@ -699,7 +942,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Guns, Gore and Cannoli (1.0.0).nsp"
+      "path": "/d/Guns, Gore and Cannoli (1.0.0).nsp",
+      "size_bytes": 1544054112,
+      "size_mb": 1472.52,
+      "size_gb": 1.44
     },
     {
       "name": "Hades II",
@@ -707,7 +953,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Hades II [0100A00019DE0000].nsp"
+      "path": "/d/Hades II [0100A00019DE0000].nsp",
+      "size_bytes": 4528902731,
+      "size_mb": 4319.1,
+      "size_gb": 4.22
     },
     {
       "name": "Hades II [1.0.131248]",
@@ -715,7 +964,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Hades II [0100A00019DE0800][v196608][1.0.131248].nsp"
+      "path": "/d/Hades II [0100A00019DE0800][v196608][1.0.131248].nsp",
+      "size_bytes": 2396361292,
+      "size_mb": 2285.35,
+      "size_gb": 2.23
     },
     {
       "name": "Hades",
@@ -723,7 +975,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Hades[0100535012974000][v0].nsp"
+      "path": "/d/Hades[0100535012974000][v0].nsp",
+      "size_bytes": 4222674320,
+      "size_mb": 4027.06,
+      "size_gb": 3.93
     },
     {
       "name": "Hogwarts Legacy [US](nsw2u.com)",
@@ -731,7 +986,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Hogwarts Legacy [0100F7E00C70E000][v0][US](nsw2u.com).xci"
+      "path": "/d/Hogwarts Legacy [0100F7E00C70E000][v0][US](nsw2u.com).xci",
+      "size_bytes": 7985954816,
+      "size_mb": 7616.0,
+      "size_gb": 7.44
     },
     {
       "name": "Hunting Simulator",
@@ -740,7 +998,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Hunting Simulator [0100C460040EA000][v0].nsp",
-      "image": "images/0100C460040EA000.png"
+      "image": "images/0100C460040EA000.png",
+      "size_bytes": 5830294864,
+      "size_mb": 5560.2,
+      "size_gb": 5.43
     },
     {
       "name": "Hyrule Warriors Age of Calamity",
@@ -749,7 +1010,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Hyrule Warriors Age of Calamity.nsp",
-      "image": "images/Hyrule_Warriors_Age_of_Calamity.png"
+      "image": "images/Hyrule_Warriors_Age_of_Calamity.png",
+      "size_bytes": 11434554625,
+      "size_mb": 10904.84,
+      "size_gb": 10.65
     },
     {
       "name": "It Takes Two [US]",
@@ -757,7 +1021,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/It Takes Two [010092A0172E4000][v0][US].nsp"
+      "path": "/d/It Takes Two [010092A0172E4000][v0][US].nsp",
+      "size_bytes": 7095533125,
+      "size_mb": 6766.83,
+      "size_gb": 6.61
     },
     {
       "name": "JUMP FORCE - Deluxe Edition [JUMP FORCE Early Purchase Bonus][US]",
@@ -766,7 +1033,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/JUMP FORCE - Deluxe Edition [JUMP FORCE Early Purchase Bonus][0100183010F13065][US][v0].nsp",
-      "image": "images/0100183010F13065.png"
+      "image": "images/0100183010F13065.png",
+      "size_bytes": 153536,
+      "size_mb": 0.15,
+      "size_gb": 0.0
     },
     {
       "name": "JUMP FORCE Deluxe Edition (US)",
@@ -775,7 +1045,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/JUMP FORCE Deluxe Edition [0100183010F12000][v0](US).nsp",
-      "image": "images/0100183010F12000.png"
+      "image": "images/0100183010F12000.png",
+      "size_bytes": 10472891143,
+      "size_mb": 9987.73,
+      "size_gb": 9.75
     },
     {
       "name": "Jump Force Deluxe Edition",
@@ -784,7 +1057,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Jump Force Deluxe Edition.nsp",
-      "image": "images/Jump_Force_Deluxe_Edition.png"
+      "image": "images/Jump_Force_Deluxe_Edition.png",
+      "size_bytes": 10472891143,
+      "size_mb": 9987.73,
+      "size_gb": 9.75
     },
     {
       "name": "Jurassic_Park_Classic_Games_Collection_0100D4801BF26000v0USnsw2u",
@@ -792,7 +1068,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Jurassic_Park_Classic_Games_Collection_0100D4801BF26000v0USnsw2u.nsp"
+      "path": "/d/Jurassic_Park_Classic_Games_Collection_0100D4801BF26000v0USnsw2u.nsp",
+      "size_bytes": 2725763472,
+      "size_mb": 2599.49,
+      "size_gb": 2.54
     },
     {
       "name": "KILL la KILL - IF [EU]",
@@ -801,7 +1080,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/KILL la KILL - IF [010018600E03E000][v0][EU].nsp",
-      "image": "images/010018600E03E000.png"
+      "image": "images/010018600E03E000.png",
+      "size_bytes": 6567883600,
+      "size_mb": 6263.62,
+      "size_gb": 6.12
     },
     {
       "name": "KINGDOM HEARTS Melody of Memory (US-EU)",
@@ -810,7 +1092,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/KINGDOM HEARTS Melody of Memory [01005D2011EA8000][v0](US-EU).nsp",
-      "image": "images/01005D2011EA8000.png"
+      "image": "images/01005D2011EA8000.png",
+      "size_bytes": 5362617087,
+      "size_mb": 5114.19,
+      "size_gb": 4.99
     },
     {
       "name": "L0LLIP0P CHAINS@W RePOP.v1.1",
@@ -818,7 +1103,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/L0LLIP0P CHAINS@W RePOP.v1.1.xci"
+      "path": "/d/L0LLIP0P CHAINS@W RePOP.v1.1.xci",
+      "size_bytes": 7881453056,
+      "size_mb": 7516.34,
+      "size_gb": 7.34
     },
     {
       "name": "LEGO Star Wars The Skywalker Saga",
@@ -827,7 +1115,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/LEGO Star Wars The Skywalker Saga [010042D00D900000][v0].nsp",
-      "image": "images/010042D00D900000.png"
+      "image": "images/010042D00D900000.png",
+      "size_bytes": 14902451024,
+      "size_mb": 14212.08,
+      "size_gb": 13.88
     },
     {
       "name": "Little Friends: Dogs & Cats [Base]",
@@ -836,7 +1127,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Little Friends: Dogs & Cats [010079A00D9E8000][v0][Base].nsp",
-      "image": "images/010079A00D9E8000.png"
+      "image": "images/010079A00D9E8000.png",
+      "size_bytes": 0,
+      "size_mb": 0,
+      "size_gb": 0
     },
     {
       "name": "Little Friends: Puppy Island [Base]",
@@ -844,7 +1138,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Little Friends: Puppy Island [010023801A52A000][v0][Base].nsp"
+      "path": "/d/Little Friends: Puppy Island [010023801A52A000][v0][Base].nsp",
+      "size_bytes": 0,
+      "size_mb": 0,
+      "size_gb": 0
     },
     {
       "name": "Little Nightmares III",
@@ -853,7 +1150,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Little Nightmares III [010066101A55A000].xci",
-      "image": "images/010066101A55A000.png"
+      "image": "images/010066101A55A000.png",
+      "size_bytes": 7985954816,
+      "size_mb": 7616.0,
+      "size_gb": 7.44
     },
     {
       "name": "METAL GEAR SOLID 1 - Master Collection Version",
@@ -862,7 +1162,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/METAL GEAR SOLID 1 - Master Collection Version [0100C1301A9C2000][v0].nsp",
-      "image": "images/0100C1301A9C2000.png"
+      "image": "images/0100C1301A9C2000.png",
+      "size_bytes": 473569852,
+      "size_mb": 451.63,
+      "size_gb": 0.44
     },
     {
       "name": "Mario Kart 8 Deluxe v3.0.5",
@@ -870,7 +1173,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Mario Kart 8 Deluxe v3.0.5.nsp"
+      "path": "/d/Mario Kart 8 Deluxe v3.0.5.nsp",
+      "size_bytes": 4800093771,
+      "size_mb": 4577.73,
+      "size_gb": 4.47
     },
     {
       "name": "Mario Party Superstars[US]",
@@ -878,7 +1184,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Mario Party Superstars[01006FE013472000][US][v0].nsp"
+      "path": "/d/Mario Party Superstars[01006FE013472000][US][v0].nsp",
+      "size_bytes": 2924620736,
+      "size_mb": 2789.14,
+      "size_gb": 2.72
     },
     {
       "name": "Mario Tennis Aces[US]",
@@ -887,7 +1196,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Mario Tennis Aces[0100BDE00862A000][US][v0].nsp",
-      "image": "images/0100BDE00862A000.png"
+      "image": "images/0100BDE00862A000.png",
+      "size_bytes": 1999079777,
+      "size_mb": 1906.47,
+      "size_gb": 1.86
     },
     {
       "name": "Mario and Luigi Brothership [US]",
@@ -895,7 +1207,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Mario and Luigi Brothership [01006D0017F7A000][v0][US].nsp"
+      "path": "/d/Mario and Luigi Brothership [01006D0017F7A000][v0][US].nsp",
+      "size_bytes": 10573100607,
+      "size_mb": 10083.29,
+      "size_gb": 9.85
     },
     {
       "name": "Mario vs. Donkey Kong",
@@ -903,7 +1218,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Mario vs. Donkey Kong [0100B99019412000][v0].nsp"
+      "path": "/d/Mario vs. Donkey Kong [0100B99019412000][v0].nsp",
+      "size_bytes": 1374031616,
+      "size_mb": 1310.38,
+      "size_gb": 1.28
     },
     {
       "name": "Metroid Dread v2.1.0",
@@ -911,7 +1229,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Metroid Dread v2.1.0.xci"
+      "path": "/d/Metroid Dread v2.1.0.xci",
+      "size_bytes": 4580459008,
+      "size_mb": 4368.27,
+      "size_gb": 4.27
     },
     {
       "name": "Metroid Prime 4 Beyond [v1.1.0]",
@@ -919,7 +1240,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Metroid Prime 4 Beyond [v1.1.0].xci"
+      "path": "/d/Metroid Prime 4 Beyond [v1.1.0].xci",
+      "size_bytes": 28281123328,
+      "size_mb": 26970.98,
+      "size_gb": 26.34
     },
     {
       "name": "Metroid Prime Remastered",
@@ -927,7 +1251,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Metroid Prime Remastered [010012101468C000].nsp"
+      "path": "/d/Metroid Prime Remastered [010012101468C000].nsp",
+      "size_bytes": 7262924560,
+      "size_mb": 6926.46,
+      "size_gb": 6.76
     },
     {
       "name": "Miitopia [US]",
@@ -935,7 +1262,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Miitopia [01003DA010E8A000][US][v0].nsp"
+      "path": "/d/Miitopia [01003DA010E8A000][US][v0].nsp",
+      "size_bytes": 3251313331,
+      "size_mb": 3100.69,
+      "size_gb": 3.03
     },
     {
       "name": "Miitopia",
@@ -943,7 +1273,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Miitopia [01003DA010E8A800][v196608].nsp"
+      "path": "/d/Miitopia [01003DA010E8A800][v196608].nsp",
+      "size_bytes": 16050873,
+      "size_mb": 15.31,
+      "size_gb": 0.01
     },
     {
       "name": "Minecraft Dungeons",
@@ -951,7 +1284,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Minecraft Dungeons [01006C100EC08000][v0].nsp"
+      "path": "/d/Minecraft Dungeons [01006C100EC08000][v0].nsp",
+      "size_bytes": 3406054800,
+      "size_mb": 3248.27,
+      "size_gb": 3.17
     },
     {
       "name": "Minecraft Legends",
@@ -959,7 +1295,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Minecraft Legends [01007C6012CC8000][v0].nsp"
+      "path": "/d/Minecraft Legends [01007C6012CC8000][v0].nsp",
+      "size_bytes": 7065715262,
+      "size_mb": 6738.39,
+      "size_gb": 6.58
     },
     {
       "name": "Minecraft Story Mode - Season Two",
@@ -968,7 +1307,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Minecraft Story Mode - Season Two [01003EF007ABA000][v0].nsp",
-      "image": "images/01003EF007ABA000.png"
+      "image": "images/01003EF007ABA000.png",
+      "size_bytes": 6372075856,
+      "size_mb": 6076.89,
+      "size_gb": 5.93
     },
     {
       "name": "Minecraft Story Mode - The Complete Adventure",
@@ -977,7 +1319,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Minecraft Story Mode - The Complete Adventure [010059C002AC2000][v0].nsp",
-      "image": "images/010059C002AC2000.png"
+      "image": "images/010059C002AC2000.png",
+      "size_bytes": 4649889616,
+      "size_mb": 4434.48,
+      "size_gb": 4.33
     },
     {
       "name": "Monster High Skulltimate Secrets [USA][Base]",
@@ -985,7 +1330,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Monster High Skulltimate Secrets [010097F01C75A000][USA][v0][Base].xci"
+      "path": "/d/Monster High Skulltimate Secrets [010097F01C75A000][USA][v0][Base].xci",
+      "size_bytes": 1996488704,
+      "size_mb": 1904.0,
+      "size_gb": 1.86
     },
     {
       "name": "Mortal Kombat 1",
@@ -994,7 +1342,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Mortal Kombat 1 [01006560184E6000][v0] (5.87 GB).nsp",
-      "image": "images/01006560184E6000.png"
+      "image": "images/01006560184E6000.png",
+      "size_bytes": 6309649296,
+      "size_mb": 6017.35,
+      "size_gb": 5.88
     },
     {
       "name": "My Little Puppy [Base]",
@@ -1002,7 +1353,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/My Little Puppy [01005EB0269DE000][v0][Base].nsp"
+      "path": "/d/My Little Puppy [01005EB0269DE000][v0][Base].nsp",
+      "size_bytes": 5539175760,
+      "size_mb": 5282.57,
+      "size_gb": 5.16
     },
     {
       "name": "NARUTO SHIPPUDEN Ultimate Ninja Storm Trilogy",
@@ -1011,7 +1365,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/NARUTO SHIPPUDEN Ultimate Ninja Storm Trilogy [0100EC800800C000][v0].nsp",
-      "image": "images/0100EC800800C000.png"
+      "image": "images/0100EC800800C000.png",
+      "size_bytes": 18933607179,
+      "size_mb": 18056.49,
+      "size_gb": 17.63
     },
     {
       "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS [NBUNSC - Kakashi Hatake Maskless]",
@@ -1020,7 +1377,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS [NBUNSC - Kakashi Hatake Maskless] [0100D2D0190A5005][v0].nsp",
-      "image": "images/0100D2D0190A5005.png"
+      "image": "images/0100D2D0190A5005.png",
+      "size_bytes": 153536,
+      "size_mb": 0.15,
+      "size_gb": 0.0
     },
     {
       "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS [NBUNSC - Naruto Uzumaki The Great Ninja War End]",
@@ -1029,7 +1389,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS [NBUNSC - Naruto Uzumaki The Great Ninja War End] [0100D2D0190A5006][v0].nsp",
-      "image": "images/0100D2D0190A5006.png"
+      "image": "images/0100D2D0190A5006.png",
+      "size_bytes": 153536,
+      "size_mb": 0.15,
+      "size_gb": 0.0
     },
     {
       "name": "Need For Speed Hot Pursuit Remastered",
@@ -1038,7 +1401,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Need For Speed Hot Pursuit Remastered[v0].nsp",
-      "image": "images/Need_For_Speed_Hot_Pursuit_Remastered.png"
+      "image": "images/Need_For_Speed_Hot_Pursuit_Remastered.png",
+      "size_bytes": 7388618715,
+      "size_mb": 7046.34,
+      "size_gb": 6.88
     },
     {
       "name": "NieR Automata The End of YoRHa Edition (1.0.2)",
@@ -1047,7 +1413,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/NieR Automata The End of YoRHa Edition (1.0.2).nsp",
-      "image": "images/NieR_Automata_The_End_of_YoRHa_Edition.png"
+      "image": "images/NieR_Automata_The_End_of_YoRHa_Edition.png",
+      "size_bytes": 11688595672,
+      "size_mb": 11147.11,
+      "size_gb": 10.89
     },
     {
       "name": "Ninja Gaiden Sigma",
@@ -1055,7 +1424,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Ninja Gaiden Sigma (v1.0.2).nsp"
+      "path": "/d/Ninja Gaiden Sigma (v1.0.2).nsp",
+      "size_bytes": 3508788952,
+      "size_mb": 3346.24,
+      "size_gb": 3.27
     },
     {
       "name": "Ninja Gaiden Sigma 2",
@@ -1063,7 +1435,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Ninja Gaiden Sigma 2 (v1.0.4).nsp"
+      "path": "/d/Ninja Gaiden Sigma 2 (v1.0.4).nsp",
+      "size_bytes": 4295901912,
+      "size_mb": 4096.89,
+      "size_gb": 4.0
     },
     {
       "name": "Nintendo 64 - Nintendo Switch Online",
@@ -1071,7 +1446,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Nintendo 64 - Nintendo Switch Online [0100C9A00ECE6000][v0].nsp"
+      "path": "/d/Nintendo 64 - Nintendo Switch Online [0100C9A00ECE6000][v0].nsp",
+      "size_bytes": 0,
+      "size_mb": 0,
+      "size_gb": 0
     },
     {
       "name": "Nintendo Entertainment System - Nintendo Switch Online",
@@ -1080,7 +1458,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Nintendo Entertainment System - Nintendo Switch Online [0100D870045B6000][v0].nsp",
-      "image": "images/0100D870045B6000.png"
+      "image": "images/0100D870045B6000.png",
+      "size_bytes": 51418932,
+      "size_mb": 49.04,
+      "size_gb": 0.05
     },
     {
       "name": "Nintendo NES Nintendo Switch Online [v6.8.0 -V1]",
@@ -1088,7 +1469,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Nintendo NES Nintendo Switch Online [v6.8.0 -V1].xci"
+      "path": "/d/Nintendo NES Nintendo Switch Online [v6.8.0 -V1].xci",
+      "size_bytes": 276862464,
+      "size_mb": 264.04,
+      "size_gb": 0.26
     },
     {
       "name": "Nintendo Switch Sports v1.4.0",
@@ -1096,7 +1480,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Nintendo Switch Sports v1.4.0.xci"
+      "path": "/d/Nintendo Switch Sports v1.4.0.xci",
+      "size_bytes": 3232768000,
+      "size_mb": 3083.01,
+      "size_gb": 3.01
     },
     {
       "name": "No Man's Sky [v5.5.5]",
@@ -1104,7 +1491,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/No Man's Sky [v5.5.5].xci"
+      "path": "/d/No Man's Sky [v5.5.5].xci",
+      "size_bytes": 6140572160,
+      "size_mb": 5856.11,
+      "size_gb": 5.72
     },
     {
       "name": "OKAMI HD",
@@ -1112,7 +1502,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/OKAMI HD [0100276009872000][v0].nsp"
+      "path": "/d/OKAMI HD [0100276009872000][v0].nsp",
+      "size_bytes": 9876246320,
+      "size_mb": 9418.72,
+      "size_gb": 9.2
     },
     {
       "name": "Octopath Traveler 2",
@@ -1121,7 +1514,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Octopath Traveler 2.xci",
-      "image": "images/Octopath_Traveler_2.png"
+      "image": "images/Octopath_Traveler_2.png",
+      "size_bytes": 7985954816,
+      "size_mb": 7616.0,
+      "size_gb": 7.44
     },
     {
       "name": "Octopath Traveler",
@@ -1130,7 +1526,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Octopath Traveler [010057D006492000][v0].nsp",
-      "image": "images/010057D006492000.png"
+      "image": "images/010057D006492000.png",
+      "size_bytes": 3163756810,
+      "size_mb": 3017.19,
+      "size_gb": 2.95
     },
     {
       "name": "One Peace - Unlimited World Red",
@@ -1138,7 +1537,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/One Peace - Unlimited World Red.nsp"
+      "path": "/d/One Peace - Unlimited World Red.nsp",
+      "size_bytes": 11215381771,
+      "size_mb": 10695.82,
+      "size_gb": 10.45
     },
     {
       "name": "Ori and the Blind Forest Definitive Edition",
@@ -1147,7 +1549,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Ori and the Blind Forest Definitive Edition [010061D00DB74000][v0].nsp",
-      "image": "images/010061D00DB74000.png"
+      "image": "images/010061D00DB74000.png",
+      "size_bytes": 3719376139,
+      "size_mb": 3547.07,
+      "size_gb": 3.46
     },
     {
       "name": "Ori and the Will of the Wisps",
@@ -1155,7 +1560,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Ori and the Will of the Wisps[01008DD013200000][v0].nsp"
+      "path": "/d/Ori and the Will of the Wisps[01008DD013200000][v0].nsp",
+      "size_bytes": 3109638080,
+      "size_mb": 2965.58,
+      "size_gb": 2.9
     },
     {
       "name": "Outlast 2",
@@ -1164,7 +1572,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Outlast 2.nsp",
-      "image": "images/Outlast_2.png"
+      "image": "images/Outlast_2.png",
+      "size_bytes": 10376409905,
+      "size_mb": 9895.72,
+      "size_gb": 9.66
     },
     {
       "name": "Overcooked 2",
@@ -1172,7 +1583,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Overcooked 2 [01006FD0080B2000][v0].nsp"
+      "path": "/d/Overcooked 2 [01006FD0080B2000][v0].nsp",
+      "size_bytes": 1860477264,
+      "size_mb": 1774.29,
+      "size_gb": 1.73
     },
     {
       "name": "Overcooked Special Edition",
@@ -1181,7 +1595,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Overcooked Special Edition [01009B900401E000].nsp",
-      "image": "images/01009B900401E000.png"
+      "image": "images/01009B900401E000.png",
+      "size_bytes": 785153289,
+      "size_mb": 748.78,
+      "size_gb": 0.73
     },
     {
       "name": "PQ",
@@ -1189,7 +1606,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/PQ [01005D100807A000][v0] (2).nsp"
+      "path": "/d/PQ [01005D100807A000][v0] (2).nsp",
+      "size_bytes": 232735497,
+      "size_mb": 221.95,
+      "size_gb": 0.22
     },
     {
       "name": "PT DX",
@@ -1197,7 +1617,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/PT DX [0100B3F000BE2000][v0].nsp"
+      "path": "/d/PT DX [0100B3F000BE2000][v0].nsp",
+      "size_bytes": 3501370122,
+      "size_mb": 3339.17,
+      "size_gb": 3.26
     },
     {
       "name": "Pacman Championship Edition 2",
@@ -1206,7 +1629,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Pacman Championship Edition 2.nsp",
-      "image": "images/Pacman_Championship_Edition_2.png"
+      "image": "images/Pacman_Championship_Edition_2.png",
+      "size_bytes": 2526096720,
+      "size_mb": 2409.07,
+      "size_gb": 2.35
     },
     {
       "name": "Pang Adventures",
@@ -1215,7 +1641,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Pang Adventures.nsp",
-      "image": "images/Pang_Adventures.png"
+      "image": "images/Pang_Adventures.png",
+      "size_bytes": 426407178,
+      "size_mb": 406.65,
+      "size_gb": 0.4
     },
     {
       "name": "Panzer Dragoon Remake",
@@ -1223,7 +1652,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Panzer Dragoon Remake.nsp"
+      "path": "/d/Panzer Dragoon Remake.nsp",
+      "size_bytes": 7475146511,
+      "size_mb": 7128.86,
+      "size_gb": 6.96
     },
     {
       "name": "Paper Mario The Thousand Year Door",
@@ -1231,7 +1663,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Paper Mario The Thousand Year Door.xci"
+      "path": "/d/Paper Mario The Thousand Year Door.xci",
+      "size_bytes": 7985954816,
+      "size_mb": 7616.0,
+      "size_gb": 7.44
     },
     {
       "name": "Paw Patrol Grand Prix [US]",
@@ -1239,7 +1674,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Paw Patrol Grand Prix [0100360016800000][v0][US].xci"
+      "path": "/d/Paw Patrol Grand Prix [0100360016800000][v0][US].xci",
+      "size_bytes": 3992977408,
+      "size_mb": 3808.0,
+      "size_gb": 3.72
     },
     {
       "name": "Persona 5 Royal v1.0.2",
@@ -1248,7 +1686,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Persona 5 Royal v1.0.2.xci",
-      "image": "images/Persona_5_Royal_v1_0_2.png"
+      "image": "images/Persona_5_Royal_v1_0_2.png",
+      "size_bytes": 15266869248,
+      "size_mb": 14559.62,
+      "size_gb": 14.22
     },
     {
       "name": "Pikmin 4 v1.0.2",
@@ -1256,7 +1697,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Pikmin 4 v1.0.2.xci"
+      "path": "/d/Pikmin 4 v1.0.2.xci",
+      "size_bytes": 11248022016,
+      "size_mb": 10726.95,
+      "size_gb": 10.48
     },
     {
       "name": "Plants vs Zombies Neighborville Complete Edition",
@@ -1265,7 +1709,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Plants vs Zombies Neighborville Complete Edition.nsp",
-      "image": "images/Plants_vs_Zombies_Neighborville_Complete_Edition.png"
+      "image": "images/Plants_vs_Zombies_Neighborville_Complete_Edition.png",
+      "size_bytes": 6790289981,
+      "size_mb": 6475.73,
+      "size_gb": 6.32
     },
     {
       "name": "Pokemon Brilliant Diamond",
@@ -1273,7 +1720,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Pokemon Brilliant Diamond [0100000011D90000][v0] (4.29 GB).nsp"
+      "path": "/d/Pokemon Brilliant Diamond [0100000011D90000][v0] (4.29 GB).nsp",
+      "size_bytes": 4611760400,
+      "size_mb": 4398.12,
+      "size_gb": 4.3
     },
     {
       "name": "Pokemon Cafe Mix",
@@ -1281,7 +1731,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Pokemon Cafe Mix [010072400E04A000][v0].nsp"
+      "path": "/d/Pokemon Cafe Mix [010072400E04A000][v0].nsp",
+      "size_bytes": 111116558,
+      "size_mb": 105.97,
+      "size_gb": 0.1
     },
     {
       "name": "Pokemon Scarlet v4.0.0",
@@ -1289,7 +1742,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Pokemon Scarlet v4.0.0.nsp"
+      "path": "/d/Pokemon Scarlet v4.0.0.nsp",
+      "size_bytes": 5235890764,
+      "size_mb": 4993.33,
+      "size_gb": 4.88
     },
     {
       "name": "Pokemon Shield",
@@ -1297,7 +1753,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Pokemon Shield [01008DB008C2C000][v0] (9.53 GB).nsp"
+      "path": "/d/Pokemon Shield [01008DB008C2C000][v0] (9.53 GB).nsp",
+      "size_bytes": 10236730704,
+      "size_mb": 9762.51,
+      "size_gb": 9.53
     },
     {
       "name": "Pokemon Shining Pearl",
@@ -1305,7 +1764,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Pokemon Shining Pearl [010018E011D92000][v0] (4.29 GB).nsp"
+      "path": "/d/Pokemon Shining Pearl [010018E011D92000][v0] (4.29 GB).nsp",
+      "size_bytes": 4611741968,
+      "size_mb": 4398.1,
+      "size_gb": 4.3
     },
     {
       "name": "Pokemon Sword",
@@ -1314,7 +1776,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Pokemon Sword [0100ABF008968000][v0] (9.53 GB).nsp",
-      "image": "images/0100ABF008968000.png"
+      "image": "images/0100ABF008968000.png",
+      "size_bytes": 10236751184,
+      "size_mb": 9762.53,
+      "size_gb": 9.53
     },
     {
       "name": "Pokémon Legends Z-A",
@@ -1322,7 +1787,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Pokémon Legends Z-A.nsp"
+      "path": "/d/Pokémon Legends Z-A.nsp",
+      "size_bytes": 4325966911,
+      "size_mb": 4125.56,
+      "size_gb": 4.03
     },
     {
       "name": "Poppy Playtime Chapter 4 [v1.1]",
@@ -1330,7 +1798,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Poppy Playtime Chapter 4 [v1.1].xci"
+      "path": "/d/Poppy Playtime Chapter 4 [v1.1].xci",
+      "size_bytes": 3977774592,
+      "size_mb": 3793.5,
+      "size_gb": 3.7
     },
     {
       "name": "PowerWash Simulator [US]",
@@ -1338,7 +1809,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/PowerWash Simulator [0100926016012000][v0][US].nsp"
+      "path": "/d/PowerWash Simulator [0100926016012000][v0][US].nsp",
+      "size_bytes": 2340631376,
+      "size_mb": 2232.2,
+      "size_gb": 2.18
     },
     {
       "name": "Prince of Persia The Lost Crown",
@@ -1346,7 +1820,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Prince of Persia The Lost Crown [0100210019428000][v0] (5.98 GB).nsp"
+      "path": "/d/Prince of Persia The Lost Crown [0100210019428000][v0] (5.98 GB).nsp",
+      "size_bytes": 0,
+      "size_mb": 0.0,
+      "size_gb": 0.0
     },
     {
       "name": "Red Dead Redemption",
@@ -1354,7 +1831,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Red Dead Redemption [01007820196A6000][v0].nsp"
+      "path": "/d/Red Dead Redemption [01007820196A6000][v0].nsp",
+      "size_bytes": 12124029264,
+      "size_mb": 11562.38,
+      "size_gb": 11.29
     },
     {
       "name": "Resident Evil 6 [USA](eShop)",
@@ -1363,7 +1843,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Resident Evil 6 [01002A000CD48000][USA][v0](eShop).nsp",
-      "image": "images/01002A000CD48000.png"
+      "image": "images/01002A000CD48000.png",
+      "size_bytes": 18798346640,
+      "size_mb": 17927.5,
+      "size_gb": 17.51
     },
     {
       "name": "River City Girls Complete Edition",
@@ -1372,7 +1855,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/River City Girls Complete Edition [0100B740191E2000].xci",
-      "image": "images/0100B740191E2000.png"
+      "image": "images/0100B740191E2000.png",
+      "size_bytes": 13058773504,
+      "size_mb": 12453.82,
+      "size_gb": 12.16
     },
     {
       "name": "S+M+3D+All-S.by.farenheith v1.1.1",
@@ -1380,7 +1866,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/S+M+3D+All-S.by.farenheith v1.1.1.xci"
+      "path": "/d/S+M+3D+All-S.by.farenheith v1.1.1.xci",
+      "size_bytes": 5268717056,
+      "size_mb": 5024.64,
+      "size_gb": 4.91
     },
     {
       "name": "SNK Heroines Tag Team Frenzy",
@@ -1389,7 +1878,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/SNK Heroines Tag Team Frenzy.nsp",
-      "image": "images/SNK_Heroines_Tag_Team_Frenzy.png"
+      "image": "images/SNK_Heroines_Tag_Team_Frenzy.png",
+      "size_bytes": 12232720651,
+      "size_mb": 11666.03,
+      "size_gb": 11.39
     },
     {
       "name": "Dreamcast_[Reicast]",
@@ -1397,7 +1889,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Sega_Dreamcast[Reicast] SWITCH/Dreamcast_[Reicast].nsp"
+      "path": "/d/Sega_Dreamcast[Reicast] SWITCH/Dreamcast_[Reicast].nsp",
+      "size_bytes": 21152984,
+      "size_mb": 20.17,
+      "size_gb": 0.02
     },
     {
       "name": "Shakedown Hawaii",
@@ -1406,7 +1901,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Shakedown Hawaii.nsp",
-      "image": "images/Shakedown_Hawaii.png"
+      "image": "images/Shakedown_Hawaii.png",
+      "size_bytes": 138992576,
+      "size_mb": 132.55,
+      "size_gb": 0.13
     },
     {
       "name": "Skul the Hero Slayer",
@@ -1414,7 +1912,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Skul the Hero Slayer (v1.7.1).nsp"
+      "path": "/d/Skul the Hero Slayer (v1.7.1).nsp",
+      "size_bytes": 1236274392,
+      "size_mb": 1179.0,
+      "size_gb": 1.15
     },
     {
       "name": "Sniper Elite 4",
@@ -1423,7 +1924,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Sniper Elite 4 [010007B010FCC000][v0].nsp",
-      "image": "images/010007B010FCC000.png"
+      "image": "images/010007B010FCC000.png",
+      "size_bytes": 6550944592,
+      "size_mb": 6247.47,
+      "size_gb": 6.1
     },
     {
       "name": "Snow Bros. Wonderland v1.0.0[APP]",
@@ -1431,7 +1935,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Snow Bros. Wonderland v1.0.0[0100A1D0205E2000][v0][APP].nsp"
+      "path": "/d/Snow Bros. Wonderland v1.0.0[0100A1D0205E2000][v0][APP].nsp",
+      "size_bytes": 5669038404,
+      "size_mb": 5406.42,
+      "size_gb": 5.28
     },
     {
       "name": "Sonic Frontiers [US]",
@@ -1439,7 +1946,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Sonic Frontiers [01004AD014BF0000][v0][US].nsp"
+      "path": "/d/Sonic Frontiers [01004AD014BF0000][v0][US].nsp",
+      "size_bytes": 11124949840,
+      "size_mb": 10609.58,
+      "size_gb": 10.36
     },
     {
       "name": "Sonic Racing CrossWorlds v1.00[APP]",
@@ -1447,7 +1957,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Sonic Racing CrossWorlds v1.00[01006E001823C000][v0][APP].nsp"
+      "path": "/d/Sonic Racing CrossWorlds v1.00[01006E001823C000][v0][APP].nsp",
+      "size_bytes": 8527264535,
+      "size_mb": 8132.23,
+      "size_gb": 7.94
     },
     {
       "name": "Sonic x Shadow Generation",
@@ -1455,7 +1968,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Sonic x Shadow Generation [01005EA01C0FC000][v0] .nsp"
+      "path": "/d/Sonic x Shadow Generation [01005EA01C0FC000][v0] .nsp",
+      "size_bytes": 14008277392,
+      "size_mb": 13359.33,
+      "size_gb": 13.05
     },
     {
       "name": "Splatoon 2",
@@ -1464,7 +1980,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Splatoon 2.nsp",
-      "image": "images/Splatoon_2.png"
+      "image": "images/Splatoon_2.png",
+      "size_bytes": 3359985720,
+      "size_mb": 3204.33,
+      "size_gb": 3.13
     },
     {
       "name": "Story of Seasons Grand Bazaar",
@@ -1473,7 +1992,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Story of Seasons Grand Bazaar [0100DAE01E4C8000].xci",
-      "image": "images/0100DAE01E4C8000.png"
+      "image": "images/0100DAE01E4C8000.png",
+      "size_bytes": 3344682496,
+      "size_mb": 3189.74,
+      "size_gb": 3.11
     },
     {
       "name": "Stray [US]",
@@ -1481,7 +2003,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Stray [010075101EF84000][v0][US].nsp"
+      "path": "/d/Stray [010075101EF84000][v0][US].nsp",
+      "size_bytes": 4936148246,
+      "size_mb": 4707.48,
+      "size_gb": 4.6
     },
     {
       "name": "Subnautica",
@@ -1489,7 +2014,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Subnautica (v1.21.71113).nsp"
+      "path": "/d/Subnautica (v1.21.71113).nsp",
+      "size_bytes": 4243580120,
+      "size_mb": 4046.99,
+      "size_gb": 3.95
     },
     {
       "name": "Subnautica Below Zero",
@@ -1497,7 +2025,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Subnautica Below Zero (v1.21.49397).nsp"
+      "path": "/d/Subnautica Below Zero (v1.21.49397).nsp",
+      "size_bytes": 4360334552,
+      "size_mb": 4158.34,
+      "size_gb": 4.06
     },
     {
       "name": "Super Mario Galaxy 2 v1.0.0[APP]",
@@ -1505,7 +2036,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Super Mario Galaxy 2 v1.0.0[0100FD8022DAA000][v0][APP].nsp"
+      "path": "/d/Super Mario Galaxy 2 v1.0.0[0100FD8022DAA000][v0][APP].nsp",
+      "size_bytes": 2822349591,
+      "size_mb": 2691.6,
+      "size_gb": 2.63
     },
     {
       "name": "Super Mario Galaxy v1.0.0[APP]",
@@ -1513,7 +2047,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Super Mario Galaxy v1.0.0[010099C022B96000][v0][APP].nsp"
+      "path": "/d/Super Mario Galaxy v1.0.0[010099C022B96000][v0][APP].nsp",
+      "size_bytes": 3553777431,
+      "size_mb": 3389.15,
+      "size_gb": 3.31
     },
     {
       "name": "Super Mario Maker 2",
@@ -1521,7 +2058,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Super Mario Maker 2 [01009B90006DC000][v0].nsp"
+      "path": "/d/Super Mario Maker 2 [01009B90006DC000][v0].nsp",
+      "size_bytes": 3019070002,
+      "size_mb": 2879.21,
+      "size_gb": 2.81
     },
     {
       "name": "Super Mega Baseball 3",
@@ -1530,7 +2070,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Super Mega Baseball 3.nsp",
-      "image": "images/Super_Mega_Baseball_3.png"
+      "image": "images/Super_Mega_Baseball_3.png",
+      "size_bytes": 5492325824,
+      "size_mb": 5237.89,
+      "size_gb": 5.12
     },
     {
       "name": "Super Monkey Ball Banana Blitz HD",
@@ -1539,7 +2082,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Super Monkey Ball Banana Blitz HD.nsp",
-      "image": "images/Super_Monkey_Ball_Banana_Blitz_HD.png"
+      "image": "images/Super_Monkey_Ball_Banana_Blitz_HD.png",
+      "size_bytes": 1530725945,
+      "size_mb": 1459.81,
+      "size_gb": 1.43
     },
     {
       "name": "Super Nintendo Entertainment System - Nintendo Switch Online",
@@ -1548,7 +2094,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Super Nintendo Entertainment System - Nintendo Switch Online [01008D300C50C000][v0].nsp",
-      "image": "images/01008D300C50C000.png"
+      "image": "images/01008D300C50C000.png",
+      "size_bytes": 118438336,
+      "size_mb": 112.95,
+      "size_gb": 0.11
     },
     {
       "name": "Super Smash Bros Ultimate",
@@ -1556,7 +2105,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Super Smash Bros Ultimate [01006A800016E000][v0] (13.63 GB).nsp"
+      "path": "/d/Super Smash Bros Ultimate [01006A800016E000][v0] (13.63 GB).nsp",
+      "size_bytes": 14638709648,
+      "size_mb": 13960.56,
+      "size_gb": 13.63
     },
     {
       "name": "Super Smash Bros Ultimate [Spirit Booster Bundle 2 - Reaching Lv MAX]",
@@ -1564,7 +2116,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Super Smash Bros Ultimate(99 DLC) Incluidos outfit/Super Smash Bros Ultimate(99 DLC) Incluidos outfit/Super Smash Bros Ultimate [Spirit Booster Bundle 2 - Reaching Lv MAX] [01006A800016F087][v0].nsp"
+      "path": "/d/Super Smash Bros Ultimate(99 DLC) Incluidos outfit/Super Smash Bros Ultimate(99 DLC) Incluidos outfit/Super Smash Bros Ultimate [Spirit Booster Bundle 2 - Reaching Lv MAX] [01006A800016F087][v0].nsp",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "Super Smash Bros Ultimate [Spirits Set 1 - Legend Support and Ace Primary]",
@@ -1572,7 +2127,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Super Smash Bros Ultimate(99 DLC) Incluidos outfit/Super Smash Bros Ultimate(99 DLC) Incluidos outfit/Super Smash Bros Ultimate [Spirits Set 1 - Legend Support and Ace Primary] [01006A800016F083][v0].nsp"
+      "path": "/d/Super Smash Bros Ultimate(99 DLC) Incluidos outfit/Super Smash Bros Ultimate(99 DLC) Incluidos outfit/Super Smash Bros Ultimate [Spirits Set 1 - Legend Support and Ace Primary] [01006A800016F083][v0].nsp",
+      "size_bytes": 0,
+      "size_mb": 0,
+      "size_gb": 0
     },
     {
       "name": "Super Smash Bros Ultimate [Spirits Set 2 - Legend-Class Primary",
@@ -1580,7 +2138,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Super Smash Bros Ultimate(99 DLC) Incluidos outfit/Super Smash Bros Ultimate(99 DLC) Incluidos outfit/Super Smash Bros Ultimate [Spirits Set 2 - Legend-Class Primary  Ace-Class Support] [01006A800016F085][v0].nsp"
+      "path": "/d/Super Smash Bros Ultimate(99 DLC) Incluidos outfit/Super Smash Bros Ultimate(99 DLC) Incluidos outfit/Super Smash Bros Ultimate [Spirits Set 2 - Legend-Class Primary  Ace-Class Support] [01006A800016F085][v0].nsp",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "THE HOUSE OF THE DEAD Remake [v1.1.0]",
@@ -1588,7 +2149,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/THE HOUSE OF THE DEAD Remake [v1.1.0].xci"
+      "path": "/d/THE HOUSE OF THE DEAD Remake [v1.1.0].xci",
+      "size_bytes": 3914192896,
+      "size_mb": 3732.87,
+      "size_gb": 3.65
     },
     {
       "name": "TMNT Mutants Unleashed",
@@ -1596,7 +2160,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/TMNT Mutants Unleashed [010013001BD62000][v0].nsp"
+      "path": "/d/TMNT Mutants Unleashed [010013001BD62000][v0].nsp",
+      "size_bytes": 3222899024,
+      "size_mb": 3073.6,
+      "size_gb": 3.0
     },
     {
       "name": "TMNT Shredders Revenge",
@@ -1604,7 +2171,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/TMNT Shredders Revenge [0100FE701475A000][v0].nsp"
+      "path": "/d/TMNT Shredders Revenge [0100FE701475A000][v0].nsp",
+      "size_bytes": 955833168,
+      "size_mb": 911.55,
+      "size_gb": 0.89
     },
     {
       "name": "TMNT Splintered Fate",
@@ -1612,7 +2182,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/TMNT Splintered Fate [01005CF01E784000][v0].nsp"
+      "path": "/d/TMNT Splintered Fate [01005CF01E784000][v0].nsp",
+      "size_bytes": 1481129872,
+      "size_mb": 1412.52,
+      "size_gb": 1.38
     },
     {
       "name": "Tangle Tower",
@@ -1620,7 +2193,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Tangle Tower [0100F7600F3B8000][v0].nsp"
+      "path": "/d/Tangle Tower [0100F7600F3B8000][v0].nsp",
+      "size_bytes": 466958272,
+      "size_mb": 445.33,
+      "size_gb": 0.43
     },
     {
       "name": "Teenage Mutant Ninja Turtles The Cowabunga Collection",
@@ -1629,7 +2205,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Teenage Mutant Ninja Turtles The Cowabunga Collection [0100FDB0154E4000][v0].nsp",
-      "image": "images/0100FDB0154E4000.png"
+      "image": "images/0100FDB0154E4000.png",
+      "size_bytes": 3108973823,
+      "size_mb": 2964.95,
+      "size_gb": 2.9
     },
     {
       "name": "Teenage_Mutant_Ninja_Turtles_Arcade_Wrath_of_the_Mutants_0100C7",
@@ -1638,7 +2217,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Teenage_Mutant_Ninja_Turtles_Arcade_Wrath_of_the_Mutants_0100C7.nsp",
-      "image": "images/Teenage_Mutant_Ninja_Turtles_Arcade_Wrath_of_the_Mutants_0100C7.png"
+      "image": "images/Teenage_Mutant_Ninja_Turtles_Arcade_Wrath_of_the_Mutants_0100C7.png",
+      "size_bytes": 467249520,
+      "size_mb": 445.6,
+      "size_gb": 0.44
     },
     {
       "name": "Teenage_Mutant_Ninja_Turtles_Arcade_Wrath_of_the_Mutants_0100C7601CDAC000v0",
@@ -1646,7 +2228,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Teenage_Mutant_Ninja_Turtles_Arcade_Wrath_of_the_Mutants_0100C7601CDAC000v0.nsp"
+      "path": "/d/Teenage_Mutant_Ninja_Turtles_Arcade_Wrath_of_the_Mutants_0100C7601CDAC000v0.nsp",
+      "size_bytes": 531742992,
+      "size_mb": 507.11,
+      "size_gb": 0.5
     },
     {
       "name": "Terraria",
@@ -1655,7 +2240,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Terraria [0100E46006708000][v0].nsp",
-      "image": "images/0100E46006708000.png"
+      "image": "images/0100E46006708000.png",
+      "size_bytes": 167804240,
+      "size_mb": 160.03,
+      "size_gb": 0.16
     },
     {
       "name": "The Elder Scrolls V Skyrim",
@@ -1664,7 +2252,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/The Elder Scrolls V Skyrim.nsp",
-      "image": "images/The_Elder_Scrolls_V_Skyrim.png"
+      "image": "images/The_Elder_Scrolls_V_Skyrim.png",
+      "size_bytes": 15376321841,
+      "size_mb": 14664.0,
+      "size_gb": 14.32
     },
     {
       "name": "The Legend of Zelda Breath of the Wild",
@@ -1673,7 +2264,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/The Legend of Zelda Breath of the Wild [01007EF00011E000][v0].nsp",
-      "image": "images/01007EF00011E000.png"
+      "image": "images/01007EF00011E000.png",
+      "size_bytes": 14476256004,
+      "size_mb": 13805.63,
+      "size_gb": 13.48
     },
     {
       "name": "The Legend of Zelda Echoes of Wisdom [01008CF01BAAC0]",
@@ -1681,7 +2275,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/The Legend of Zelda Echoes of Wisdom [01008CF01BAAC0].nsp"
+      "path": "/d/The Legend of Zelda Echoes of Wisdom [01008CF01BAAC0].nsp",
+      "size_bytes": 0,
+      "size_mb": 0,
+      "size_gb": 0
     },
     {
       "name": "The Legend of Zelda Skyward Sword HD",
@@ -1690,7 +2287,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/The Legend of Zelda Skyward Sword HD [01002DA013484000][v0] (7.07 GB).nsp",
-      "image": "images/01002DA013484000.png"
+      "image": "images/01002DA013484000.png",
+      "size_bytes": 7595029776,
+      "size_mb": 7243.18,
+      "size_gb": 7.07
     },
     {
       "name": "The Legend of Zelda Tears of the Kingdom",
@@ -1699,7 +2299,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/The Legend of Zelda Tears of the Kingdom [0100F2C0115B6000][v0].nsp",
-      "image": "images/0100F2C0115B6000.png"
+      "image": "images/0100F2C0115B6000.png",
+      "size_bytes": 17150647554,
+      "size_mb": 16356.13,
+      "size_gb": 15.97
     },
     {
       "name": "The Witcher 3 Wild Hunt (EU)",
@@ -1707,7 +2310,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/The Witcher 3 Wild Hunt (EU) [01003D100E9C6000][v0] (28.01 GB).nsp"
+      "path": "/d/The Witcher 3 Wild Hunt (EU) [01003D100E9C6000][v0] (28.01 GB).nsp",
+      "size_bytes": 30075793680,
+      "size_mb": 28682.51,
+      "size_gb": 28.01
     },
     {
       "name": "The Legend of Zelda Links Awakening",
@@ -1716,7 +2322,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/The_Legend_of_Zelda_Links_Awakening_1_0_0_NSP_RUS+ENG_Nintendo_Switch/The Legend of Zelda Links Awakening [01006BB00C6F0000][v0] (5.84 GB).nsp",
-      "image": "images/01006BB00C6F0000.png"
+      "image": "images/01006BB00C6F0000.png",
+      "size_bytes": 6274802512,
+      "size_mb": 5984.12,
+      "size_gb": 5.84
     },
     {
       "name": "Toki Remake",
@@ -1724,7 +2333,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Toki Remake.nsp"
+      "path": "/d/Toki Remake.nsp",
+      "size_bytes": 400757497,
+      "size_mb": 382.19,
+      "size_gb": 0.37
     },
     {
       "name": "Tomodachi Life Living the Dream",
@@ -1732,7 +2344,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Tomodachi Life Living the Dream.nsp"
+      "path": "/d/Tomodachi Life Living the Dream.nsp",
+      "size_bytes": 6677744897,
+      "size_mb": 6368.39,
+      "size_gb": 6.22
     },
     {
       "name": "Trine 2 Complete Story",
@@ -1740,7 +2355,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Trine 2 Complete Story.nsp"
+      "path": "/d/Trine 2 Complete Story.nsp",
+      "size_bytes": 2664116490,
+      "size_mb": 2540.7,
+      "size_gb": 2.48
     },
     {
       "name": "Trine 4 - The Nightmare Prince",
@@ -1749,7 +2367,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Trine 4 - The Nightmare Prince.nsp",
-      "image": "images/Trine_4_-_The_Nightmare_Prince.png"
+      "image": "images/Trine_4_-_The_Nightmare_Prince.png",
+      "size_bytes": 3065126130,
+      "size_mb": 2923.13,
+      "size_gb": 2.85
     },
     {
       "name": "Turok 2",
@@ -1757,7 +2378,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Turok 2.nsp"
+      "path": "/d/Turok 2.nsp",
+      "size_bytes": 589436681,
+      "size_mb": 562.13,
+      "size_gb": 0.55
     },
     {
       "name": "Turok 3 Shadow of Oblivion [USA]",
@@ -1765,7 +2389,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Turok 3 Shadow of Oblivion [010013D019CF4000][USA][v0].nsp"
+      "path": "/d/Turok 3 Shadow of Oblivion [010013D019CF4000][USA][v0].nsp",
+      "size_bytes": 1035197712,
+      "size_mb": 987.24,
+      "size_gb": 0.96
     },
     {
       "name": "Turok",
@@ -1773,7 +2400,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Turok.nsp"
+      "path": "/d/Turok.nsp",
+      "size_bytes": 211530505,
+      "size_mb": 201.73,
+      "size_gb": 0.2
     },
     {
       "name": "Unravel TWO v1.0.1",
@@ -1781,7 +2411,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Unravel TWO v1.0.1.xci"
+      "path": "/d/Unravel TWO v1.0.1.xci",
+      "size_bytes": 2970004480,
+      "size_mb": 2832.42,
+      "size_gb": 2.77
     },
     {
       "name": "Vampire Crawlers [v1.4.0]",
@@ -1789,7 +2422,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/Vampire Crawlers [v1.4.0].xci"
+      "path": "/d/Vampire Crawlers [v1.4.0].xci",
+      "size_bytes": 1454097408,
+      "size_mb": 1386.74,
+      "size_gb": 1.35
     },
     {
       "name": "WarioWare Move It! [USA]",
@@ -1798,7 +2434,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/WarioWare Move It! [010045B018EC2000][USA][v0].nsp",
-      "image": "images/010045B018EC2000.png"
+      "image": "images/010045B018EC2000.png",
+      "size_bytes": 1403913040,
+      "size_mb": 1338.88,
+      "size_gb": 1.31
     },
     {
       "name": "Xenoblade Chronicles X Definitive Edition",
@@ -1807,7 +2446,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Xenoblade Chronicles X Definitive Edition [0100453019AA8000][v0].nsp",
-      "image": "images/0100453019AA8000.png"
+      "image": "images/0100453019AA8000.png",
+      "size_bytes": 14383888129,
+      "size_mb": 13717.54,
+      "size_gb": 13.4
     },
     {
       "name": "Yu-Gi-Oh Early Days Collection",
@@ -1816,7 +2458,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Yu-Gi-Oh Early Days Collection [01000D001FF18000][v0].nsp",
-      "image": "images/01000D001FF18000.png"
+      "image": "images/01000D001FF18000.png",
+      "size_bytes": 4911021312,
+      "size_mb": 4683.51,
+      "size_gb": 4.57
     },
     {
       "name": "Yu-Gi-Oh! RUSH DUEL Dawn of the Battle Royale!!",
@@ -1825,7 +2470,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/Yu-Gi-Oh! RUSH DUEL Dawn of the Battle Royale!! [0100261015BE2000][v0] (3.04 GB).nsp",
-      "image": "images/0100261015BE2000.png"
+      "image": "images/0100261015BE2000.png",
+      "size_bytes": 3264594832,
+      "size_mb": 3113.36,
+      "size_gb": 3.04
     },
     {
       "name": "Yu_Gi_Oh!_Legacy_of_the_Duelist_Link_Evolution_010022400BE5A000v0",
@@ -1833,7 +2481,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/Yu_Gi_Oh!_Legacy_of_the_Duelist_Link_Evolution_010022400BE5A000v0.nsp"
+      "path": "/d/Yu_Gi_Oh!_Legacy_of_the_Duelist_Link_Evolution_010022400BE5A000v0.nsp",
+      "size_bytes": 1513400144,
+      "size_mb": 1443.29,
+      "size_gb": 1.41
     },
     {
       "name": "[NSW] AeternoBlade",
@@ -1842,7 +2493,10 @@
       "category": "base",
       "drive": "d",
       "path": "/d/[NSW] AeternoBlade.nsp",
-      "image": "images/AeternoBlade.png"
+      "image": "images/AeternoBlade.png",
+      "size_bytes": 3631870288,
+      "size_mb": 3463.62,
+      "size_gb": 3.38
     },
     {
       "name": "[NSW] Agatha Knife",
@@ -1850,7 +2504,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/[NSW] Agatha Knife.nsp"
+      "path": "/d/[NSW] Agatha Knife.nsp",
+      "size_bytes": 220064592,
+      "size_mb": 209.87,
+      "size_gb": 0.2
     },
     {
       "name": "exefs",
@@ -1858,7 +2515,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/atmosphere/contents/0100000000000352/exefs.nsp"
+      "path": "/d/atmosphere/contents/0100000000000352/exefs.nsp",
+      "size_bytes": 328782,
+      "size_mb": 0.31,
+      "size_gb": 0.0
     },
     {
       "name": "hbl",
@@ -1866,7 +2526,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/atmosphere/hbl.nsp"
+      "path": "/d/atmosphere/hbl.nsp",
+      "size_bytes": 42209,
+      "size_mb": 0.04,
+      "size_gb": 0.0
     },
     {
       "name": "bbb-h-aab8a",
@@ -1874,7 +2537,10 @@
       "type": "xci",
       "category": "base",
       "drive": "d",
-      "path": "/d/bbb-h-aab8a.xci"
+      "path": "/d/bbb-h-aab8a.xci",
+      "size_bytes": 3992977408,
+      "size_mb": 3808.0,
+      "size_gb": 3.72
     },
     {
       "name": "hbmenu",
@@ -1882,7 +2548,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/hbmenu.nsp"
+      "path": "/d/hbmenu.nsp",
+      "size_bytes": 279256,
+      "size_mb": 0.27,
+      "size_gb": 0.0
     },
     {
       "name": "hbmenu_[0104444444440000]",
@@ -1890,7 +2559,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/hbmenu_[0104444444440000].nsp"
+      "path": "/d/hbmenu_[0104444444440000].nsp",
+      "size_bytes": 333528,
+      "size_mb": 0.32,
+      "size_gb": 0.0
     },
     {
       "name": "v-astralchain",
@@ -1898,7 +2570,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "d",
-      "path": "/d/v-astralchain.nsp"
+      "path": "/d/v-astralchain.nsp",
+      "size_bytes": 10344357116,
+      "size_mb": 9865.15,
+      "size_gb": 9.63
     },
     {
       "name": "ACA NEOGEO Money Puzzle Exchanger [010038f00afa0000]",
@@ -1907,7 +2582,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO Money Puzzle Exchanger [010038f00afa0000][v0].nsp",
-      "image": "images/010038F00AFA0000.png"
+      "image": "images/010038F00AFA0000.png",
+      "size_bytes": 99243310,
+      "size_mb": 94.65,
+      "size_gb": 0.09
     },
     {
       "name": "ACA NEOGEO NEO TURF MASTERS [01002e70032e8000]",
@@ -1916,7 +2594,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO NEO TURF MASTERS/ACA NEOGEO NEO TURF MASTERS [01002e70032e8000][v0].nsp",
-      "image": "images/01002E70032E8000.png"
+      "image": "images/01002E70032E8000.png",
+      "size_bytes": 91519744,
+      "size_mb": 87.28,
+      "size_gb": 0.09
     },
     {
       "name": "ACA NEOGEO OVER TOP [01003a5001dba000]",
@@ -1925,7 +2606,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO OVER TOP [01003a5001dba000][v0].nsp",
-      "image": "images/01003A5001DBA000.png"
+      "image": "images/01003A5001DBA000.png",
+      "size_bytes": 83171622,
+      "size_mb": 79.32,
+      "size_gb": 0.08
     },
     {
       "name": "ACA NEOGEO SAMURAI SHODOWN IV [010047f001dbc000]",
@@ -1934,7 +2618,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO SAMURAI SHODOWN IV [010047f001dbc000][v0].nsp",
-      "image": "images/010047F001DBC000.png"
+      "image": "images/010047F001DBC000.png",
+      "size_bytes": 119112999,
+      "size_mb": 113.6,
+      "size_gb": 0.11
     },
     {
       "name": "ACA NEOGEO SAMURAI SHODOWN [01005c9002b42000]",
@@ -1943,7 +2630,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO SAMURAI SHODOWN [01005c9002b42000][v0].nsp",
-      "image": "images/01005C9002B42000.png"
+      "image": "images/01005C9002B42000.png",
+      "size_bytes": 99509000,
+      "size_mb": 94.9,
+      "size_gb": 0.09
     },
     {
       "name": "ACA NEOGEO SENGOKU 2 [01009b300872a000]",
@@ -1952,7 +2642,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO SENGOKU 2 [01009b300872a000][v0].nsp",
-      "image": "images/01009B300872A000.png"
+      "image": "images/01009B300872A000.png",
+      "size_bytes": 89617198,
+      "size_mb": 85.47,
+      "size_gb": 0.08
     },
     {
       "name": "ACA NEOGEO SHOCK TROOPERS [01008a9001dc2000]",
@@ -1961,7 +2654,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO SHOCK TROOPERS/ACA NEOGEO SHOCK TROOPERS [01008a9001dc2000][v0].nsp",
-      "image": "images/01008A9001DC2000.png"
+      "image": "images/01008A9001DC2000.png",
+      "size_bytes": 119684903,
+      "size_mb": 114.14,
+      "size_gb": 0.11
     },
     {
       "name": "ACA NEOGEO SPIN MASTER [01007d1004dba000]",
@@ -1970,7 +2666,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO SPIN MASTER [01007d1004dba000][v0].nsp",
-      "image": "images/01007D1004DBA000.png"
+      "image": "images/01007D1004DBA000.png",
+      "size_bytes": 86812462,
+      "size_mb": 82.79,
+      "size_gb": 0.08
     },
     {
       "name": "ACA NEOGEO SUPER SIDEKICKS 2 [010055a00a300000]",
@@ -1979,7 +2678,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO SUPER SIDEKICKS 2/ACA NEOGEO SUPER SIDEKICKS 2 [010055a00a300000][v0].nsp",
-      "image": "images/010055A00A300000.png"
+      "image": "images/010055A00A300000.png",
+      "size_bytes": 107829040,
+      "size_mb": 102.83,
+      "size_gb": 0.1
     },
     {
       "name": "ACA NEOGEO SUPER SIDEKICKS 3",
@@ -1988,7 +2690,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO SUPER SIDEKICKS 3  THE NEXT GLORY/ACA NEOGEO SUPER SIDEKICKS 3  THE NEXT GLORY [0100a4d00a308000][v0].nsp",
-      "image": "images/0100A4D00A308000.png"
+      "image": "images/0100A4D00A308000.png",
+      "size_bytes": 117196041,
+      "size_mb": 111.77,
+      "size_gb": 0.11
     },
     {
       "name": "ACA NEOGEO THE KING OF FIGHTERS '94 [0100eb2001dcc000]",
@@ -1997,7 +2702,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO THE KING OF FIGHTERS '94 [0100eb2001dcc000][v0].nsp",
-      "image": "images/0100EB2001DCC000.png"
+      "image": "images/0100EB2001DCC000.png",
+      "size_bytes": 112898343,
+      "size_mb": 107.67,
+      "size_gb": 0.11
     },
     {
       "name": "ACA NEOGEO THE KING OF FIGHTERS '95 [01009dc001db6000]",
@@ -2006,7 +2714,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO THE KING OF FIGHTERS '95/ACA NEOGEO THE KING OF FIGHTERS '95 [01009dc001db6000][v0].nsp",
-      "image": "images/01009DC001DB6000.png"
+      "image": "images/01009DC001DB6000.png",
+      "size_bytes": 139280137,
+      "size_mb": 132.83,
+      "size_gb": 0.13
     },
     {
       "name": "ACA NEOGEO THE KING OF FIGHTERS '96 [01006f0004fb4000]",
@@ -2015,7 +2726,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO THE KING OF FIGHTERS '96 [01006f0004fb4000][v0].nsp",
-      "image": "images/01006F0004FB4000.png"
+      "image": "images/01006F0004FB4000.png",
+      "size_bytes": 113101577,
+      "size_mb": 107.86,
+      "size_gb": 0.11
     },
     {
       "name": "ACA NEOGEO THE KING OF FIGHTERS '97",
@@ -2024,7 +2738,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO THE KING OF FIGHTERS '97 [0100170008728000][v0].nsp",
-      "image": "images/0100170008728000.png"
+      "image": "images/0100170008728000.png",
+      "size_bytes": 128642825,
+      "size_mb": 122.68,
+      "size_gb": 0.12
     },
     {
       "name": "ACA NEOGEO THE KING OF FIGHTERS '98 [0100b42001db4000]",
@@ -2033,7 +2750,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO THE KING OF FIGHTERS '98/ACA NEOGEO THE KING OF FIGHTERS '98 [0100b42001db4000][v0].nsp",
-      "image": "images/0100B42001DB4000.png"
+      "image": "images/0100B42001DB4000.png",
+      "size_bytes": 187976999,
+      "size_mb": 179.27,
+      "size_gb": 0.18
     },
     {
       "name": "ACA NEOGEO THE KING OF FIGHTERS '99 [0100583001dca000]",
@@ -2042,7 +2762,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO THE KING OF FIGHTERS '99 [0100583001dca000][v0].nsp",
-      "image": "images/0100583001DCA000.png"
+      "image": "images/0100583001DCA000.png",
+      "size_bytes": 132593447,
+      "size_mb": 126.45,
+      "size_gb": 0.12
     },
     {
       "name": "ACA NEOGEO THE KING OF FIGHTERS 2000 [0100b97002b44000]",
@@ -2051,7 +2774,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO THE KING OF FIGHTERS 2000 [0100b97002b44000][v0].nsp",
-      "image": "images/0100B97002B44000.png"
+      "image": "images/0100B97002B44000.png",
+      "size_bytes": 136604426,
+      "size_mb": 130.28,
+      "size_gb": 0.13
     },
     {
       "name": "ACA NEOGEO THE LAST BLADE 2",
@@ -2060,7 +2786,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO THE LAST BLADE 2 [0100699008792000][v0].nsp",
-      "image": "images/0100699008792000.png"
+      "image": "images/0100699008792000.png",
+      "size_bytes": 134974729,
+      "size_mb": 128.72,
+      "size_gb": 0.13
     },
     {
       "name": "ACA NEOGEO THE SUPER SPY [0100f7f00afa2000]",
@@ -2069,7 +2798,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO THE SUPER SPY [0100f7f00afa2000][v0].nsp",
-      "image": "images/0100F7F00AFA2000.png"
+      "image": "images/0100F7F00AFA2000.png",
+      "size_bytes": 80615688,
+      "size_mb": 76.88,
+      "size_gb": 0.08
     },
     {
       "name": "ACA NEOGEO WAKU WAKU 7 [0100cef001dc0000]",
@@ -2078,7 +2810,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO WAKU WAKU 7/ACA NEOGEO WAKU WAKU 7 [0100cef001dc0000][v0].nsp",
-      "image": "images/0100CEF001DC0000.png"
+      "image": "images/0100CEF001DC0000.png",
+      "size_bytes": 121242369,
+      "size_mb": 115.63,
+      "size_gb": 0.11
     },
     {
       "name": "ACA NEOGEO WORLD HEROES PERFECT [01009d4001dc4000]",
@@ -2087,7 +2822,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ACA NEOGEO WORLD HEROES PERFECT/ACA NEOGEO WORLD HEROES PERFECT [01009d4001dc4000][v0].nsp",
-      "image": "images/01009D4001DC4000.png"
+      "image": "images/01009D4001DC4000.png",
+      "size_bytes": 127088423,
+      "size_mb": 121.2,
+      "size_gb": 0.12
     },
     {
       "name": "HBL INSTALADOR",
@@ -2095,7 +2833,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/APLICACIONES PARA NINTENDO SWITCH MAGICA/nsp/HBL INSTALADOR.nsp"
+      "path": "/e/APLICACIONES PARA NINTENDO SWITCH MAGICA/nsp/HBL INSTALADOR.nsp",
+      "size_bytes": 346840,
+      "size_mb": 0.33,
+      "size_gb": 0.0
     },
     {
       "name": "USB File Transfer",
@@ -2103,7 +2844,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/APLICACIONES PARA NINTENDO SWITCH MAGICA/nsp/USB File Transfer.nsp"
+      "path": "/e/APLICACIONES PARA NINTENDO SWITCH MAGICA/nsp/USB File Transfer.nsp",
+      "size_bytes": 331992,
+      "size_mb": 0.32,
+      "size_gb": 0.0
     },
     {
       "name": "A_Space_for_the_Unbound_01006BF01923E000v0USnsw2u_com",
@@ -2111,7 +2855,10 @@
       "type": "xci",
       "category": "base",
       "drive": "e",
-      "path": "/e/A_Space_for_the_Unbound_01006BF01923E000v0USnsw2u_com.xci"
+      "path": "/e/A_Space_for_the_Unbound_01006BF01923E000v0USnsw2u_com.xci",
+      "size_bytes": 3992977408,
+      "size_mb": 3808.0,
+      "size_gb": 3.72
     },
     {
       "name": "A_Space_for_the_Unbound_01006BF01923E800v196608USnsw2u_com",
@@ -2119,7 +2866,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/A_Space_for_the_Unbound_01006BF01923E800v196608USnsw2u_com.nsp"
+      "path": "/e/A_Space_for_the_Unbound_01006BF01923E800v196608USnsw2u_com.nsp",
+      "size_bytes": 155116368,
+      "size_mb": 147.93,
+      "size_gb": 0.14
     },
     {
       "name": "Arcade Archives 10-Yard Fight [0100be80097fa000]",
@@ -2128,7 +2878,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives 10-Yard Fight/Arcade Archives 10-Yard Fight [0100be80097fa000][v0].nsp",
-      "image": "images/0100BE80097FA000.png"
+      "image": "images/0100BE80097FA000.png",
+      "size_bytes": 74860808,
+      "size_mb": 71.39,
+      "size_gb": 0.07
     },
     {
       "name": "Arcade Archives CRAZY CLIMBER [0100bb1001dd6000]",
@@ -2137,7 +2890,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives CRAZY CLIMBER [0100bb1001dd6000][v0].nsp",
-      "image": "images/0100BB1001DD6000.png"
+      "image": "images/0100BB1001DD6000.png",
+      "size_bytes": 76472110,
+      "size_mb": 72.93,
+      "size_gb": 0.07
     },
     {
       "name": "Arcade Archives City Connection [010007a00980c000]",
@@ -2146,7 +2902,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives City Connection/Arcade Archives City Connection [010007a00980c000][v0].nsp",
-      "image": "images/010007A00980C000.png"
+      "image": "images/010007A00980C000.png",
+      "size_bytes": 69400328,
+      "size_mb": 66.19,
+      "size_gb": 0.06
     },
     {
       "name": "Arcade Archives DONKEY KONG [0100e9e00b052000]",
@@ -2155,7 +2914,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives DONKEY KONG [0100e9e00b052000][v0].nsp",
-      "image": "images/0100E9E00B052000.png"
+      "image": "images/0100E9E00B052000.png",
+      "size_bytes": 78716718,
+      "size_mb": 75.07,
+      "size_gb": 0.07
     },
     {
       "name": "Arcade Archives DOUBLE DRAGON [0100f25001dd0000]",
@@ -2164,7 +2926,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives DOUBLE DRAGON [0100f25001dd0000][v0].nsp",
-      "image": "images/0100F25001DD0000.png"
+      "image": "images/0100F25001DD0000.png",
+      "size_bytes": 79879982,
+      "size_mb": 76.18,
+      "size_gb": 0.07
     },
     {
       "name": "Arcade Archives HEROIC EPISODE US",
@@ -2173,7 +2938,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives HEROIC EPISODE US [01009A4008A30000][v0].nsp",
-      "image": "images/01009A4008A30000.png"
+      "image": "images/01009A4008A30000.png",
+      "size_bytes": 72680713,
+      "size_mb": 69.31,
+      "size_gb": 0.07
     },
     {
       "name": "Arcade Archives Ikki US",
@@ -2182,7 +2950,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives Ikki US [01000DB00980A000][v0].nsp",
-      "image": "images/01000DB00980A000.png"
+      "image": "images/01000DB00980A000.png",
+      "size_bytes": 68912904,
+      "size_mb": 65.72,
+      "size_gb": 0.06
     },
     {
       "name": "Arcade Archives Kid Niki Radical Ninja US",
@@ -2191,7 +2962,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives Kid Niki Radical Ninja US [010010B008A36000][v0].nsp",
-      "image": "images/010010B008A36000.png"
+      "image": "images/010010B008A36000.png",
+      "size_bytes": 71575304,
+      "size_mb": 68.26,
+      "size_gb": 0.07
     },
     {
       "name": "Arcade Archives Kid's Horehore Daisakusen US",
@@ -2200,7 +2974,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives Kid's Horehore Daisakusen US [0100E7C001DE0000][v0].nsp",
-      "image": "images/0100E7C001DE0000.png"
+      "image": "images/0100E7C001DE0000.png",
+      "size_bytes": 81591048,
+      "size_mb": 77.81,
+      "size_gb": 0.08
     },
     {
       "name": "Arcade Archives MOON PATROL [01003000097fe000]",
@@ -2209,7 +2986,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives MOON PATROL/Arcade Archives MOON PATROL [01003000097fe000][v0].nsp",
-      "image": "images/01003000097FE000.png"
+      "image": "images/01003000097FE000.png",
+      "size_bytes": 66858798,
+      "size_mb": 63.76,
+      "size_gb": 0.06
     },
     {
       "name": "Arcade Archives Mario Bros.",
@@ -2218,7 +2998,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives Mario Bros/Arcade Archives Mario Bros. [0100755004608000][v0].nsp",
-      "image": "images/0100755004608000.png"
+      "image": "images/0100755004608000.png",
+      "size_bytes": 73119534,
+      "size_mb": 69.73,
+      "size_gb": 0.07
     },
     {
       "name": "Arcade Archives Ninja-Kid US",
@@ -2227,7 +3010,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives Ninja-Kid US [0100369001DDC000][v0].nsp",
-      "image": "images/0100369001DDC000.png"
+      "image": "images/0100369001DDC000.png",
+      "size_bytes": 67425032,
+      "size_mb": 64.3,
+      "size_gb": 0.06
     },
     {
       "name": "Arcade Archives OMEGA FIGHTER [01004a200bb48000]",
@@ -2236,7 +3022,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives OMEGA FIGHTER [01004a200bb48000][v0].nsp",
-      "image": "images/01004A200BB48000.png"
+      "image": "images/01004A200BB48000.png",
+      "size_bytes": 72309000,
+      "size_mb": 68.96,
+      "size_gb": 0.07
     },
     {
       "name": "Arcade Archives PUNCH-OUT!! [01001530097f8000]",
@@ -2245,7 +3034,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives PUNCH-OUT!!/Arcade Archives PUNCH-OUT!! [01001530097f8000][v0].nsp",
-      "image": "images/01001530097F8000.png"
+      "image": "images/01001530097F8000.png",
+      "size_bytes": 81519406,
+      "size_mb": 77.74,
+      "size_gb": 0.08
     },
     {
       "name": "Arcade Archives Renegade [010081e001dd2000]",
@@ -2254,7 +3046,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives Renegade [010081e001dd2000][v0].nsp",
-      "image": "images/010081E001DD2000.png"
+      "image": "images/010081E001DD2000.png",
+      "size_bytes": 80328968,
+      "size_mb": 76.61,
+      "size_gb": 0.07
     },
     {
       "name": "Arcade Archives STAR FORCE [010069f008a38000]",
@@ -2263,7 +3058,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives STAR FORCE [010069f008a38000][v0].nsp",
-      "image": "images/010069F008A38000.png"
+      "image": "images/010069F008A38000.png",
+      "size_bytes": 75097902,
+      "size_mb": 71.62,
+      "size_gb": 0.07
     },
     {
       "name": "Arcade Archives Sky Skipper [010008f00b054000]",
@@ -2272,7 +3070,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives Sky Skipper [010008f00b054000][v0].nsp",
-      "image": "images/010008F00B054000.png"
+      "image": "images/010008F00B054000.png",
+      "size_bytes": 65881902,
+      "size_mb": 62.83,
+      "size_gb": 0.06
     },
     {
       "name": "Arcade Archives TERRA CRESTA US",
@@ -2281,7 +3082,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives TERRA CRESTA/Arcade Archives TERRA CRESTA US [0100422001DDA000][v0].nsp",
-      "image": "images/0100422001DDA000.png"
+      "image": "images/0100422001DDA000.png",
+      "size_bytes": 78273800,
+      "size_mb": 74.65,
+      "size_gb": 0.07
     },
     {
       "name": "Arcade Archives Traverse USA [010029d006ed8000]",
@@ -2290,7 +3094,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives Traverse/Arcade Archives Traverse USA [010029d006ed8000][v0].nsp",
-      "image": "images/010029D006ED8000.png"
+      "image": "images/010029D006ED8000.png",
+      "size_bytes": 67251502,
+      "size_mb": 64.14,
+      "size_gb": 0.06
     },
     {
       "name": "Arcade Archives VS. SUPER MARIO BROS. [010021d00812a000]",
@@ -2299,7 +3106,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Arcade Archives VS. SUPER MARIO BROS/Arcade Archives VS. SUPER MARIO BROS. [010021d00812a000][v0].nsp",
-      "image": "images/010021D00812A000.png"
+      "image": "images/010021D00812A000.png",
+      "size_bytes": 73210670,
+      "size_mb": 69.82,
+      "size_gb": 0.07
     },
     {
       "name": "Batman Arkham City [US]",
@@ -2307,7 +3117,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Batman Arkham City [01003F00163CE000][v0][US].nsp"
+      "path": "/e/Batman Arkham City [01003F00163CE000][v0][US].nsp",
+      "size_bytes": 8333075,
+      "size_mb": 7.95,
+      "size_gb": 0.01
     },
     {
       "name": "Bayonetta 3 (World) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko,Ru)",
@@ -2315,7 +3128,10 @@
       "type": "xci",
       "category": "base",
       "drive": "e",
-      "path": "/e/Bayonetta 3 (World) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko,Ru)/Bayonetta 3 (World) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko,Ru).xci"
+      "path": "/e/Bayonetta 3 (World) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko,Ru)/Bayonetta 3 (World) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko,Ru).xci",
+      "size_bytes": 15971909632,
+      "size_mb": 15232.0,
+      "size_gb": 14.88
     },
     {
       "name": "Bayonetta 3 [v1.1.0]",
@@ -2323,7 +3139,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Bayonetta 3 [01004A4010FEA800][v1.1.0].nsp"
+      "path": "/e/Bayonetta 3 [01004A4010FEA800][v1.1.0].nsp",
+      "size_bytes": 2241292224,
+      "size_mb": 2137.46,
+      "size_gb": 2.09
     },
     {
       "name": "Bayonetta Origins Cereza and the Lost Demon [US]",
@@ -2332,7 +3151,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Bayonetta Origins Cereza and the Lost Demon [0100CF5010FEC000][v0][US].nsp",
-      "image": "images/0100CF5010FEC000.png"
+      "image": "images/0100CF5010FEC000.png",
+      "size_bytes": 3426511696,
+      "size_mb": 3267.78,
+      "size_gb": 3.19
     },
     {
       "name": "Captain Toad Treasure Tracker [01009bf0072d4000]",
@@ -2341,7 +3163,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Captain Toad Treasure Tracker [01009bf0072d4000][v0].nsp",
-      "image": "images/01009BF0072D4000.png"
+      "image": "images/01009BF0072D4000.png",
+      "size_bytes": 1586445616,
+      "size_mb": 1512.95,
+      "size_gb": 1.48
     },
     {
       "name": "Contra Operation Galuga [US]",
@@ -2349,7 +3174,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Contra Operation Galuga [0100CF401A98E000][v0][US].nsp"
+      "path": "/e/Contra Operation Galuga [0100CF401A98E000][v0][US].nsp",
+      "size_bytes": 6506186007,
+      "size_mb": 6204.78,
+      "size_gb": 6.06
     },
     {
       "name": "Crash Team Racing",
@@ -2358,7 +3186,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Crash Team Racing.xci",
-      "image": "images/Crash_Team_Racing.png"
+      "image": "images/Crash_Team_Racing.png",
+      "size_bytes": 6186446336,
+      "size_mb": 5899.85,
+      "size_gb": 5.76
     },
     {
       "name": "Cult of the Lamb [US]",
@@ -2366,7 +3197,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Cult of the Lamb [01002E7016C46000][v0][US].nsp"
+      "path": "/e/Cult of the Lamb [01002E7016C46000][v0][US].nsp",
+      "size_bytes": 821704528,
+      "size_mb": 783.64,
+      "size_gb": 0.77
     },
     {
       "name": "Cult of the Lamb",
@@ -2374,7 +3208,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Cult of the Lamb[01002E7016C47004].nsp"
+      "path": "/e/Cult of the Lamb[01002E7016C47004].nsp",
+      "size_bytes": 124112,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "DARK SOULS REMASTERED",
@@ -2382,7 +3219,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/DARK SOULS REMASTERED [01004AB00A260000][v0].nsp"
+      "path": "/e/DARK SOULS REMASTERED [01004AB00A260000][v0].nsp",
+      "size_bytes": 0,
+      "size_mb": 0,
+      "size_gb": 0
     },
     {
       "name": "DOOM Eternal [Deluxe Edition Content]",
@@ -2390,7 +3230,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/DOOM Eternal [Deluxe Edition Content] [0100B1A00D8CF002][v0].nsp"
+      "path": "/e/DOOM Eternal [Deluxe Edition Content] [0100B1A00D8CF002][v0].nsp",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "DOOM [0100416004c00000]",
@@ -2398,7 +3241,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/DOOM/DOOM [0100416004c00000][v0].nsp"
+      "path": "/e/DOOM/DOOM [0100416004c00000][v0].nsp",
+      "size_bytes": 14674251372,
+      "size_mb": 13994.46,
+      "size_gb": 13.67
     },
     {
       "name": "DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Android 17][US]",
@@ -2407,7 +3253,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Android 17][0100A250097F100D][US][v0].nsp",
-      "image": "images/0100A250097F100D.png"
+      "image": "images/0100A250097F100D.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Bardock][US]",
@@ -2416,7 +3265,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Bardock][0100A250097F1007][US][v0].nsp",
-      "image": "images/0100A250097F1007.png"
+      "image": "images/0100A250097F1007.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Broly][US]",
@@ -2425,7 +3277,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Broly][0100A250097F1008][US][v0].nsp",
-      "image": "images/0100A250097F1008.png"
+      "image": "images/0100A250097F1008.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Cooler][US]",
@@ -2434,7 +3289,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Cooler][0100A250097F100E][US][v0].nsp",
-      "image": "images/0100A250097F100E.png"
+      "image": "images/0100A250097F100E.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Gogeta SSGSS][US]",
@@ -2443,7 +3301,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Gogeta SSGSS][0100A250097F1018][US][v0].nsp",
-      "image": "images/0100A250097F1018.png"
+      "image": "images/0100A250097F1018.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Goku][US]",
@@ -2452,7 +3313,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Goku][0100A250097F100B][US][v0].nsp",
-      "image": "images/0100A250097F100B.png"
+      "image": "images/0100A250097F100B.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Janemba][US]",
@@ -2461,7 +3325,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Janemba][0100A250097F1017][US][v0].nsp",
-      "image": "images/0100A250097F1017.png"
+      "image": "images/0100A250097F1017.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Jiren][US]",
@@ -2470,7 +3337,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Jiren][0100A250097F1014][US][v0].nsp",
-      "image": "images/0100A250097F1014.png"
+      "image": "images/0100A250097F1014.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Kefla][US]",
@@ -2479,7 +3349,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Kefla][0100A250097F101D][US][v0].nsp",
-      "image": "images/0100A250097F101D.png"
+      "image": "images/0100A250097F101D.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Vegeta][US]",
@@ -2488,7 +3361,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Vegeta][0100A250097F100C][US][v0].nsp",
-      "image": "images/0100A250097F100C.png"
+      "image": "images/0100A250097F100C.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Vegito SSGSS][US]",
@@ -2497,7 +3373,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Vegito SSGSS][0100A250097F100A][US][v0].nsp",
-      "image": "images/0100A250097F100A.png"
+      "image": "images/0100A250097F100A.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Videl][US]",
@@ -2506,7 +3385,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Videl][0100A250097F1015][US][v0].nsp",
-      "image": "images/0100A250097F1015.png"
+      "image": "images/0100A250097F1015.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Zamasu Fused][US]",
@@ -2515,7 +3397,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Zamasu Fused][0100A250097F1009][US][v0].nsp",
-      "image": "images/0100A250097F1009.png"
+      "image": "images/0100A250097F1009.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "DRAGON_BALL_FIGHTER Z v0",
@@ -2523,7 +3408,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/DRAGON_BALL_FIGHTER Z v0.nsp"
+      "path": "/e/DRAGON_BALL_FIGHTER Z v0.nsp",
+      "size_bytes": 6682851595,
+      "size_mb": 6373.26,
+      "size_gb": 6.22
     },
     {
       "name": "DREDGE [US]",
@@ -2531,7 +3419,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/DREDGE [01008CD0172D6000][v0][US].nsp"
+      "path": "/e/DREDGE [01008CD0172D6000][v0][US].nsp",
+      "size_bytes": 718307152,
+      "size_mb": 685.03,
+      "size_gb": 0.67
     },
     {
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles [v1.30]",
@@ -2540,7 +3431,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles [0100309016E7A800][v1.30].nsp",
-      "image": "images/0100309016E7A800.png"
+      "image": "images/0100309016E7A800.png",
+      "size_bytes": 2320120144,
+      "size_mb": 2212.64,
+      "size_gb": 2.16
     },
     {
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
@@ -2549,7 +3443,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles [0100309016E7B005][v0].nsp",
-      "image": "images/0100309016E7B005.png"
+      "image": "images/0100309016E7B005.png",
+      "size_bytes": 121034,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "Donkey Kong Country - Tropical Freeze[multi][xcib]",
@@ -2558,7 +3455,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Donkey Kong Country - Tropical Freeze[multi][xcib].xci",
-      "image": "images/Donkey_Kong_Country_-_Tropical_Freeze.png"
+      "image": "images/Donkey_Kong_Country_-_Tropical_Freeze.png",
+      "size_bytes": 7155415552,
+      "size_mb": 6823.94,
+      "size_gb": 6.66
     },
     {
       "name": "DreadOut 2 [US](nsw2u.com)",
@@ -2566,7 +3466,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/DreadOut 2 [010032B01C6F2000][v0][US](nsw2u.com).nsp"
+      "path": "/e/DreadOut 2 [010032B01C6F2000][v0][US](nsw2u.com).nsp",
+      "size_bytes": 5354853451,
+      "size_mb": 5106.79,
+      "size_gb": 4.99
     },
     {
       "name": "ENDER LILIES Quietus of the Knights",
@@ -2575,7 +3478,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ENDER LILIES Quietus of the Knights [0100CCF012E9A000].nsp",
-      "image": "images/0100CCF012E9A000.png"
+      "image": "images/0100CCF012E9A000.png",
+      "size_bytes": 1018078608,
+      "size_mb": 970.92,
+      "size_gb": 0.95
     },
     {
       "name": "ENDER LILIES Quietus of the Knights [US][131072]",
@@ -2584,7 +3490,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/ENDER LILIES Quietus of the Knights [0100CCF012E9A800][US][131072].nsp",
-      "image": "images/0100CCF012E9A800.png"
+      "image": "images/0100CCF012E9A800.png",
+      "size_bytes": 1007289232,
+      "size_mb": 960.63,
+      "size_gb": 0.94
     },
     {
       "name": "FINAL FANTASY IX",
@@ -2593,7 +3502,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/FINAL FANTASY IX.nsp",
-      "image": "images/FINAL_FANTASY_IX.png"
+      "image": "images/FINAL_FANTASY_IX.png",
+      "size_bytes": 5303672586,
+      "size_mb": 5057.98,
+      "size_gb": 4.94
     },
     {
       "name": "FateEXTELLA [010053e002ea2000]",
@@ -2602,7 +3514,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/FateEXTELLA [010053e002ea2000][v0].nsp",
-      "image": "images/010053E002EA2000.png"
+      "image": "images/010053E002EA2000.png",
+      "size_bytes": 3288221283,
+      "size_mb": 3135.89,
+      "size_gb": 3.06
     },
     {
       "name": "Fire Emblem Warriors [0100f15003e64000]",
@@ -2611,7 +3526,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Fire Emblem Warriors/Fire Emblem Warriors [0100f15003e64000][v0].nsp",
-      "image": "images/0100F15003E64000.png"
+      "image": "images/0100F15003E64000.png",
+      "size_bytes": 14069425774,
+      "size_mb": 13417.65,
+      "size_gb": 13.1
     },
     {
       "name": "Fran Bow [US]",
@@ -2619,7 +3537,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Fran Bow [010061701A53E000][v0][US] .nsp"
+      "path": "/e/Fran Bow [010061701A53E000][v0][US] .nsp",
+      "size_bytes": 4130772304,
+      "size_mb": 3939.41,
+      "size_gb": 3.85
     },
     {
       "name": "Grace of Letoile [Damage x2 - Grace of Letoile] [US]",
@@ -2628,7 +3549,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Grace of Letoile [Damage x2 - Grace of Letoile] [0100CAC01C3ED003][v0][US].nsp",
-      "image": "images/0100CAC01C3ED003.png"
+      "image": "images/0100CAC01C3ED003.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "Grace of Letoile [Experience x3 - Grace of Letoile] [US]",
@@ -2637,7 +3561,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Grace of Letoile [Experience x3 - Grace of Letoile] [0100CAC01C3ED001][v0][US].nsp",
-      "image": "images/0100CAC01C3ED001.png"
+      "image": "images/0100CAC01C3ED001.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "Grace of Letoile [No Encounters - Grace of Letoile] [US]",
@@ -2646,7 +3573,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Grace of Letoile [No Encounters - Grace of Letoile] [0100CAC01C3ED002][v0][US].nsp",
-      "image": "images/0100CAC01C3ED002.png"
+      "image": "images/0100CAC01C3ED002.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "Guacamelee STCE [0100bae00b470000]",
@@ -2654,7 +3584,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Guacamelee STCE [0100bae00b470000][v0].nsp"
+      "path": "/e/Guacamelee STCE [0100bae00b470000][v0].nsp",
+      "size_bytes": 670657802,
+      "size_mb": 639.59,
+      "size_gb": 0.62
     },
     {
       "name": "Guacamelee! 2",
@@ -2662,7 +3595,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Guacamelee! 2 [01007E100456C000].nsp"
+      "path": "/e/Guacamelee! 2 [01007E100456C000].nsp",
+      "size_bytes": 2047032075,
+      "size_mb": 1952.2,
+      "size_gb": 1.91
     },
     {
       "name": "Hollow Knight [0100633007d48000]",
@@ -2671,7 +3607,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Hollow Knight/Hollow Knight [0100633007d48000][v0].nsp",
-      "image": "images/0100633007D48000.png"
+      "image": "images/0100633007D48000.png",
+      "size_bytes": 3813172528,
+      "size_mb": 3636.52,
+      "size_gb": 3.55
     },
     {
       "name": "Hungry Shark World [0100e1a00af40000]",
@@ -2679,7 +3618,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Hungry Shark World/Hungry Shark World [0100e1a00af40000][v0].nsp"
+      "path": "/e/Hungry Shark World/Hungry Shark World [0100e1a00af40000][v0].nsp",
+      "size_bytes": 2135614257,
+      "size_mb": 2036.68,
+      "size_gb": 1.99
     },
     {
       "name": "Hyrule Warriors Definitive Edition [0100ae00096ea000]",
@@ -2688,7 +3630,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Hyrule Warriors Definitive Edition/Hyrule Warriors Definitive Edition [0100ae00096ea000][v0].nsp",
-      "image": "images/0100AE00096EA000.png"
+      "image": "images/0100AE00096EA000.png",
+      "size_bytes": 2574384080,
+      "size_mb": 2455.12,
+      "size_gb": 2.4
     },
     {
       "name": "ICEY [0100be9007e7e000]",
@@ -2696,7 +3641,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/ICEY [0100be9007e7e000][v0].nsp"
+      "path": "/e/ICEY [0100be9007e7e000][v0].nsp",
+      "size_bytes": 1793263408,
+      "size_mb": 1710.19,
+      "size_gb": 1.67
     },
     {
       "name": "Indivisible",
@@ -2704,7 +3652,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Indivisible [01001D3003FDE000][v0].nsp"
+      "path": "/e/Indivisible [01001D3003FDE000][v0].nsp",
+      "size_bytes": 3879872271,
+      "size_mb": 3700.13,
+      "size_gb": 3.61
     },
     {
       "name": "KDB",
@@ -2712,7 +3663,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/KDB.nsp"
+      "path": "/e/KDB.nsp",
+      "size_bytes": 1273172368,
+      "size_mb": 1214.19,
+      "size_gb": 1.19
     },
     {
       "name": "KF2",
@@ -2720,7 +3674,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/KF2.nsp"
+      "path": "/e/KF2.nsp",
+      "size_bytes": 1189911888,
+      "size_mb": 1134.79,
+      "size_gb": 1.11
     },
     {
       "name": "KONOSUBA - God's blessing on this wonderful world! Love for these clothes of desire! v1.0.0 [APP]",
@@ -2729,7 +3686,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/KONOSUBA - God's blessing on this wonderful world! Love for these clothes of desire! v1.0.0 [01001F501A9AA000][v0][APP].nsp",
-      "image": "images/01001F501A9AA000.png"
+      "image": "images/01001F501A9AA000.png",
+      "size_bytes": 3318307152,
+      "size_mb": 3164.58,
+      "size_gb": 3.09
     },
     {
       "name": "KSA",
@@ -2737,7 +3697,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/KSA.nsp"
+      "path": "/e/KSA.nsp",
+      "size_bytes": 3098587984,
+      "size_mb": 2955.04,
+      "size_gb": 2.89
     },
     {
       "name": "Kirby Star Allies [01007e3006dda000]",
@@ -2745,7 +3708,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Kirby Star Allies/Kirby Star Allies [01007e3006dda000][v0].nsp"
+      "path": "/e/Kirby Star Allies/Kirby Star Allies [01007e3006dda000][v0].nsp",
+      "size_bytes": 3098589489,
+      "size_mb": 2955.05,
+      "size_gb": 2.89
     },
     {
       "name": "Kirby and the Forgotten Land",
@@ -2754,7 +3720,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Kirby and the Forgotten Land [01004D300C5AE000][v0].nsp",
-      "image": "images/01004D300C5AE000.png"
+      "image": "images/01004D300C5AE000.png",
+      "size_bytes": 6169788984,
+      "size_mb": 5883.97,
+      "size_gb": 5.75
     },
     {
       "name": "Kirby's Return to Dream Land Deluxe",
@@ -2762,7 +3731,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Kirby's Return to Dream Land Deluxe [01006B601380E000][v0].nsp"
+      "path": "/e/Kirby's Return to Dream Land Deluxe [01006B601380E000][v0].nsp",
+      "size_bytes": 5368020542,
+      "size_mb": 5119.34,
+      "size_gb": 5.0
     },
     {
       "name": "LEGO Horizon Adventures",
@@ -2771,7 +3743,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/LEGO Horizon Adventures [NSP]/LEGO Horizon Adventures [010073C01AF34000][v0].nsp",
-      "image": "images/010073C01AF34000.png"
+      "image": "images/010073C01AF34000.png",
+      "size_bytes": 6333126080,
+      "size_mb": 6039.74,
+      "size_gb": 5.9
     },
     {
       "name": "LEGO Worlds [0100838002aea000]",
@@ -2779,7 +3754,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/LEGO Worlds/LEGO Worlds [0100838002aea000][v0].nsp"
+      "path": "/e/LEGO Worlds/LEGO Worlds [0100838002aea000][v0].nsp",
+      "size_bytes": 2217376049,
+      "size_mb": 2114.65,
+      "size_gb": 2.07
     },
     {
       "name": "LEGO® MARVEL Super Heroes 2 (EU) [01007690040a0000]",
@@ -2788,7 +3766,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/LEGO® MARVEL Super Heroes 2 (EU)/LEGO® MARVEL Super Heroes 2 (EU) [01007690040a0000][v0].nsp",
-      "image": "images/01007690040A0000.png"
+      "image": "images/01007690040A0000.png",
+      "size_bytes": 12810478700,
+      "size_mb": 12217.02,
+      "size_gb": 11.93
     },
     {
       "name": "Little Misfortune",
@@ -2796,7 +3777,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Little Misfortune [0100E7000E826000][v0].nsp"
+      "path": "/e/Little Misfortune [0100E7000E826000][v0].nsp",
+      "size_bytes": 6989874000,
+      "size_mb": 6666.06,
+      "size_gb": 6.51
     },
     {
       "name": "Little Nightmares [01002fc00412c000]",
@@ -2805,7 +3789,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Little Nightmares Complete Edition/Little Nightmares [01002fc00412c000][v0].nsp",
-      "image": "images/01002FC00412C000.png"
+      "image": "images/01002FC00412C000.png",
+      "size_bytes": 3027702577,
+      "size_mb": 2887.44,
+      "size_gb": 2.82
     },
     {
       "name": "Luigis Mansion 2 HD[1.0.0][0][17.0.1]",
@@ -2813,7 +3800,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Luigis Mansion 2 HD[010048701995E000][1.0.0][0][17.0.1].nsp"
+      "path": "/e/Luigis Mansion 2 HD[010048701995E000][1.0.0][0][17.0.1].nsp",
+      "size_bytes": 3211993424,
+      "size_mb": 3063.2,
+      "size_gb": 2.99
     },
     {
       "name": "Luigis Mansion 3",
@@ -2821,7 +3811,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Luigis Mansion 3.nsp"
+      "path": "/e/Luigis Mansion 3.nsp",
+      "size_bytes": 6820161150,
+      "size_mb": 6504.21,
+      "size_gb": 6.35
     },
     {
       "name": "MARVELvsCAPCOM Fighting Collection Arcade Classics",
@@ -2830,7 +3823,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/MARVELvsCAPCOM Fighting Collection Arcade Classics.nsp",
-      "image": "images/MARVELvsCAPCOM_Fighting_Collection_Arcade_Classics.png"
+      "image": "images/MARVELvsCAPCOM_Fighting_Collection_Arcade_Classics.png",
+      "size_bytes": 3355660875,
+      "size_mb": 3200.21,
+      "size_gb": 3.13
     },
     {
       "name": "MEGA MAN BATTLE & FIGHTERS [US]",
@@ -2839,7 +3835,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/MEGA MAN BATTLE & FIGHTERS [01003DF018D5A000][v0][US].nsp",
-      "image": "images/01003DF018D5A000.png"
+      "image": "images/01003DF018D5A000.png",
+      "size_bytes": 108560720,
+      "size_mb": 103.53,
+      "size_gb": 0.1
     },
     {
       "name": "MONSTER HUNTER RISE [US]",
@@ -2847,7 +3846,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/MONSTER HUNTER RISE [0100B04011742000][US][v0].nsp"
+      "path": "/e/MONSTER HUNTER RISE [0100B04011742000][US][v0].nsp",
+      "size_bytes": 7051827773,
+      "size_mb": 6725.15,
+      "size_gb": 6.57
     },
     {
       "name": "Mario Kart 8 Deluxe",
@@ -2855,7 +3857,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Mario Kart 8 Deluxe/Mario Kart 8 Deluxe [0100152000022000][v0].nsp"
+      "path": "/e/Mario Kart 8 Deluxe/Mario Kart 8 Deluxe [0100152000022000][v0].nsp",
+      "size_bytes": 7268474470,
+      "size_mb": 6931.76,
+      "size_gb": 6.77
     },
     {
       "name": "Stardew Valley [0100e65002bb8000]",
@@ -2864,7 +3869,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Mario Kart 8 Deluxe/Stardew Valley/Stardew Valley [0100e65002bb8000][v0].nsp",
-      "image": "images/0100E65002BB8000.png"
+      "image": "images/0100E65002BB8000.png",
+      "size_bytes": 921196847,
+      "size_mb": 878.52,
+      "size_gb": 0.86
     },
     {
       "name": "Mario Strikers Battle League",
@@ -2872,7 +3880,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Mario Strikers Battle League [010019401051C000][v0].nsp"
+      "path": "/e/Mario Strikers Battle League [010019401051C000][v0].nsp",
+      "size_bytes": 2005912000,
+      "size_mb": 1912.99,
+      "size_gb": 1.87
     },
     {
       "name": "Mario_and_Sonic_at_the_Olympic_Games_Tokyo_2020_V1.0.1_Eur_SuperXCi_switch-xci.com",
@@ -2880,7 +3891,10 @@
       "type": "xci",
       "category": "base",
       "drive": "e",
-      "path": "/e/Mario_and_Sonic_at_the_Olympic_Games_Tokyo_2020_V1.0.1_Eur_SuperXCi_switch-xci.com.xci"
+      "path": "/e/Mario_and_Sonic_at_the_Olympic_Games_Tokyo_2020_V1.0.1_Eur_SuperXCi_switch-xci.com.xci",
+      "size_bytes": 6875940864,
+      "size_mb": 6557.41,
+      "size_gb": 6.4
     },
     {
       "name": "Mega Man Legacy Collection 2 [0100842008ec4000]",
@@ -2889,7 +3903,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Mega Man Legacy Collection 2 [0100842008ec4000][v0].nsp",
-      "image": "images/0100842008EC4000.png"
+      "image": "images/0100842008EC4000.png",
+      "size_bytes": 3461320496,
+      "size_mb": 3300.97,
+      "size_gb": 3.22
     },
     {
       "name": "Mega Man Legacy Collection [01002d4007ae0000]",
@@ -2898,7 +3915,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Mega Man Legacy Collection [01002d4007ae0000][v0].nsp",
-      "image": "images/01002D4007AE0000.png"
+      "image": "images/01002D4007AE0000.png",
+      "size_bytes": 360125743,
+      "size_mb": 343.44,
+      "size_gb": 0.34
     },
     {
       "name": "Mega Man X Legacy Collection 2 [01005250086c4000]",
@@ -2907,7 +3927,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Mega Man X Legacy Collection 2 [01005250086c4000][v0].nsp",
-      "image": "images/01005250086C4000.png"
+      "image": "images/01005250086C4000.png",
+      "size_bytes": 7121828144,
+      "size_mb": 6791.9,
+      "size_gb": 6.63
     },
     {
       "name": "Mega Man X Legacy Collection [01005c60086be000]",
@@ -2916,7 +3939,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Mega Man X Legacy Collection [01005c60086be000][v0].nsp",
-      "image": "images/01005C60086BE000.png"
+      "image": "images/01005C60086BE000.png",
+      "size_bytes": 3189457200,
+      "size_mb": 3041.7,
+      "size_gb": 2.97
     },
     {
       "name": "Minecraft Nintendo Switch Edition [01006bd001e06000]",
@@ -2924,7 +3950,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Minecraft Nintendo Switch Edition/Minecraft Nintendo Switch Edition [01006bd001e06000][v0].nsp"
+      "path": "/e/Minecraft Nintendo Switch Edition/Minecraft Nintendo Switch Edition [01006bd001e06000][v0].nsp",
+      "size_bytes": 536196392,
+      "size_mb": 511.36,
+      "size_gb": 0.5
     },
     {
       "name": "Minecraft Story Mode - The Complete Adventure [010059c002ac2000]",
@@ -2933,7 +3962,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Minecraft Story Mode - The Complete Adventure [010059c002ac2000][v0].nsp",
-      "image": "images/010059C002AC2000.png"
+      "image": "images/010059C002AC2000.png",
+      "size_bytes": 4649891113,
+      "size_mb": 4434.48,
+      "size_gb": 4.33
     },
     {
       "name": "Minecraft [0100d71004694000]",
@@ -2941,7 +3973,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Minecraft/Minecraft [0100d71004694000][v0].nsp"
+      "path": "/e/Minecraft/Minecraft [0100d71004694000][v0].nsp",
+      "size_bytes": 477124714,
+      "size_mb": 455.02,
+      "size_gb": 0.44
     },
     {
       "name": "N64 V0 NSO",
@@ -2949,7 +3984,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/N64 V0 NSO.nsp"
+      "path": "/e/N64 V0 NSO.nsp",
+      "size_bytes": 327562564,
+      "size_mb": 312.39,
+      "size_gb": 0.31
     },
     {
       "name": "Neva [v1.1.2]",
@@ -2957,7 +3995,10 @@
       "type": "xci",
       "category": "base",
       "drive": "e",
-      "path": "/e/Neva [v1.1.2].xci"
+      "path": "/e/Neva [v1.1.2].xci",
+      "size_bytes": 6006634496,
+      "size_mb": 5728.37,
+      "size_gb": 5.59
     },
     {
       "name": "New Joe and Mac Caveman Ninja [US]",
@@ -2966,7 +4007,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/New Joe and Mac Caveman Ninja [01003A9013DEE000][v0][US].nsp",
-      "image": "images/01003A9013DEE000.png"
+      "image": "images/01003A9013DEE000.png",
+      "size_bytes": 717531072,
+      "size_mb": 684.29,
+      "size_gb": 0.67
     },
     {
       "name": "New Super Mario Bros. U Deluxe (1.0.0)",
@@ -2974,7 +4018,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/New Super Mario Bros. U Deluxe (1.0.0).nsp"
+      "path": "/e/New Super Mario Bros. U Deluxe (1.0.0).nsp",
+      "size_bytes": 2688677431,
+      "size_mb": 2564.12,
+      "size_gb": 2.5
     },
     {
       "name": "New Super Mario Bros. U Deluxe",
@@ -2982,7 +4029,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/New Super Mario Bros. U Deluxe [v0][0100EA80032EA000].nsp"
+      "path": "/e/New Super Mario Bros. U Deluxe [v0][0100EA80032EA000].nsp",
+      "size_bytes": 2688677431,
+      "size_mb": 2564.12,
+      "size_gb": 2.5
     },
     {
       "name": "Nintendo 64 Nintendo Switch Online v4.0.0",
@@ -2990,7 +4040,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Nintendo 64 Nintendo Switch Online v4.0.0.nsp"
+      "path": "/e/Nintendo 64 Nintendo Switch Online v4.0.0.nsp",
+      "size_bytes": 1643220761,
+      "size_mb": 1567.1,
+      "size_gb": 1.53
     },
     {
       "name": "Nintendo 64 - Nintendo Switch Online MATURE 17+ [US](nsw2u.com)",
@@ -2998,7 +4051,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Nintendo 64 - Nintendo Switch Online MATURE 17+ [0100E0601C632000][v0][US](nsw2u.com).nsp"
+      "path": "/e/Nintendo 64 - Nintendo Switch Online MATURE 17+ [0100E0601C632000][v0][US](nsw2u.com).nsp",
+      "size_bytes": 0,
+      "size_mb": 0,
+      "size_gb": 0
     },
     {
       "name": "No More Heroes 2 Desperate Struggle",
@@ -3007,7 +4063,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/No More Heroes 2 Desperate Struggle [010071400F204000][v0].nsp",
-      "image": "images/010071400F204000.png"
+      "image": "images/010071400F204000.png",
+      "size_bytes": 2774979855,
+      "size_mb": 2646.43,
+      "size_gb": 2.58
     },
     {
       "name": "No More Heroes 3 [Special CAT overseas ver T-shirt]",
@@ -3016,7 +4075,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/No More Heroes 3 [Special CAT overseas ver T-shirt] [01007C600EB43006][v0].nsp",
-      "image": "images/01007C600EB43006.png"
+      "image": "images/01007C600EB43006.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "No More Heroes 3 [Special INSERT COIN overseas ver T-shirt]",
@@ -3025,7 +4087,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/No More Heroes 3 [Special INSERT COIN overseas ver T-shirt] [01007C600EB43008][v0].nsp",
-      "image": "images/01007C600EB43008.png"
+      "image": "images/01007C600EB43008.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "No More Heroes +[v1.1.1]",
@@ -3034,7 +4099,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/No More Heroes [0100F0400F202000]+[v1.1.1].xci",
-      "image": "images/0100F0400F202000.png"
+      "image": "images/0100F0400F202000.png",
+      "size_bytes": 2357559808,
+      "size_mb": 2248.34,
+      "size_gb": 2.2
     },
     {
       "name": "No More Heroes",
@@ -3042,7 +4110,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/No More Heroes [0100F0400F202800][v196608].nsp"
+      "path": "/e/No More Heroes [0100F0400F202800][v196608].nsp",
+      "size_bytes": 516181983,
+      "size_mb": 492.27,
+      "size_gb": 0.48
     },
     {
       "name": "OMORI [US](nsw2u.xyz)",
@@ -3050,7 +4121,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/OMORI [010014E017B14000][v0][US](nsw2u.xyz).nsp"
+      "path": "/e/OMORI [010014E017B14000][v0][US](nsw2u.xyz).nsp",
+      "size_bytes": 2010681680,
+      "size_mb": 1917.54,
+      "size_gb": 1.87
     },
     {
       "name": "Pokemon Legends Arceus (Download From nsw2u.xyz)",
@@ -3058,7 +4132,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Pokemon Legends Arceus [01001F5010DFA000][v0](Download From nsw2u.xyz).nsp"
+      "path": "/e/Pokemon Legends Arceus [01001F5010DFA000][v0](Download From nsw2u.xyz).nsp",
+      "size_bytes": 6460874640,
+      "size_mb": 6161.57,
+      "size_gb": 6.02
     },
     {
       "name": "Pokemon Scarlet [US](nsw2u.com)",
@@ -3066,7 +4143,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Pokemon Scarlet [0100A3D008C5C000][v0][US](nsw2u.com).nsp"
+      "path": "/e/Pokemon Scarlet [0100A3D008C5C000][v0][US](nsw2u.com).nsp",
+      "size_bytes": 6734844304,
+      "size_mb": 6422.85,
+      "size_gb": 6.27
     },
     {
       "name": "Pokemon Violet",
@@ -3074,7 +4154,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Pokemon Violet [01008F6008C5E000][v0].nsp"
+      "path": "/e/Pokemon Violet [01008F6008C5E000][v0].nsp",
+      "size_bytes": 6734848573,
+      "size_mb": 6422.85,
+      "size_gb": 6.27
     },
     {
       "name": "Pokken Tournament DX",
@@ -3082,7 +4165,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Pokken Tournament DX.nsp"
+      "path": "/e/Pokken Tournament DX.nsp",
+      "size_bytes": 3700189912,
+      "size_mb": 3528.78,
+      "size_gb": 3.45
     },
     {
       "name": "Pokémon Lets Go, Eevee! (1.0.2)",
@@ -3090,7 +4176,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Pokémon Lets Go, Eevee! (1.0.2).nsp"
+      "path": "/e/Pokémon Lets Go, Eevee! (1.0.2).nsp",
+      "size_bytes": 4468075224,
+      "size_mb": 4261.09,
+      "size_gb": 4.16
     },
     {
       "name": "Pokémon Lets Go, Pikachu! (1.0.2)",
@@ -3098,7 +4187,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Pokémon Lets Go, Pikachu! (1.0.2).nsp"
+      "path": "/e/Pokémon Lets Go, Pikachu! (1.0.2).nsp",
+      "size_bytes": 4465104600,
+      "size_mb": 4258.26,
+      "size_gb": 4.16
     },
     {
       "name": "Portal",
@@ -3106,7 +4198,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Portal [01007BB017812000][v0].nsp"
+      "path": "/e/Portal [01007BB017812000][v0].nsp",
+      "size_bytes": 2806875460,
+      "size_mb": 2676.85,
+      "size_gb": 2.61
     },
     {
       "name": "Princess Peach Showtime",
@@ -3114,7 +4209,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Princess Peach Showtime [01007A3009184000][v0].nsp"
+      "path": "/e/Princess Peach Showtime [01007A3009184000][v0].nsp",
+      "size_bytes": 4997262911,
+      "size_mb": 4765.76,
+      "size_gb": 4.65
     },
     {
       "name": "Rayman Legends Definitive Edition 1.2",
@@ -3123,7 +4221,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Rayman Legends Definitive Edition 1.2.nsp",
-      "image": "images/Rayman_Legends_Definitive_Edition_1_2.png"
+      "image": "images/Rayman_Legends_Definitive_Edition_1_2.png",
+      "size_bytes": 3141321432,
+      "size_mb": 2995.8,
+      "size_gb": 2.93
     },
     {
       "name": "Resident Evil 4",
@@ -3132,7 +4233,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Resident Evil 4 (ESP) NSP/Resident Evil 4 [010099A00BC1E000][v0].nsp",
-      "image": "images/010099A00BC1E000.png"
+      "image": "images/010099A00BC1E000.png",
+      "size_bytes": 12975170824,
+      "size_mb": 12374.09,
+      "size_gb": 12.08
     },
     {
       "name": "SAMURAI_SHODOWN_NEOGEO_COLLECTION_0100F6800F48E800v196608",
@@ -3140,7 +4244,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/SAMURAI_SHODOWN_NEOGEO_COLLECTION_0100F6800F48E800v196608.nsp"
+      "path": "/e/SAMURAI_SHODOWN_NEOGEO_COLLECTION_0100F6800F48E800v196608.nsp",
+      "size_bytes": 40687440,
+      "size_mb": 38.8,
+      "size_gb": 0.04
     },
     {
       "name": "Sea of Stars [US](nsw2u.com)",
@@ -3148,7 +4255,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Sea of Stars [01008C0016544000][v0][US](nsw2u.com).nsp"
+      "path": "/e/Sea of Stars [01008C0016544000][v0][US](nsw2u.com).nsp",
+      "size_bytes": 4167299920,
+      "size_mb": 3974.25,
+      "size_gb": 3.88
     },
     {
       "name": "Shantae Half-Genie Hero Ultimate Edition",
@@ -3157,7 +4267,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Shantae Half-Genie Hero Ultimate Edition [01006A200936C000][v0].nsp",
-      "image": "images/01006A200936C000.png"
+      "image": "images/01006A200936C000.png",
+      "size_bytes": 2913456394,
+      "size_mb": 2778.49,
+      "size_gb": 2.71
     },
     {
       "name": "Shantae Riskys Revenge - Directors Cut",
@@ -3166,7 +4279,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Shantae Riskys Revenge - Directors Cut [0100ADA012370000][v0].nsp",
-      "image": "images/0100ADA012370000.png"
+      "image": "images/0100ADA012370000.png",
+      "size_bytes": 170516816,
+      "size_mb": 162.62,
+      "size_gb": 0.16
     },
     {
       "name": "Shantae [US]",
@@ -3175,7 +4291,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Shantae [0100430013120000][v0][US].nsp",
-      "image": "images/0100430013120000.png"
+      "image": "images/0100430013120000.png",
+      "size_bytes": 215228352,
+      "size_mb": 205.26,
+      "size_gb": 0.2
     },
     {
       "name": "Shantae and the Seven Sirens",
@@ -3184,7 +4303,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Shantae and the Seven Sirens [0100EB901040A000][v0].nsp",
-      "image": "images/0100EB901040A000.png"
+      "image": "images/0100EB901040A000.png",
+      "size_bytes": 2225979151,
+      "size_mb": 2122.86,
+      "size_gb": 2.07
     },
     {
       "name": "Shovel Knight - Dig (1.0.0)",
@@ -3192,7 +4314,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Shovel Knight - Dig (1.0.0).nsp"
+      "path": "/e/Shovel Knight - Dig (1.0.0).nsp",
+      "size_bytes": 398552912,
+      "size_mb": 380.09,
+      "size_gb": 0.37
     },
     {
       "name": "Shovel Knight - Shovel of Hope (1.0.0)",
@@ -3200,7 +4325,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Shovel Knight - Shovel of Hope (1.0.0).nsp"
+      "path": "/e/Shovel Knight - Shovel of Hope (1.0.0).nsp",
+      "size_bytes": 174382528,
+      "size_mb": 166.3,
+      "size_gb": 0.16
     },
     {
       "name": "Sonic Colors Ultimate",
@@ -3208,7 +4336,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Sonic Colors Ultimate [v196608].nsp"
+      "path": "/e/Sonic Colors Ultimate [v196608].nsp",
+      "size_bytes": 360807760,
+      "size_mb": 344.09,
+      "size_gb": 0.34
     },
     {
       "name": "Sonic Origins",
@@ -3216,7 +4347,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Sonic Origins [01009FB016286000][v0].nsp"
+      "path": "/e/Sonic Origins [01009FB016286000][v0].nsp",
+      "size_bytes": 3854040645,
+      "size_mb": 3675.5,
+      "size_gb": 3.59
     },
     {
       "name": "Sonic Superstars",
@@ -3224,7 +4358,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Sonic Superstars [01008F701C074000][v0].nsp"
+      "path": "/e/Sonic Superstars [01008F701C074000][v0].nsp",
+      "size_bytes": 4419936016,
+      "size_mb": 4215.18,
+      "size_gb": 4.12
     },
     {
       "name": "Super Kirby Clash",
@@ -3232,7 +4369,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Super Kirby Clash.nsp"
+      "path": "/e/Super Kirby Clash.nsp",
+      "size_bytes": 1153649488,
+      "size_mb": 1100.21,
+      "size_gb": 1.07
     },
     {
       "name": "Super Mario 3D World Bowsers Fury",
@@ -3240,7 +4380,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Super Mario 3D World Bowsers Fury [010028600EBDA000][v0].nsp"
+      "path": "/e/Super Mario 3D World Bowsers Fury [010028600EBDA000][v0].nsp",
+      "size_bytes": 3086485840,
+      "size_mb": 2943.5,
+      "size_gb": 2.87
     },
     {
       "name": "Super Mario Odyssey[multi][xcib]",
@@ -3248,7 +4391,10 @@
       "type": "xci",
       "category": "base",
       "drive": "e",
-      "path": "/e/Super Mario Odyssey[multi][xcib].xci"
+      "path": "/e/Super Mario Odyssey[multi][xcib].xci",
+      "size_bytes": 5903642624,
+      "size_mb": 5630.15,
+      "size_gb": 5.5
     },
     {
       "name": "Super Mario Party Jamboree",
@@ -3256,7 +4402,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Super Mario Party Jamboree [0100965017338000][v0].nsp"
+      "path": "/e/Super Mario Party Jamboree [0100965017338000][v0].nsp",
+      "size_bytes": 5681174273,
+      "size_mb": 5417.99,
+      "size_gb": 5.29
     },
     {
       "name": "Super Mario Party [010036b0034e4000]",
@@ -3264,7 +4413,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Super Mario Party [010036b0034e4000][v0].nsp"
+      "path": "/e/Super Mario Party [010036b0034e4000][v0].nsp",
+      "size_bytes": 2982349563,
+      "size_mb": 2844.19,
+      "size_gb": 2.78
     },
     {
       "name": "Super Mario RPG [US](nsw2u.com)",
@@ -3272,7 +4424,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Super Mario RPG [0100BC0018138000][v0][US](nsw2u.com).nsp"
+      "path": "/e/Super Mario RPG [0100BC0018138000][v0][US](nsw2u.com).nsp",
+      "size_bytes": 6874119433,
+      "size_mb": 6555.67,
+      "size_gb": 6.4
     },
     {
       "name": "Super Monkey Ball Banana Mania [Golden Banana Mode] v0][US]",
@@ -3281,7 +4436,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Super Monkey Ball Banana Mania [Golden Banana Mode] v0][US].nsp",
-      "image": "images/Super_Monkey_Ball_Banana_Mania_v0_.png"
+      "image": "images/Super_Monkey_Ball_Banana_Mania_v0_.png",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "Super Monkey Ball Banana Mania",
@@ -3290,7 +4448,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Super Monkey Ball Banana Mania [v0].nsp",
-      "image": "images/Super_Monkey_Ball_Banana_Mania.png"
+      "image": "images/Super_Monkey_Ball_Banana_Mania.png",
+      "size_bytes": 3146104144,
+      "size_mb": 3000.36,
+      "size_gb": 2.93
     },
     {
       "name": "Super Mario Bros. Wonder [US](nsw2u.com)",
@@ -3298,7 +4459,10 @@
       "type": "xci",
       "category": "base",
       "drive": "e",
-      "path": "/e/Super_Mario_Bros_Wonder_010015100B514000v0USDumped_xci/Super Mario Bros. Wonder [010015100B514000][v0][US](nsw2u.com).xci"
+      "path": "/e/Super_Mario_Bros_Wonder_010015100B514000v0USDumped_xci/Super Mario Bros. Wonder [010015100B514000][v0][US](nsw2u.com).xci",
+      "size_bytes": 3769099776,
+      "size_mb": 3594.49,
+      "size_gb": 3.51
     },
     {
       "name": "Superliminal [USA]",
@@ -3306,7 +4470,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Superliminal [010075701153A000][USA][v0].nsp"
+      "path": "/e/Superliminal [010075701153A000][USA][v0].nsp",
+      "size_bytes": 4150036749,
+      "size_mb": 3957.78,
+      "size_gb": 3.87
     },
     {
       "name": "THE KING OF FIGHTERS XIII GLOBAL MATCH [US](nsw2u.com)",
@@ -3315,7 +4482,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/THE KING OF FIGHTERS XIII GLOBAL MATCH [0100DC701A388000][v0][US](nsw2u.com).nsp",
-      "image": "images/0100DC701A388000.png"
+      "image": "images/0100DC701A388000.png",
+      "size_bytes": 3164454160,
+      "size_mb": 3017.86,
+      "size_gb": 2.95
     },
     {
       "name": "Taiko no Tatsujin Drum n Fun",
@@ -3324,7 +4494,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Taiko no Tatsujin Drum n Fun [01002C000B552000][v0].nsp",
-      "image": "images/01002C000B552000.png"
+      "image": "images/01002C000B552000.png",
+      "size_bytes": 3434121994,
+      "size_mb": 3275.03,
+      "size_gb": 3.2
     },
     {
       "name": "Taiko no Tatsujin Rhythm Festival [US]",
@@ -3333,7 +4506,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Taiko no Tatsujin Rhythm Festival [01006B0016AD6000][v0][US].nsp",
-      "image": "images/01006B0016AD6000.png"
+      "image": "images/01006B0016AD6000.png",
+      "size_bytes": 3429799760,
+      "size_mb": 3270.91,
+      "size_gb": 3.19
     },
     {
       "name": "Teenage Mutant Ninja Turtles Arcade Wrath of the Mutants [US]",
@@ -3342,7 +4518,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Teenage Mutant Ninja Turtles Arcade Wrath of the Mutants [0100C7601CDAC000][v0][US].xci",
-      "image": "images/0100C7601CDAC000.png"
+      "image": "images/0100C7601CDAC000.png",
+      "size_bytes": 3992977408,
+      "size_mb": 3808.0,
+      "size_gb": 3.72
     },
     {
       "name": "The LEGO Movie 2 Videogame",
@@ -3351,7 +4530,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/The LEGO Movie 2 Videogame [0100A4400BE74000][v0].nsp",
-      "image": "images/0100A4400BE74000.png"
+      "image": "images/0100A4400BE74000.png",
+      "size_bytes": 5209045328,
+      "size_mb": 4967.73,
+      "size_gb": 4.85
     },
     {
       "name": "Tinfoil 20 [050000BADDAD0000][20.0]",
@@ -3359,7 +4541,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Tinfoil 20 [050000BADDAD0000][20.0][v1].nsp"
+      "path": "/e/Tinfoil 20 [050000BADDAD0000][20.0][v1].nsp",
+      "size_bytes": 16863448,
+      "size_mb": 16.08,
+      "size_gb": 0.02
     },
     {
       "name": "Tinfoil [050000BADDAD0000][20.0]",
@@ -3367,7 +4552,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Tinfoil [050000BADDAD0000][20.0][v1].nsp"
+      "path": "/e/Tinfoil [050000BADDAD0000][20.0][v1].nsp",
+      "size_bytes": 16863448,
+      "size_mb": 16.08,
+      "size_gb": 0.02
     },
     {
       "name": "Toki",
@@ -3375,7 +4563,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Toki [0100F3400A432000][v0].nsp"
+      "path": "/e/Toki [0100F3400A432000][v0].nsp",
+      "size_bytes": 400760073,
+      "size_mb": 382.19,
+      "size_gb": 0.37
     },
     {
       "name": "Trinity Trigger [US]",
@@ -3384,7 +4575,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/Trinity Trigger [01004950197B2000][v0][US].nsp",
-      "image": "images/01004950197B2000.png"
+      "image": "images/01004950197B2000.png",
+      "size_bytes": 3157159248,
+      "size_mb": 3010.9,
+      "size_gb": 2.94
     },
     {
       "name": "Urban Flow [Urban Flow - London Rules] [US]",
@@ -3392,7 +4586,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Urban Flow [Urban Flow - London Rules] [0100B110109F9003][v0][US].nsp"
+      "path": "/e/Urban Flow [Urban Flow - London Rules] [0100B110109F9003][v0][US].nsp",
+      "size_bytes": 121040,
+      "size_mb": 0.12,
+      "size_gb": 0.0
     },
     {
       "name": "Yoshi's Crafted World [01006000040c2000]",
@@ -3400,7 +4597,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/Yoshi's Crafted World [01006000040c2000][v0]/Yoshi's Crafted World [01006000040c2000][v0].nsp"
+      "path": "/e/Yoshi's Crafted World [01006000040c2000][v0]/Yoshi's Crafted World [01006000040c2000][v0].nsp",
+      "size_bytes": 5686466299,
+      "size_mb": 5423.04,
+      "size_gb": 5.3
     },
     {
       "name": "[NSW] ACA NEOGEO METAL SLUG 2",
@@ -3409,7 +4609,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO METAL SLUG 2.nsp",
-      "image": "images/ACA_NEOGEO_METAL_SLUG_2.png"
+      "image": "images/ACA_NEOGEO_METAL_SLUG_2.png",
+      "size_bytes": 97407312,
+      "size_mb": 92.89,
+      "size_gb": 0.09
     },
     {
       "name": "[NSW] ACA NEOGEO METAL SLUG 3",
@@ -3418,7 +4621,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO METAL SLUG 3.nsp",
-      "image": "images/ACA_NEOGEO_METAL_SLUG_3.png"
+      "image": "images/ACA_NEOGEO_METAL_SLUG_3.png",
+      "size_bytes": 167733584,
+      "size_mb": 159.96,
+      "size_gb": 0.16
     },
     {
       "name": "[NSW] ACA NEOGEO METAL SLUG 4",
@@ -3427,7 +4633,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO METAL SLUG 4.nsp",
-      "image": "images/ACA_NEOGEO_METAL_SLUG_4.png"
+      "image": "images/ACA_NEOGEO_METAL_SLUG_4.png",
+      "size_bytes": 118219600,
+      "size_mb": 112.74,
+      "size_gb": 0.11
     },
     {
       "name": "[NSW] ACA NEOGEO METAL SLUG 5",
@@ -3436,7 +4645,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO METAL SLUG 5.nsp",
-      "image": "images/ACA_NEOGEO_METAL_SLUG_5.png"
+      "image": "images/ACA_NEOGEO_METAL_SLUG_5.png",
+      "size_bytes": 108892425,
+      "size_mb": 103.85,
+      "size_gb": 0.1
     },
     {
       "name": "[NSW] ACA NEOGEO METAL SLUG X",
@@ -3445,7 +4657,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO METAL SLUG X.nsp",
-      "image": "images/ACA_NEOGEO_METAL_SLUG_X.png"
+      "image": "images/ACA_NEOGEO_METAL_SLUG_X.png",
+      "size_bytes": 112373072,
+      "size_mb": 107.17,
+      "size_gb": 0.1
     },
     {
       "name": "[NSW] ACA NEOGEO METAL SLUG",
@@ -3454,7 +4669,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO METAL SLUG.nsp",
-      "image": "images/ACA_NEOGEO_METAL_SLUG.png"
+      "image": "images/ACA_NEOGEO_METAL_SLUG.png",
+      "size_bytes": 89893200,
+      "size_mb": 85.73,
+      "size_gb": 0.08
     },
     {
       "name": "[NSW] ACA NEOGEO THE KING OF FIGHTERS 2002",
@@ -3463,7 +4681,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO THE KING OF FIGHTERS 2002.nsp",
-      "image": "images/ACA_NEOGEO_THE_KING_OF_FIGHTERS_2002.png"
+      "image": "images/ACA_NEOGEO_THE_KING_OF_FIGHTERS_2002.png",
+      "size_bytes": 141685513,
+      "size_mb": 135.12,
+      "size_gb": 0.13
     },
     {
       "name": "[NSW] ACA NEOGEO THE KING OF FIGHTERS 2003",
@@ -3472,7 +4693,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO THE KING OF FIGHTERS 2003.nsp",
-      "image": "images/ACA_NEOGEO_THE_KING_OF_FIGHTERS_2003.png"
+      "image": "images/ACA_NEOGEO_THE_KING_OF_FIGHTERS_2003.png",
+      "size_bytes": 134693641,
+      "size_mb": 128.45,
+      "size_gb": 0.13
     },
     {
       "name": "[NSW] ACA NEOGEO THE LAST BLADE 2",
@@ -3481,7 +4705,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO THE LAST BLADE 2.nsp",
-      "image": "images/ACA_NEOGEO_THE_LAST_BLADE_2.png"
+      "image": "images/ACA_NEOGEO_THE_LAST_BLADE_2.png",
+      "size_bytes": 134973264,
+      "size_mb": 128.72,
+      "size_gb": 0.13
     },
     {
       "name": "[NSW] ACA NEOGEO THE LAST BLADE",
@@ -3490,7 +4717,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO THE LAST BLADE.nsp",
-      "image": "images/ACA_NEOGEO_THE_LAST_BLADE.png"
+      "image": "images/ACA_NEOGEO_THE_LAST_BLADE.png",
+      "size_bytes": 113101136,
+      "size_mb": 107.86,
+      "size_gb": 0.11
     },
     {
       "name": "[NSW] ACA NEOGEO THE SUPER SPY",
@@ -3499,7 +4729,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO THE SUPER SPY.nsp",
-      "image": "images/ACA_NEOGEO_THE_SUPER_SPY.png"
+      "image": "images/ACA_NEOGEO_THE_SUPER_SPY.png",
+      "size_bytes": 80614224,
+      "size_mb": 76.88,
+      "size_gb": 0.08
     },
     {
       "name": "[NSW] ACA NEOGEO THE ULTIMATE 11 SNK FOOTBALL CHAMPIONSHIP",
@@ -3508,7 +4741,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO THE ULTIMATE 11 SNK FOOTBALL CHAMPIONSHIP.nsp",
-      "image": "images/ACA_NEOGEO_THE_ULTIMATE_11_SNK_FOOTBALL_CHAMPIONSHIP.png"
+      "image": "images/ACA_NEOGEO_THE_ULTIMATE_11_SNK_FOOTBALL_CHAMPIONSHIP.png",
+      "size_bytes": 107416400,
+      "size_mb": 102.44,
+      "size_gb": 0.1
     },
     {
       "name": "[NSW] ACA NEOGEO THRASH RALLY",
@@ -3517,7 +4753,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO THRASH RALLY.nsp",
-      "image": "images/ACA_NEOGEO_THRASH_RALLY.png"
+      "image": "images/ACA_NEOGEO_THRASH_RALLY.png",
+      "size_bytes": 78184200,
+      "size_mb": 74.56,
+      "size_gb": 0.07
     },
     {
       "name": "[NSW] ACA NEOGEO TOP HUNTER RODDY & CATHY",
@@ -3526,7 +4765,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO TOP HUNTER RODDY & CATHY.nsp",
-      "image": "images/ACA_NEOGEO_TOP_HUNTER_RODDY___CATHY.png"
+      "image": "images/ACA_NEOGEO_TOP_HUNTER_RODDY___CATHY.png",
+      "size_bytes": 100664144,
+      "size_mb": 96.0,
+      "size_gb": 0.09
     },
     {
       "name": "[NSW] ACA NEOGEO TOP PLAYER'S GOLF",
@@ -3535,7 +4777,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO TOP PLAYER'S GOLF.nsp",
-      "image": "images/ACA_NEOGEO_TOP_PLAYER_S_GOLF.png"
+      "image": "images/ACA_NEOGEO_TOP_PLAYER_S_GOLF.png",
+      "size_bytes": 0,
+      "size_mb": 0,
+      "size_gb": 0
     },
     {
       "name": "[NSW] ACA NEOGEO TWINKLE STAR SPRITES",
@@ -3544,7 +4789,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO TWINKLE STAR SPRITES.nsp",
-      "image": "images/ACA_NEOGEO_TWINKLE_STAR_SPRITES.png"
+      "image": "images/ACA_NEOGEO_TWINKLE_STAR_SPRITES.png",
+      "size_bytes": 109028105,
+      "size_mb": 103.98,
+      "size_gb": 0.1
     },
     {
       "name": "[NSW] ACA NEOGEO WAKU WAKU 7",
@@ -3553,7 +4801,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO WAKU WAKU 7.nsp",
-      "image": "images/ACA_NEOGEO_WAKU_WAKU_7.png"
+      "image": "images/ACA_NEOGEO_WAKU_WAKU_7.png",
+      "size_bytes": 121240912,
+      "size_mb": 115.62,
+      "size_gb": 0.11
     },
     {
       "name": "[NSW] ACA NEOGEO WORLD HEROES 2 JET",
@@ -3562,7 +4813,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO WORLD HEROES 2 JET.nsp",
-      "image": "images/ACA_NEOGEO_WORLD_HEROES_2_JET.png"
+      "image": "images/ACA_NEOGEO_WORLD_HEROES_2_JET.png",
+      "size_bytes": 97292552,
+      "size_mb": 92.79,
+      "size_gb": 0.09
     },
     {
       "name": "[NSW] ACA NEOGEO WORLD HEROES 2",
@@ -3571,7 +4825,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO WORLD HEROES 2.nsp",
-      "image": "images/ACA_NEOGEO_WORLD_HEROES_2.png"
+      "image": "images/ACA_NEOGEO_WORLD_HEROES_2.png",
+      "size_bytes": 90043656,
+      "size_mb": 85.87,
+      "size_gb": 0.08
     },
     {
       "name": "[NSW] ACA NEOGEO WORLD HEROES PERFECT",
@@ -3580,7 +4837,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO WORLD HEROES PERFECT.nsp",
-      "image": "images/ACA_NEOGEO_WORLD_HEROES_PERFECT.png"
+      "image": "images/ACA_NEOGEO_WORLD_HEROES_PERFECT.png",
+      "size_bytes": 127086928,
+      "size_mb": 121.2,
+      "size_gb": 0.12
     },
     {
       "name": "[NSW] ACA NEOGEO WORLD HEROES",
@@ -3589,7 +4849,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO WORLD HEROES.nsp",
-      "image": "images/ACA_NEOGEO_WORLD_HEROES.png"
+      "image": "images/ACA_NEOGEO_WORLD_HEROES.png",
+      "size_bytes": 79104264,
+      "size_mb": 75.44,
+      "size_gb": 0.07
     },
     {
       "name": "[NSW] ACA NEOGEO ZED BLADE",
@@ -3598,7 +4861,10 @@
       "category": "base",
       "drive": "e",
       "path": "/e/[NSW] ACA NEOGEO ZED BLADE.nsp",
-      "image": "images/ACA_NEOGEO_ZED_BLADE.png"
+      "image": "images/ACA_NEOGEO_ZED_BLADE.png",
+      "size_bytes": 76100944,
+      "size_mb": 72.58,
+      "size_gb": 0.07
     },
     {
       "name": "[NSW] ACA NEOGEO ZUPAPA!",
@@ -3606,7 +4872,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/[NSW] ACA NEOGEO ZUPAPA!.nsp"
+      "path": "/e/[NSW] ACA NEOGEO ZUPAPA!.nsp",
+      "size_bytes": 81808208,
+      "size_mb": 78.02,
+      "size_gb": 0.08
     },
     {
       "name": "[NSW] Animal Crossing New Horizons",
@@ -3614,7 +4883,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/[NSW] Animal Crossing New Horizons.nsp"
+      "path": "/e/[NSW] Animal Crossing New Horizons.nsp",
+      "size_bytes": 6694729552,
+      "size_mb": 6384.59,
+      "size_gb": 6.23
     },
     {
       "name": "mario+rabitsutsu kingudamubatoru [0100e46003042000]",
@@ -3622,7 +4894,10 @@
       "type": "nsp",
       "category": "base",
       "drive": "e",
-      "path": "/e/mario+rabitsutsu kingudamubatoru/mario+rabitsutsu kingudamubatoru [0100e46003042000][v0].nsp"
+      "path": "/e/mario+rabitsutsu kingudamubatoru/mario+rabitsutsu kingudamubatoru [0100e46003042000][v0].nsp",
+      "size_bytes": 2691968304,
+      "size_mb": 2567.26,
+      "size_gb": 2.51
     },
     {
       "name": "Hot Wheels Unleashed 2 Turbocharged [DLC AcceleRacers All-Star Pack]",
