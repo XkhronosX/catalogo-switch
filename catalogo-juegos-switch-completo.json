@@ -1,7 +1,7 @@
 {
   "metadata": {
     "generated": "2026-11-08",
-    "totalGames": 1298,
+    "totalGames": 1277,
     "driveD": 805,
     "driveE": 532,
     "byFormat": {
@@ -9,7 +9,7 @@
       "XCI": 51
     },
     "byCategory": {
-      "base": 373,
+      "base": 352,
       "dlc": 753,
       "update": 172
     }
@@ -165,17 +165,6 @@
       "size_bytes": 6583419392,
       "size_mb": 6278.44,
       "size_gb": 6.13
-    },
-    {
-      "name": "BrowseNX.050032A5CF12E001.v0",
-      "filename": "BrowseNX.050032A5CF12E001.v0.nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/BrowseNX.050032A5CF12E001.v0.nsp",
-      "size_bytes": 718608,
-      "size_mb": 0.69,
-      "size_gb": 0.0
     },
     {
       "name": "Burnout Paradise Remastered",
@@ -344,28 +333,6 @@
       "image": "images/Cult_of_the_Lamb.webp"
     },
     {
-      "name": "DBI ACCESO DIRECTO",
-      "filename": "DBI ACCESO DIRECTO.nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/DBI ACCESO DIRECTO.nsp",
-      "size_bytes": 330968,
-      "size_mb": 0.32,
-      "size_gb": 0.0
-    },
-    {
-      "name": "DBI",
-      "filename": "DBI.nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/DBI.nsp",
-      "size_bytes": 348376,
-      "size_mb": 0.33,
-      "size_gb": 0.0
-    },
-    {
       "name": "DOOM 1993",
       "filename": "DOOM 1993 [010018900DD00000][v0].nsp",
       "type": "nsp",
@@ -506,30 +473,6 @@
       "size_mb": 15232.0,
       "size_gb": 14.88,
       "image": "images/01009D901BC56000.png"
-    },
-    {
-      "name": "Doraemon_Story_of_Seasons_Friends_of_the_Great_Kingdom_Premium_Crops",
-      "filename": "Doraemon_Story_of_Seasons_Friends_of_the_Great_Kingdom_Premium_Crops.nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/Doraemon_Story_of_Seasons_Friends_of_the_Great_Kingdom_Premium_Crops.nsp",
-      "image": "images/Doraemon_Story_of_Seasons_Friends_of_the_Great_Kingdom_Premium_Crops.png",
-      "size_bytes": 121040,
-      "size_mb": 0.12,
-      "size_gb": 0.0
-    },
-    {
-      "name": "Doraemon_Story_of_Seasons_Friends_of_the_Great_Kingdom_Seasonal",
-      "filename": "Doraemon_Story_of_Seasons_Friends_of_the_Great_Kingdom_Seasonal.nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/Doraemon_Story_of_Seasons_Friends_of_the_Great_Kingdom_Seasonal.nsp",
-      "image": "images/Doraemon_Story_of_Seasons_Friends_of_the_Great_Kingdom_Seasonal.png",
-      "size_bytes": 121040,
-      "size_mb": 0.12,
-      "size_gb": 0.0
     },
     {
       "name": "Double_Dragon_Gaiden_Rise_of_the_Dragons_01005D001AE48000v0",
@@ -918,18 +861,6 @@
       "image": "images/010092A0172E4000.webp"
     },
     {
-      "name": "JUMP FORCE - Deluxe Edition [JUMP FORCE Early Purchase Bonus][US]",
-      "filename": "JUMP FORCE - Deluxe Edition [JUMP FORCE Early Purchase Bonus][0100183010F13065][US][v0].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/JUMP FORCE - Deluxe Edition [JUMP FORCE Early Purchase Bonus][0100183010F13065][US][v0].nsp",
-      "image": "images/0100183010F13065.png",
-      "size_bytes": 153536,
-      "size_mb": 0.15,
-      "size_gb": 0.0
-    },
-    {
       "name": "JUMP FORCE Deluxe Edition (US)",
       "filename": "JUMP FORCE Deluxe Edition [0100183010F12000][v0](US).nsp",
       "type": "nsp",
@@ -1237,18 +1168,6 @@
       "size_bytes": 18933607179,
       "size_mb": 18056.49,
       "size_gb": 17.63
-    },
-    {
-      "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS [NBUNSC - Kakashi Hatake Maskless]",
-      "filename": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS [NBUNSC - Kakashi Hatake Maskless] [0100D2D0190A5005][v0].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS [NBUNSC - Kakashi Hatake Maskless] [0100D2D0190A5005][v0].nsp",
-      "image": "images/0100D2D0190A5005.png",
-      "size_bytes": 153536,
-      "size_mb": 0.15,
-      "size_gb": 0.0
     },
     {
       "name": "Need For Speed Hot Pursuit Remastered",
@@ -1970,17 +1889,6 @@
       "image": "images/01006A800016E000.webp"
     },
     {
-      "name": "Super Smash Bros Ultimate [Spirits Set 2 - Legend-Class Primary",
-      "filename": "Super Smash Bros Ultimate [Spirits Set 2 - Legend-Class Primary  Ace-Class Support] [01006A800016F085][v0].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/Super Smash Bros Ultimate(99 DLC) Incluidos outfit/Super Smash Bros Ultimate(99 DLC) Incluidos outfit/Super Smash Bros Ultimate [Spirits Set 2 - Legend-Class Primary  Ace-Class Support] [01006A800016F085][v0].nsp",
-      "size_bytes": 121040,
-      "size_mb": 0.12,
-      "size_gb": 0.0
-    },
-    {
       "name": "THE HOUSE OF THE DEAD Remake [v1.1.0]",
       "filename": "THE HOUSE OF THE DEAD Remake [v1.1.0].xci",
       "type": "xci",
@@ -2343,28 +2251,6 @@
       "size_gb": 0.2
     },
     {
-      "name": "exefs",
-      "filename": "exefs.nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/atmosphere/contents/0100000000000352/exefs.nsp",
-      "size_bytes": 328782,
-      "size_mb": 0.31,
-      "size_gb": 0.0
-    },
-    {
-      "name": "hbl",
-      "filename": "hbl.nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/atmosphere/hbl.nsp",
-      "size_bytes": 42209,
-      "size_mb": 0.04,
-      "size_gb": 0.0
-    },
-    {
       "name": "bbb-h-aab8a",
       "filename": "bbb-h-aab8a.xci",
       "type": "xci",
@@ -2374,28 +2260,6 @@
       "size_bytes": 3992977408,
       "size_mb": 3808.0,
       "size_gb": 3.72
-    },
-    {
-      "name": "hbmenu",
-      "filename": "hbmenu.nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/hbmenu.nsp",
-      "size_bytes": 279256,
-      "size_mb": 0.27,
-      "size_gb": 0.0
-    },
-    {
-      "name": "hbmenu_[0104444444440000]",
-      "filename": "hbmenu_[0104444444440000].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "d",
-      "path": "/d/hbmenu_[0104444444440000].nsp",
-      "size_bytes": 333528,
-      "size_mb": 0.32,
-      "size_gb": 0.0
     },
     {
       "name": "v-astralchain",
@@ -2662,28 +2526,6 @@
       "size_gb": 0.12
     },
     {
-      "name": "HBL INSTALADOR",
-      "filename": "HBL INSTALADOR.nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "e",
-      "path": "/e/APLICACIONES PARA NINTENDO SWITCH MAGICA/nsp/HBL INSTALADOR.nsp",
-      "size_bytes": 346840,
-      "size_mb": 0.33,
-      "size_gb": 0.0
-    },
-    {
-      "name": "USB File Transfer",
-      "filename": "USB File Transfer.nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "e",
-      "path": "/e/APLICACIONES PARA NINTENDO SWITCH MAGICA/nsp/USB File Transfer.nsp",
-      "size_bytes": 331992,
-      "size_mb": 0.32,
-      "size_gb": 0.0
-    },
-    {
       "name": "A_Space_for_the_Unbound_01006BF01923E000v0USnsw2u_com",
       "filename": "A_Space_for_the_Unbound_01006BF01923E000v0USnsw2u_com.xci",
       "type": "xci",
@@ -2946,18 +2788,6 @@
       "size_gb": 0.07
     },
     {
-      "name": "Batman Arkham City [US]",
-      "filename": "Batman Arkham City [01003F00163CE000][v0][US].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "e",
-      "path": "/e/Batman Arkham City [01003F00163CE000][v0][US].nsp",
-      "size_bytes": 8333075,
-      "size_mb": 7.95,
-      "size_gb": 0.01,
-      "image": "images/01003F00163CE000.webp"
-    },
-    {
       "name": "Bayonetta 3 (World) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko,Ru)",
       "filename": "Bayonetta 3 (World) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko,Ru).xci",
       "type": "xci",
@@ -3017,17 +2847,6 @@
       "size_gb": 5.76
     },
     {
-      "name": "DOOM Eternal [Deluxe Edition Content]",
-      "filename": "DOOM Eternal [Deluxe Edition Content] [0100B1A00D8CF002][v0].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "e",
-      "path": "/e/DOOM Eternal [Deluxe Edition Content] [0100B1A00D8CF002][v0].nsp",
-      "size_bytes": 121040,
-      "size_mb": 0.12,
-      "size_gb": 0.0
-    },
-    {
       "name": "DOOM [0100416004c00000]",
       "filename": "DOOM [0100416004c00000][v0].nsp",
       "type": "nsp",
@@ -3038,18 +2857,6 @@
       "size_mb": 13994.46,
       "size_gb": 13.67,
       "image": "images/0100416004C00000.webp"
-    },
-    {
-      "name": "DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Android 17][US]",
-      "filename": "DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Android 17][0100A250097F100D][US][v0].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "e",
-      "path": "/e/DRAGON BALL FIGHTERZ [DRAGON BALL FIGHTERZ - Android 17][0100A250097F100D][US][v0].nsp",
-      "image": "images/0100A250097F100D.png",
-      "size_bytes": 121040,
-      "size_mb": 0.12,
-      "size_gb": 0.0
     },
     {
       "name": "DRAGON_BALL_FIGHTER Z v0",
@@ -3157,18 +2964,6 @@
       "size_bytes": 4130772304,
       "size_mb": 3939.41,
       "size_gb": 3.85
-    },
-    {
-      "name": "Grace of Letoile [Damage x2 - Grace of Letoile] [US]",
-      "filename": "Grace of Letoile [Damage x2 - Grace of Letoile] [0100CAC01C3ED003][v0][US].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "e",
-      "path": "/e/Grace of Letoile [Damage x2 - Grace of Letoile] [0100CAC01C3ED003][v0][US].nsp",
-      "image": "images/0100CAC01C3ED003.png",
-      "size_bytes": 121040,
-      "size_mb": 0.12,
-      "size_gb": 0.0
     },
     {
       "name": "Guacamelee! 2",
@@ -3628,18 +3423,6 @@
       "size_gb": 2.58
     },
     {
-      "name": "No More Heroes 3 [Special CAT overseas ver T-shirt]",
-      "filename": "No More Heroes 3 [Special CAT overseas ver T-shirt] [01007C600EB43006][v0].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "e",
-      "path": "/e/No More Heroes 3 [Special CAT overseas ver T-shirt] [01007C600EB43006][v0].nsp",
-      "image": "images/01007C600EB43006.png",
-      "size_bytes": 121040,
-      "size_mb": 0.12,
-      "size_gb": 0.0
-    },
-    {
       "name": "No More Heroes +[v1.1.1]",
       "filename": "No More Heroes [0100F0400F202000]+[v1.1.1].xci",
       "type": "xci",
@@ -3996,18 +3779,6 @@
       "image": "images/0100BC0018138000.webp"
     },
     {
-      "name": "Super Monkey Ball Banana Mania [Golden Banana Mode] v0][US]",
-      "filename": "Super Monkey Ball Banana Mania [Golden Banana Mode] v0][US].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "e",
-      "path": "/e/Super Monkey Ball Banana Mania [Golden Banana Mode] v0][US].nsp",
-      "image": "images/Super_Monkey_Ball_Banana_Mania_v0_.png",
-      "size_bytes": 121040,
-      "size_mb": 0.12,
-      "size_gb": 0.0
-    },
-    {
       "name": "Super Monkey Ball Banana Mania",
       "filename": "Super Monkey Ball Banana Mania [v0].nsp",
       "type": "nsp",
@@ -4146,17 +3917,6 @@
       "size_bytes": 3157159248,
       "size_mb": 3010.9,
       "size_gb": 2.94
-    },
-    {
-      "name": "Urban Flow [Urban Flow - London Rules] [US]",
-      "filename": "Urban Flow [Urban Flow - London Rules] [0100B110109F9003][v0][US].nsp",
-      "type": "nsp",
-      "category": "base",
-      "drive": "e",
-      "path": "/e/Urban Flow [Urban Flow - London Rules] [0100B110109F9003][v0][US].nsp",
-      "size_bytes": 121040,
-      "size_mb": 0.12,
-      "size_gb": 0.0
     },
     {
       "name": "Yoshi's Crafted World [01006000040c2000]",
