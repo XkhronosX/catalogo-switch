@@ -1807,6 +1807,21 @@ def generate_html(games, total, d_count, e_count, nsp_count, xci_count, base_cou
     with open('catalogo-juegos-switch-completo.html', 'w', encoding='utf-8') as f:
         f.write(html)
 
+    with open('index.html', 'w', encoding='utf-8') as f:
+        f.write("""<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="refresh" content="0; url=catalogo-juegos-switch-completo.html">
+    <title>Catálogo Nintendo Switch</title>
+</head>
+<body>
+    <p>Abriendo el catálogo. Si no se abre automáticamente, <a href="catalogo-juegos-switch-completo.html">toca aquí</a>.</p>
+</body>
+</html>
+""")
+
     print("✅ HTML guardado: catalogo-juegos-switch-completo.html")
 
 

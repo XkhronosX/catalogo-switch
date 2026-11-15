@@ -209,7 +209,7 @@ def generate_html(games, total, d_count, e_count, nsp_count, xci_count, base_cou
         if game.get('image') and cat == 'base':
             img_path = game['image']
             # Verificar si el archivo existe
-            img_html = f'<img class="game-image" src="{img_path}" alt="{name_escaped}" loading="lazy" onerror="this.style.display=\'none\'; this.nextElementSibling.style.display=\'flex\'"><div class="game-image-placeholder" style="display:none">{PLACEHOLDER_SVGS.get(cat, PLACEHOLDER_SVGS["base"])}</div>'
+            img_html = f'<img class="game-image" data-src="{img_path}" alt="{name_escaped}" onerror="this.style.display=\'none\'; this.nextElementSibling.style.display=\'flex\'"><div class="game-image-placeholder" style="display:none">{PLACEHOLDER_SVGS.get(cat, PLACEHOLDER_SVGS["base"])}</div>'
         else:
             if cat == 'base' and game['type'] == 'xci':
                 placeholder = PLACEHOLDER_SVGS['xci']
@@ -265,6 +265,28 @@ def generate_html(games, total, d_count, e_count, nsp_count, xci_count, base_cou
         function getDrive(el) { return el.dataset.drive; }
         function getName(el) { return el.dataset.name; }
 
+        function loadVisibleImages() {
+            document.querySelectorAll('img.game-image[data-src]').forEach(image => {
+                const rect = image.getBoundingClientRect();
+                if (rect.width && rect.height && rect.top < window.innerHeight + 200 && rect.bottom > -200) {
+                    image.src = image.dataset.src;
+                    image.removeAttribute('data-src');
+                }
+            });
+        }
+
+        let imageScanTimer = null;
+        function scheduleImageLoading() {
+            if (imageScanTimer !== null) return;
+            imageScanTimer = window.setTimeout(() => {
+                imageScanTimer = null;
+                loadVisibleImages();
+            }, 100);
+        }
+
+        window.addEventListener('scroll', scheduleImageLoading);
+        window.addEventListener('resize', scheduleImageLoading);
+
         function filterGames() {
             let visible = 0;
             allGames.forEach(el => {
@@ -290,43 +312,44 @@ def generate_html(games, total, d_count, e_count, nsp_count, xci_count, base_cou
                 noResults.style.display = 'none';
             }
 
-            resultsCount.textContent = `Mostrando ${visible.toLocaleString()} de {total:,} juegos base`;
+            resultsCount.textContent = `Mostrando ${visible.toLocaleString()} de ${allGames.length.toLocaleString()} juegos base`;
             updateActiveFilters();
+            loadVisibleImages();
         }
 
-        function updateActiveFilters() {{
-            const labels = {{ 'base': 'Juegos Base' }};
+        function updateActiveFilters() {
+            const labels = { 'base': 'Juegos Base' };
             let activeLabels = [];
             if (activeFilter !== 'base') activeLabels.push(labels[activeFilter]);
-            if (searchTerm) activeLabels.push(`Busqueda: "${{searchTerm}}"`);
-            activeFiltersEl.textContent = activeLabels.length ? `Filtros: ${{activeLabels.join(' • ')}}` : '';
-        }}
+            if (searchTerm) activeLabels.push(`Busqueda: "${searchTerm}"`);
+            activeFiltersEl.textContent = activeLabels.length ? `Filtros: ${activeLabels.join(' • ')}` : '';
+        }
 
-        searchInput.addEventListener('input', (e) => {{ searchTerm = e.target.value; filterGames(); }});
+        searchInput.addEventListener('input', (e) => { searchTerm = e.target.value; filterGames(); });
 
-        filterBtns.forEach(btn => {{
-            btn.addEventListener('click', () => {{
+        filterBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
                 filterBtns.forEach(b => b.classList.remove('active'));
                 btn.classList.add('active');
                 activeFilter = btn.dataset.filter;
                 filterGames();
-            }});
-        }});
+            });
+        });
 
-        viewBtns.forEach(btn => {{
-            btn.addEventListener('click', () => {{
+        viewBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
                 viewBtns.forEach(b => b.classList.remove('active'));
                 btn.classList.add('active');
                 currentView = btn.dataset.view;
                 grid.classList.toggle('list-view', currentView === 'list');
-            }});
-        }});
+            });
+        });
 
-        document.addEventListener('keydown', (e) => {{
+        document.addEventListener('keydown', (e) => {
             if (e.target === searchInput) return;
-            if (e.key === '/') {{ e.preventDefault(); searchInput.focus(); }}
-            if (e.key === 'Escape') {{ searchInput.value = ''; searchTerm = ''; searchInput.blur(); filterGames(); }}
-        }});
+            if (e.key === '/') { e.preventDefault(); searchInput.focus(); }
+            if (e.key === 'Escape') { searchInput.value = ''; searchTerm = ''; searchInput.blur(); filterGames(); }
+        });
 
         filterGames();
     </script>
@@ -335,6 +358,21 @@ def generate_html(games, total, d_count, e_count, nsp_count, xci_count, base_cou
 
     with open('catalogo-juegos-switch-completo.html', 'w', encoding='utf-8') as f:
         f.write(html)
+
+    with open('index.html', 'w', encoding='utf-8') as f:
+        f.write("""<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="refresh" content="0; url=catalogo-juegos-switch-completo.html">
+    <title>Catálogo Nintendo Switch</title>
+</head>
+<body>
+    <p>Abriendo el catálogo. Si no se abre automáticamente, <a href="catalogo-juegos-switch-completo.html">toca aquí</a>.</p>
+</body>
+</html>
+""")
 
     print(f"[OK] HTML generado: catalogo-juegos-switch-completo.html")
 
